@@ -1,1 +1,72 @@
-﻿[{"msdyn_indstoreidentifier":"StoreId_000_demo","msdyn_indname":"Bellows College Fashion - New York","msdyn_inddescription":"Bellows College Fashion, nestled in the heart of New York, NY, is a premium destination for sophisticated, trend-forward apparel and accessories. Specializing in timeless collegiate-inspired designs with a modern twist, the store caters to discerning customers seeking elegance, quality, and originality. With curated collections, personalized styling services, and exclusive pieces, Bellows College Fashion delivers a distinguished shopping experience for fashion enthusiasts who value craftsmanship and individuality.","msdyn_indlatitude":40.7128,"msdyn_indlongitude":-74.006,"msdyn_indlocation":"635 Main Street, New York, NY 26024, USA","msdyn_indlocaltimezone":"America/New_York","msdyn_indcountrycode":"US","msdyn_indstoreopeningtime":"09:00","msdyn_indstoreclosingtime":"21:00"},{"msdyn_indstoreidentifier":"StoreId_001_demo","msdyn_indname":"Fourth Coffee Style - Los Angeles","msdyn_inddescription":"Nestled in the heart of Los Angeles, Fourth Coffee Style is a premium fashion boutique that blends timeless elegance with modern trends. Catering to style-savvy professionals and fashion enthusiasts, the store specializes in curated collections of high-quality apparel, accessories, and footwear. Known for its personalized styling services and exclusive designer collaborations, Fourth Coffee Style offers an elevated shopping experience that celebrates individuality and sophistication.","msdyn_indlatitude":34.0522,"msdyn_indlongitude":-118.2437,"msdyn_indlocation":"753 Main Street, Los Angeles, CA 46478, USA","msdyn_indlocaltimezone":"America/Los_Angeles","msdyn_indcountrycode":"US","msdyn_indstoreopeningtime":"09:00","msdyn_indstoreclosingtime":"21:00"}]
+[
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "Contoso - New York",
+    "msdyn_inddescription": "Located in the heart of New York City, Contoso is a flagship destination for modern urban professionals seeking refined, go‑anywhere style. The store curates tailored essentials, elevated streetwear, and statement outerwear designed for fast‑paced days that move from subway commutes to client meetings to evenings out. Personal styling and quick tailoring services help customers walk out fully dressed for whatever the city brings.",
+    "msdyn_indstoreopeningtime": "09:00",
+    "msdyn_indstoreclosingtime": "21:00",
+    "msdyn_indlatitude": 40.7128,
+    "msdyn_indlongitude": -74.006,
+    "msdyn_indlocation": "311 Main Street, New York, NY 20230, USA",
+    "msdyn_indlocaltimezone": "America/New_York",
+    "msdyn_indsizetype": "Small",
+    "msdyn_indregion": "Northeast",
+    "msdyn_indcountrycode": "US"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "Fabrikam - Los Angeles",
+    "msdyn_inddescription": "Set along one of Los Angeles’ iconic shopping corridors, Fabrikam blends laid‑back West Coast ease with red‑carpet polish. Here, shoppers find lightweight layers, premium denim, and trend‑driven looks inspired by studio life, beach culture, and nighttime events. Spacious fitting suites, curbside pickup, and bookable styling sessions cater to creators, stylists, and on the move Angelenos.",
+    "msdyn_indstoreopeningtime": "09:00",
+    "msdyn_indstoreclosingtime": "21:00",
+    "msdyn_indlatitude": 34.0522,
+    "msdyn_indlongitude": -118.2437,
+    "msdyn_indlocation": "425 Main Street, Los Angeles, CA 65887, USA",
+    "msdyn_indlocaltimezone": "America/Los_Angeles",
+    "msdyn_indsizetype": "Large",
+    "msdyn_indregion": "West",
+    "msdyn_indcountrycode": "US"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "Lakeshore Retail - Chicago",
+    "msdyn_inddescription": "In the center of downtown Chicago, Lakeshore Retail specializes in versatile, weather‑ready style for the city’s shifting seasons. The assortment highlights technical outerwear, cozy knits, office‑ready separates, and cold‑weather accessories curated for lakefront winds and transit‑heavy commutes. Associates focus on building layered looks that stay warm without sacrificing the sharp, modern Chicago silhouette.",
+    "msdyn_indstoreopeningtime": "09:00",
+    "msdyn_indstoreclosingtime": "21:00",
+    "msdyn_indlatitude": 41.8781,
+    "msdyn_indlongitude": -87.6298,
+    "msdyn_indlocation": "673 Main Street, Chicago, IL 76548, USA",
+    "msdyn_indlocaltimezone": "America/Chicago",
+    "msdyn_indsizetype": "Large",
+    "msdyn_indregion": "Midwest",
+    "msdyn_indcountrycode": "US"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "World Wide Importers - Houston",
+    "msdyn_inddescription": "Located in Houston’s diverse and fast‑growing retail district, World Wide Importers brings a globally inspired assortment of breathable fabrics, bold colors, and occasionwear designed for warm climates. The store features wide aisles, family‑friendly layouts, and expanded evening hours, offering everything from polished business casual to game‑day looks. Quick pickup and drive‑up services make shopping easy across Houston’s car‑centric landscape.",
+    "msdyn_indstoreopeningtime": "09:00",
+    "msdyn_indstoreclosingtime": "21:00",
+    "msdyn_indlatitude": 29.7604,
+    "msdyn_indlongitude": -95.3698,
+    "msdyn_indlocation": "636 Main Street, Houston, TX 86315, USA",
+    "msdyn_indlocaltimezone": "America/Chicago",
+    "msdyn_indsizetype": "Small",
+    "msdyn_indregion": "South",
+    "msdyn_indcountrycode": "US"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "Adventure Works - Phoenix",
+    "msdyn_inddescription": "Situated in a high‑traffic Phoenix shopping hub, Adventure Works is a destination for desert‑ready activewear and everyday athleisure. The store blends technical performance apparel with trail‑inspired lifestyle pieces designed for sun protection, ventilation, and quick‑dry comfort. Merchandising zones are organized by activity—commuting, gym, hiking, and weekend outings—helping customers dress for life in Arizona’s heat, from office AC to evening patios.",
+    "msdyn_indstoreopeningtime": "09:00",
+    "msdyn_indstoreclosingtime": "21:00",
+    "msdyn_indlatitude": 33.4484,
+    "msdyn_indlongitude": -112.074,
+    "msdyn_indlocation": "163 Main Street, Phoenix, AZ 89014, USA",
+    "msdyn_indlocaltimezone": "America/Phoenix",
+    "msdyn_indsizetype": "Small",
+    "msdyn_indregion": "West",
+    "msdyn_indcountrycode": "US"
+  }
+]
