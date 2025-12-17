@@ -1,0 +1,4802 @@
+[
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo Sales Electronics 2025-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12155.02,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo Sales Clothing 2025-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 19579.9,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo Sales Home & Kitchen 2025-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 11465.15,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo Sales Agriculture 2025-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 19093.96,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo Sales Dairy Products 2025-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 15762.31,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo Sales Furniture 2025-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 19093.72,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo Sales Toys 2025-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 16816.38,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo Sales Books 2025-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 17889.94,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo Sales Electronics 2025-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 11666.04,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo Sales Clothing 2025-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 10516.7,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo Sales Home & Kitchen 2025-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 10349.71,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo Sales Agriculture 2025-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 14566.59,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo Sales Dairy Products 2025-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 17479.23,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo Sales Furniture 2025-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 11515.44,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo Sales Toys 2025-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 19406.35,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo Sales Books 2025-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 13500.24,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo Sales Electronics 2024-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 18349.52,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo Sales Clothing 2024-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 16228.96,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo Sales Home & Kitchen 2024-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 15996.18,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo Sales Agriculture 2024-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12152.21,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo Sales Dairy Products 2024-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12062.45,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo Sales Furniture 2024-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 17298.52,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo Sales Toys 2024-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12885.01,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo Sales Books 2024-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 16572.49,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo Sales Electronics 2024-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 16811.04,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo Sales Clothing 2024-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 10354.35,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo Sales Home & Kitchen 2024-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 10753.78,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo Sales Agriculture 2024-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 11960.78,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo Sales Dairy Products 2024-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 18928.04,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo Sales Furniture 2024-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 13359.31,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo Sales Toys 2024-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 11256.02,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo Sales Books 2024-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 18084.18,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo AOV Electronics 2025-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 115.21,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo AOV Clothing 2025-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 38.55,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo AOV Home & Kitchen 2025-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 93.0,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo AOV Agriculture 2025-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 61.5,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo AOV Dairy Products 2025-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 63.76,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo AOV Furniture 2025-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 50.64,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo AOV Toys 2025-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 190.24,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo AOV Books 2025-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 95.39,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo AOV Electronics 2025-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 147.24,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo AOV Clothing 2025-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 38.61,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo AOV Home & Kitchen 2025-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 37.18,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo AOV Agriculture 2025-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 141.52,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo AOV Dairy Products 2025-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 116.5,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo AOV Furniture 2025-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 192.15,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo AOV Toys 2025-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 134.15,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo AOV Books 2025-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 121.41,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo AOV Electronics 2024-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 149.32,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo AOV Clothing 2024-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 119.11,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo AOV Home & Kitchen 2024-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 40.64,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo AOV Agriculture 2024-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 76.52,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo AOV Dairy Products 2024-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 116.43,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo AOV Furniture 2024-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 78.56,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo AOV Toys 2024-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 105.88,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo AOV Books 2024-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 95.63,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo AOV Electronics 2024-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 158.95,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo AOV Clothing 2024-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 178.24,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo AOV Home & Kitchen 2024-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 186.07,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo AOV Agriculture 2024-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 140.59,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo AOV Dairy Products 2024-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 67.51,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo AOV Furniture 2024-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 162.88,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo AOV Toys 2024-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 44.11,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo AOV Books 2024-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 106.18,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo GM Electronics 2025-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 9.65,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo GM Clothing 2025-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 10.05,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo GM Home & Kitchen 2025-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 0.32,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo GM Agriculture 2025-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 13.89,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo GM Dairy Products 2025-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 0.86,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo GM Furniture 2025-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 17.86,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo GM Toys 2025-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 12.54,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo GM Books 2025-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 16.53,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo GM Electronics 2025-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 5.9,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo GM Clothing 2025-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 9.29,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo GM Home & Kitchen 2025-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 10.94,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo GM Agriculture 2025-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 16.32,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo GM Dairy Products 2025-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 15.14,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo GM Furniture 2025-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 16.42,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo GM Toys 2025-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 17.13,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo GM Books 2025-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 1.52,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo GM Electronics 2024-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 12.43,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo GM Clothing 2024-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 17.52,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo GM Home & Kitchen 2024-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 8.7,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo GM Agriculture 2024-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 11.72,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo GM Dairy Products 2024-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 1.74,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo GM Furniture 2024-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 10.04,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo GM Toys 2024-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 19.68,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo GM Books 2024-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 11.17,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo GM Electronics 2024-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 17.47,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo GM Clothing 2024-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 12.87,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo GM Home & Kitchen 2024-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 5.99,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo GM Agriculture 2024-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 16.69,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo GM Dairy Products 2024-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 9.83,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo GM Furniture 2024-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 1.4,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo GM Toys 2024-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 17.2,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_000_demo",
+    "msdyn_indname": "StoreId_000_demo GM Books 2024-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 19.53,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo Sales Electronics 2025-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12971.07,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo Sales Clothing 2025-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 15041.06,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo Sales Home & Kitchen 2025-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 11512.53,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo Sales Agriculture 2025-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 11827.54,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo Sales Dairy Products 2025-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 17444.03,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo Sales Furniture 2025-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12807.85,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo Sales Toys 2025-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 16326.04,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo Sales Books 2025-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 13139.95,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo Sales Electronics 2025-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 19765.25,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo Sales Clothing 2025-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 18902.21,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo Sales Home & Kitchen 2025-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 11420.48,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo Sales Agriculture 2025-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 16465.97,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo Sales Dairy Products 2025-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 17163.93,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo Sales Furniture 2025-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12392.47,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo Sales Toys 2025-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 11838.84,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo Sales Books 2025-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 16490.21,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo Sales Electronics 2024-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 16522.74,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo Sales Clothing 2024-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 19166.04,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo Sales Home & Kitchen 2024-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12086.67,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo Sales Agriculture 2024-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 19935.52,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo Sales Dairy Products 2024-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 11385.68,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo Sales Furniture 2024-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 19140.29,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo Sales Toys 2024-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 18538.13,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo Sales Books 2024-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12328.01,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo Sales Electronics 2024-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 15925.19,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo Sales Clothing 2024-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 10595.16,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo Sales Home & Kitchen 2024-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12950.0,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo Sales Agriculture 2024-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12584.91,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo Sales Dairy Products 2024-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12465.0,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo Sales Furniture 2024-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 11500.07,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo Sales Toys 2024-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 10182.11,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo Sales Books 2024-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 13095.43,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo AOV Electronics 2025-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 190.02,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo AOV Clothing 2025-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 73.11,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo AOV Home & Kitchen 2025-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 40.81,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo AOV Agriculture 2025-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 93.2,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo AOV Dairy Products 2025-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 69.92,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo AOV Furniture 2025-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 121.49,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo AOV Toys 2025-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 26.98,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo AOV Books 2025-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 71.08,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo AOV Electronics 2025-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 37.28,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo AOV Clothing 2025-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 45.08,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo AOV Home & Kitchen 2025-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 51.96,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo AOV Agriculture 2025-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 129.52,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo AOV Dairy Products 2025-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 80.44,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo AOV Furniture 2025-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 163.46,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo AOV Toys 2025-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 80.33,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo AOV Books 2025-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 106.66,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo AOV Electronics 2024-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 119.48,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo AOV Clothing 2024-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 66.71,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo AOV Home & Kitchen 2024-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 134.85,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo AOV Agriculture 2024-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 156.67,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo AOV Dairy Products 2024-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 85.51,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo AOV Furniture 2024-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 50.83,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo AOV Toys 2024-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 137.53,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo AOV Books 2024-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 166.95,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo AOV Electronics 2024-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 199.88,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo AOV Clothing 2024-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 192.83,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo AOV Home & Kitchen 2024-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 123.12,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo AOV Agriculture 2024-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 145.98,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo AOV Dairy Products 2024-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 143.59,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo AOV Furniture 2024-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 136.53,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo AOV Toys 2024-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 184.57,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo AOV Books 2024-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 50.83,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo GM Electronics 2025-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 1.6,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo GM Clothing 2025-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 12.12,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo GM Home & Kitchen 2025-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 19.8,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo GM Agriculture 2025-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 1.16,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo GM Dairy Products 2025-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 19.2,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo GM Furniture 2025-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 16.5,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo GM Toys 2025-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 11.13,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo GM Books 2025-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 16.58,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo GM Electronics 2025-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 13.5,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo GM Clothing 2025-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 2.84,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo GM Home & Kitchen 2025-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 18.1,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo GM Agriculture 2025-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 16.86,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo GM Dairy Products 2025-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 15.13,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo GM Furniture 2025-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 2.09,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo GM Toys 2025-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 18.98,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo GM Books 2025-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 5.3,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo GM Electronics 2024-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 10.59,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo GM Clothing 2024-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 14.65,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo GM Home & Kitchen 2024-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 15.72,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo GM Agriculture 2024-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 9.79,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo GM Dairy Products 2024-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 10.63,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo GM Furniture 2024-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 19.68,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo GM Toys 2024-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 5.1,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo GM Books 2024-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 12.04,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo GM Electronics 2024-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 0.46,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo GM Clothing 2024-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 19.4,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo GM Home & Kitchen 2024-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 17.61,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo GM Agriculture 2024-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 5.84,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo GM Dairy Products 2024-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 10.59,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo GM Furniture 2024-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 10.44,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo GM Toys 2024-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 3.61,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_001_demo",
+    "msdyn_indname": "StoreId_001_demo GM Books 2024-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 6.55,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo Sales Electronics 2025-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 10929.74,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo Sales Clothing 2025-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 19792.36,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo Sales Home & Kitchen 2025-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12962.3,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo Sales Agriculture 2025-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 16346.92,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo Sales Dairy Products 2025-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 13954.66,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo Sales Furniture 2025-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 19832.4,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo Sales Toys 2025-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 16468.78,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo Sales Books 2025-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 19235.14,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo Sales Electronics 2025-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 19468.94,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo Sales Clothing 2025-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12294.37,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo Sales Home & Kitchen 2025-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12062.56,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo Sales Agriculture 2025-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12286.65,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo Sales Dairy Products 2025-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 16503.93,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo Sales Furniture 2025-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 16309.25,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo Sales Toys 2025-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 13989.34,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo Sales Books 2025-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 17278.21,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo Sales Electronics 2024-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 15847.71,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo Sales Clothing 2024-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 14981.49,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo Sales Home & Kitchen 2024-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 17073.35,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo Sales Agriculture 2024-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 10586.72,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo Sales Dairy Products 2024-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 13603.1,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo Sales Furniture 2024-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 11183.85,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo Sales Toys 2024-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 13311.35,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo Sales Books 2024-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 13740.96,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo Sales Electronics 2024-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 11293.15,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo Sales Clothing 2024-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 10483.15,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo Sales Home & Kitchen 2024-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 16759.57,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo Sales Agriculture 2024-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 17823.17,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo Sales Dairy Products 2024-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 17202.69,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo Sales Furniture 2024-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 13110.85,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo Sales Toys 2024-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 17628.95,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo Sales Books 2024-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 11931.82,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo AOV Electronics 2025-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 175.93,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo AOV Clothing 2025-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 163.69,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo AOV Home & Kitchen 2025-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 32.37,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo AOV Agriculture 2025-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 106.54,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo AOV Dairy Products 2025-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 197.08,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo AOV Furniture 2025-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 66.58,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo AOV Toys 2025-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 24.86,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo AOV Books 2025-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 172.45,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo AOV Electronics 2025-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 127.46,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo AOV Clothing 2025-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 184.84,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo AOV Home & Kitchen 2025-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 129.06,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo AOV Agriculture 2025-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 33.75,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo AOV Dairy Products 2025-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 38.78,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo AOV Furniture 2025-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 77.65,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo AOV Toys 2025-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 51.94,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo AOV Books 2025-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 27.07,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo AOV Electronics 2024-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 145.44,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo AOV Clothing 2024-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 109.89,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo AOV Home & Kitchen 2024-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 166.11,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo AOV Agriculture 2024-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 79.64,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo AOV Dairy Products 2024-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 41.5,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo AOV Furniture 2024-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 85.28,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo AOV Toys 2024-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 153.19,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo AOV Books 2024-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 66.69,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo AOV Electronics 2024-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 103.67,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo AOV Clothing 2024-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 95.0,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo AOV Home & Kitchen 2024-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 84.84,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo AOV Agriculture 2024-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 59.37,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo AOV Dairy Products 2024-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 110.69,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo AOV Furniture 2024-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 193.22,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo AOV Toys 2024-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 184.87,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo AOV Books 2024-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 59.86,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo GM Electronics 2025-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 10.94,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo GM Clothing 2025-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 17.28,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo GM Home & Kitchen 2025-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 15.87,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo GM Agriculture 2025-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 1.12,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo GM Dairy Products 2025-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 10.31,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo GM Furniture 2025-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 13.17,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo GM Toys 2025-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 5.28,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo GM Books 2025-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 1.73,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo GM Electronics 2025-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 0.72,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo GM Clothing 2025-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 8.33,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo GM Home & Kitchen 2025-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 16.01,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo GM Agriculture 2025-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 12.54,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo GM Dairy Products 2025-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 8.99,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo GM Furniture 2025-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 13.0,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo GM Toys 2025-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 12.27,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo GM Books 2025-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 6.52,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo GM Electronics 2024-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 3.75,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo GM Clothing 2024-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 15.81,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo GM Home & Kitchen 2024-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 6.73,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo GM Agriculture 2024-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 14.14,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo GM Dairy Products 2024-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 11.9,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo GM Furniture 2024-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 16.51,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo GM Toys 2024-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 4.71,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo GM Books 2024-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 12.07,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo GM Electronics 2024-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 2.14,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo GM Clothing 2024-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 7.28,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo GM Home & Kitchen 2024-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 16.41,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo GM Agriculture 2024-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 4.74,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo GM Dairy Products 2024-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 7.79,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo GM Furniture 2024-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 0.58,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo GM Toys 2024-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 6.55,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_002_demo",
+    "msdyn_indname": "StoreId_002_demo GM Books 2024-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 18.1,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo Sales Electronics 2025-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 14894.6,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo Sales Clothing 2025-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 15824.26,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo Sales Home & Kitchen 2025-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 13802.27,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo Sales Agriculture 2025-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 15836.04,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo Sales Dairy Products 2025-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 18527.95,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo Sales Furniture 2025-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12639.2,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo Sales Toys 2025-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 11268.9,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo Sales Books 2025-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 10559.23,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo Sales Electronics 2025-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 17039.3,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo Sales Clothing 2025-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 10522.16,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo Sales Home & Kitchen 2025-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 13803.95,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo Sales Agriculture 2025-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 17791.02,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo Sales Dairy Products 2025-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 19493.24,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo Sales Furniture 2025-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 11524.09,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo Sales Toys 2025-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 17568.93,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo Sales Books 2025-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 14448.46,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo Sales Electronics 2024-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 13772.7,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo Sales Clothing 2024-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 14113.69,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo Sales Home & Kitchen 2024-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 19304.53,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo Sales Agriculture 2024-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12062.69,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo Sales Dairy Products 2024-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 11161.11,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo Sales Furniture 2024-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12299.32,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo Sales Toys 2024-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 10468.82,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo Sales Books 2024-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 10267.49,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo Sales Electronics 2024-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 13081.69,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo Sales Clothing 2024-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 16615.95,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo Sales Home & Kitchen 2024-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 19776.44,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo Sales Agriculture 2024-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 13892.22,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo Sales Dairy Products 2024-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 15609.17,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo Sales Furniture 2024-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 11854.42,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo Sales Toys 2024-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12738.01,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo Sales Books 2024-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 14161.96,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo AOV Electronics 2025-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 161.02,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo AOV Clothing 2025-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 135.91,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo AOV Home & Kitchen 2025-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 29.25,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo AOV Agriculture 2025-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 171.14,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo AOV Dairy Products 2025-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 36.94,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo AOV Furniture 2025-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 101.39,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo AOV Toys 2025-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 177.32,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo AOV Books 2025-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 98.43,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo AOV Electronics 2025-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 120.09,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo AOV Clothing 2025-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 32.64,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo AOV Home & Kitchen 2025-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 32.12,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo AOV Agriculture 2025-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 63.1,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo AOV Dairy Products 2025-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 108.39,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo AOV Furniture 2025-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 140.49,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo AOV Toys 2025-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 166.95,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo AOV Books 2025-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 108.89,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo AOV Electronics 2024-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 26.49,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo AOV Clothing 2024-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 192.51,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo AOV Home & Kitchen 2024-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 133.6,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo AOV Agriculture 2024-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 45.67,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo AOV Dairy Products 2024-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 72.62,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo AOV Furniture 2024-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 34.72,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo AOV Toys 2024-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 84.82,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo AOV Books 2024-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 111.23,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo AOV Electronics 2024-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 41.02,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo AOV Clothing 2024-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 114.68,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo AOV Home & Kitchen 2024-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 48.51,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo AOV Agriculture 2024-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 135.83,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo AOV Dairy Products 2024-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 114.98,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo AOV Furniture 2024-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 60.18,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo AOV Toys 2024-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 170.57,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo AOV Books 2024-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 129.73,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo GM Electronics 2025-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 14.09,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo GM Clothing 2025-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 12.82,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo GM Home & Kitchen 2025-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 11.54,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo GM Agriculture 2025-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 7.32,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo GM Dairy Products 2025-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 5.95,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo GM Furniture 2025-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 3.47,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo GM Toys 2025-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 7.82,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo GM Books 2025-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 7.52,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo GM Electronics 2025-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 5.16,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo GM Clothing 2025-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 18.42,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo GM Home & Kitchen 2025-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 12.6,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo GM Agriculture 2025-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 5.94,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo GM Dairy Products 2025-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 11.6,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo GM Furniture 2025-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 11.19,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo GM Toys 2025-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 12.0,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo GM Books 2025-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 9.47,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo GM Electronics 2024-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 8.42,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo GM Clothing 2024-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 7.62,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo GM Home & Kitchen 2024-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 3.92,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo GM Agriculture 2024-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 7.3,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo GM Dairy Products 2024-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 6.92,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo GM Furniture 2024-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 4.81,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo GM Toys 2024-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 9.84,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo GM Books 2024-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 15.78,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo GM Electronics 2024-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 5.76,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo GM Clothing 2024-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 6.79,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo GM Home & Kitchen 2024-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 13.98,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo GM Agriculture 2024-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 1.55,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo GM Dairy Products 2024-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 1.51,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo GM Furniture 2024-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 19.43,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo GM Toys 2024-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 0.62,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_003_demo",
+    "msdyn_indname": "StoreId_003_demo GM Books 2024-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 2.76,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo Sales Electronics 2025-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 15417.22,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo Sales Clothing 2025-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 11220.19,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo Sales Home & Kitchen 2025-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 10719.63,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo Sales Agriculture 2025-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 18384.66,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo Sales Dairy Products 2025-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 14979.69,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo Sales Furniture 2025-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12284.12,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo Sales Toys 2025-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 15427.48,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo Sales Books 2025-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 15198.76,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo Sales Electronics 2025-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 17158.85,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo Sales Clothing 2025-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 15791.12,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo Sales Home & Kitchen 2025-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 13468.53,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo Sales Agriculture 2025-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 16172.11,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo Sales Dairy Products 2025-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 14963.97,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo Sales Furniture 2025-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 15086.28,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo Sales Toys 2025-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 15399.89,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo Sales Books 2025-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 17337.72,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo Sales Electronics 2024-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 13563.81,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo Sales Clothing 2024-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 13278.74,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo Sales Home & Kitchen 2024-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 10064.59,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo Sales Agriculture 2024-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 15566.8,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo Sales Dairy Products 2024-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 19087.53,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo Sales Furniture 2024-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 14544.16,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo Sales Toys 2024-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 14289.46,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo Sales Books 2024-12-01",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 11451.36,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo Sales Electronics 2024-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12339.32,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo Sales Clothing 2024-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 13273.72,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo Sales Home & Kitchen 2024-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 13590.22,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo Sales Agriculture 2024-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12698.23,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo Sales Dairy Products 2024-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 16756.78,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo Sales Furniture 2024-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 17984.83,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo Sales Toys 2024-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 14966.13,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo Sales Books 2024-12-02",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 15772.0,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo AOV Electronics 2025-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 32.1,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo AOV Clothing 2025-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 73.34,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo AOV Home & Kitchen 2025-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 175.8,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo AOV Agriculture 2025-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 192.49,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo AOV Dairy Products 2025-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 139.06,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo AOV Furniture 2025-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 36.53,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo AOV Toys 2025-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 20.71,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo AOV Books 2025-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 182.78,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo AOV Electronics 2025-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 35.08,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo AOV Clothing 2025-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 135.32,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo AOV Home & Kitchen 2025-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 160.97,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo AOV Agriculture 2025-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 124.32,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo AOV Dairy Products 2025-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 21.41,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo AOV Furniture 2025-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 76.44,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo AOV Toys 2025-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 30.09,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo AOV Books 2025-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 46.66,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo AOV Electronics 2024-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 197.81,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo AOV Clothing 2024-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 178.47,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo AOV Home & Kitchen 2024-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 90.47,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo AOV Agriculture 2024-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 25.72,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo AOV Dairy Products 2024-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 167.3,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo AOV Furniture 2024-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 91.57,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo AOV Toys 2024-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 127.88,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo AOV Books 2024-12-01",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 68.31,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo AOV Electronics 2024-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 137.56,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo AOV Clothing 2024-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 78.61,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo AOV Home & Kitchen 2024-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 67.72,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo AOV Agriculture 2024-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 69.35,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo AOV Dairy Products 2024-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 34.84,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo AOV Furniture 2024-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 77.81,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo AOV Toys 2024-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 139.95,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo AOV Books 2024-12-02",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 50.03,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo GM Electronics 2025-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 0.16,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo GM Clothing 2025-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 2.75,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo GM Home & Kitchen 2025-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 13.0,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo GM Agriculture 2025-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 11.53,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo GM Dairy Products 2025-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 6.28,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo GM Furniture 2025-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 1.28,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo GM Toys 2025-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 2.43,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo GM Books 2025-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 11.43,
+    "msdyn_indkpidate": "2025-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo GM Electronics 2025-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 1.94,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo GM Clothing 2025-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 13.64,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo GM Home & Kitchen 2025-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 13.82,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo GM Agriculture 2025-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 8.88,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo GM Dairy Products 2025-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 12.3,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo GM Furniture 2025-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 15.52,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo GM Toys 2025-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 5.53,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo GM Books 2025-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 0.15,
+    "msdyn_indkpidate": "2025-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo GM Electronics 2024-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 6.91,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo GM Clothing 2024-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 0.4,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo GM Home & Kitchen 2024-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 12.15,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo GM Agriculture 2024-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 4.72,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo GM Dairy Products 2024-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 3.24,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo GM Furniture 2024-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 11.23,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo GM Toys 2024-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 11.51,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo GM Books 2024-12-01",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 19.43,
+    "msdyn_indkpidate": "2024-12-01",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo GM Electronics 2024-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Electronics",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 15.42,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo GM Clothing 2024-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Clothing",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 12.96,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo GM Home & Kitchen 2024-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Home & Kitchen",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 12.62,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo GM Agriculture 2024-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Agriculture",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 4.1,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo GM Dairy Products 2024-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Dairy Products",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 5.5,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo GM Furniture 2024-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Furniture",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 0.4,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo GM Toys 2024-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Toys",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 8.53,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  },
+  {
+    "msdyn_indstoreidentifier": "StoreId_004_demo",
+    "msdyn_indname": "StoreId_004_demo GM Books 2024-12-02",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indcategoryname": "Books",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 12.66,
+    "msdyn_indkpidate": "2024-12-02",
+    "msdyn_indsortorder": "true"
+  }
+]
