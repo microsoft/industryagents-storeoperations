@@ -1,0 +1,622 @@
+[
+  {
+    "msdyn_indpreferenceid": "a46b9592-230b-40a5-aa23-3bdd58aba3c2",
+    "msdyn_indname": "Avoid Men's Apparel Items",
+    "msdyn_indtype": "Avoid",
+    "msdyn_inddescription": "Preferences to Avoid Men's Apparel items in store recommendations.",
+    "msdyn_indcategories": "Men's Apparel",
+    "msdyn_indisactive": "FALSE",
+    "msdyn_inddeactivationreason": "Out of Stock",
+    "msdyn_indstoreid": "StoreId_000_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "64fef81f-bbad-4032-aaf1-9f7fb2f16b57",
+    "msdyn_indname": "Recommend Women's Apparel Items",
+    "msdyn_indtype": "Recommend",
+    "msdyn_inddescription": "Preferences to Recommend Women's Apparel items in store recommendations.",
+    "msdyn_indcategories": "Women's Apparel",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_000_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "2ac1f193-60cf-48fc-bd52-5589f59a1e2a",
+    "msdyn_indname": "Avoid Footwear Items",
+    "msdyn_indtype": "Avoid",
+    "msdyn_inddescription": "Preferences to Avoid Footwear items in store recommendations.",
+    "msdyn_indcategories": "Footwear",
+    "msdyn_indisactive": "FALSE",
+    "msdyn_inddeactivationreason": "Seasonal Unavailability",
+    "msdyn_indstoreid": "StoreId_000_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "44c61f37-5b3b-4fad-8e0f-8dd3ac200a32",
+    "msdyn_indname": "Promote Outerwear Items",
+    "msdyn_indtype": "Promote",
+    "msdyn_inddescription": "Preferences to Promote Outerwear items in store recommendations.",
+    "msdyn_indcategories": "Outerwear",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_000_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "b690a82a-1d71-441f-8465-9580aca6a916",
+    "msdyn_indname": "Recommend Accessories Items",
+    "msdyn_indtype": "Recommend",
+    "msdyn_inddescription": "Preferences to Recommend Accessories items in store recommendations.",
+    "msdyn_indcategories": "Accessories",
+    "msdyn_indisactive": "FALSE",
+    "msdyn_inddeactivationreason": "Out of Stock",
+    "msdyn_indstoreid": "StoreId_000_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "3f04bed5-7e8b-4eea-8451-6c574f0496ea",
+    "msdyn_indname": "Highlight Bags Items",
+    "msdyn_indtype": "Highlight",
+    "msdyn_inddescription": "Preferences to Highlight Bags items in store recommendations.",
+    "msdyn_indcategories": "Bags",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_000_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "4edc3303-e74e-4538-95c1-b20e7894bcd6",
+    "msdyn_indname": "Include Small Leather Goods Items",
+    "msdyn_indtype": "Include",
+    "msdyn_inddescription": "Preferences to Include Small Leather Goods items in store recommendations.",
+    "msdyn_indcategories": "Small Leather Goods",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_000_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "9df7fd81-1690-4005-906d-7006c16a1598",
+    "msdyn_indname": "Avoid Jewelry Items",
+    "msdyn_indtype": "Avoid",
+    "msdyn_inddescription": "Preferences to Avoid Jewelry items in store recommendations.",
+    "msdyn_indcategories": "Jewelry",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_000_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "cc52f664-ade0-45f6-a132-d09c4e88942f",
+    "msdyn_indname": "Exclude Watches Items",
+    "msdyn_indtype": "Exclude",
+    "msdyn_inddescription": "Preferences to Exclude Watches items in store recommendations.",
+    "msdyn_indcategories": "Watches",
+    "msdyn_indisactive": "FALSE",
+    "msdyn_inddeactivationreason": "Discontinued",
+    "msdyn_indstoreid": "StoreId_000_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "95765585-b503-4e75-8aac-c61198f5cbd4",
+    "msdyn_indname": "Include Tech Essentials Items",
+    "msdyn_indtype": "Include",
+    "msdyn_inddescription": "Preferences to Include Tech Essentials items in store recommendations.",
+    "msdyn_indcategories": "Tech Essentials",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_000_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "2cd98340-6d56-44bc-9b5a-4b8f201b9e15",
+    "msdyn_indname": "Recommend Home & Lifestyle Items",
+    "msdyn_indtype": "Recommend",
+    "msdyn_inddescription": "Preferences to Recommend Home & Lifestyle items in store recommendations.",
+    "msdyn_indcategories": "Home & Lifestyle",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_000_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "d7615b18-ea76-436d-98e7-27bb3224dba3",
+    "msdyn_indname": "Exclude Tops Items",
+    "msdyn_indtype": "Exclude",
+    "msdyn_inddescription": "Preferences to Exclude Tops items in store recommendations.",
+    "msdyn_indcategories": "Tops",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_001_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "6fc24c6d-1647-49bc-accb-968fe6a8d94a",
+    "msdyn_indname": "Recommend Bottoms Items",
+    "msdyn_indtype": "Recommend",
+    "msdyn_inddescription": "Preferences to Recommend Bottoms items in store recommendations.",
+    "msdyn_indcategories": "Bottoms",
+    "msdyn_indisactive": "FALSE",
+    "msdyn_inddeactivationreason": "Out of Stock",
+    "msdyn_indstoreid": "StoreId_001_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "b68f1131-0633-4bc5-94a9-cf166ca75cd8",
+    "msdyn_indname": "Highlight Denim Items",
+    "msdyn_indtype": "Highlight",
+    "msdyn_inddescription": "Preferences to Highlight Denim items in store recommendations.",
+    "msdyn_indcategories": "Denim",
+    "msdyn_indisactive": "FALSE",
+    "msdyn_inddeactivationreason": "Supplier Issues",
+    "msdyn_indstoreid": "StoreId_001_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "53be049d-3ccb-4749-a501-093a13fe3a69",
+    "msdyn_indname": "Promote Dresses & Jumpsuits Items",
+    "msdyn_indtype": "Promote",
+    "msdyn_inddescription": "Preferences to Promote Dresses & Jumpsuits items in store recommendations.",
+    "msdyn_indcategories": "Dresses & Jumpsuits",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_001_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "1e588db4-dbe1-403e-9eca-c7009aac04db",
+    "msdyn_indname": "Recommend Outerwear Items",
+    "msdyn_indtype": "Recommend",
+    "msdyn_inddescription": "Preferences to Recommend Outerwear items in store recommendations.",
+    "msdyn_indcategories": "Outerwear",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_001_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "0df2b357-373d-4b22-86c2-037606eb50d3",
+    "msdyn_indname": "Promote Footwear Items",
+    "msdyn_indtype": "Promote",
+    "msdyn_inddescription": "Preferences to Promote Footwear items in store recommendations.",
+    "msdyn_indcategories": "Footwear",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_001_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "fe6b9905-c10f-407e-8f96-72ed66d6aa81",
+    "msdyn_indname": "Exclude Swim & Beach Items",
+    "msdyn_indtype": "Exclude",
+    "msdyn_inddescription": "Preferences to Exclude Swim & Beach items in store recommendations.",
+    "msdyn_indcategories": "Swim & Beach",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_001_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "c36f8030-d01b-4ca5-9f06-972b980d0092",
+    "msdyn_indname": "Highlight Accessories Items",
+    "msdyn_indtype": "Highlight",
+    "msdyn_inddescription": "Preferences to Highlight Accessories items in store recommendations.",
+    "msdyn_indcategories": "Accessories",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_001_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "76775705-bc8b-4ac8-aad0-a4ee46659ed1",
+    "msdyn_indname": "Highlight Jewelry Items",
+    "msdyn_indtype": "Highlight",
+    "msdyn_inddescription": "Preferences to Highlight Jewelry items in store recommendations.",
+    "msdyn_indcategories": "Jewelry",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_001_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "e009c125-6423-464d-9df9-342d3ec93462",
+    "msdyn_indname": "Highlight Active & Studio Items",
+    "msdyn_indtype": "Highlight",
+    "msdyn_inddescription": "Preferences to Highlight Active & Studio items in store recommendations.",
+    "msdyn_indcategories": "Active & Studio",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_001_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "a8241319-d820-4bfd-95e2-8ea6cc03f50d",
+    "msdyn_indname": "Highlight Lounge & Home Items",
+    "msdyn_indtype": "Highlight",
+    "msdyn_inddescription": "Preferences to Highlight Lounge & Home items in store recommendations.",
+    "msdyn_indcategories": "Lounge & Home",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_001_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "d2286a3a-1e8d-44c8-b6e8-7c407480f58b",
+    "msdyn_indname": "Highlight Tech & Travel Items",
+    "msdyn_indtype": "Highlight",
+    "msdyn_inddescription": "Preferences to Highlight Tech & Travel items in store recommendations.",
+    "msdyn_indcategories": "Tech & Travel",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_001_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "70d6b1ea-3e83-446f-a265-520441a906bc",
+    "msdyn_indname": "Highlight Beauty & Grooming Items",
+    "msdyn_indtype": "Highlight",
+    "msdyn_inddescription": "Preferences to Highlight Beauty & Grooming items in store recommendations.",
+    "msdyn_indcategories": "Beauty & Grooming",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_001_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "acd93ddb-eabc-4f23-9f38-7680d2496f30",
+    "msdyn_indname": "Avoid Event & Night Items",
+    "msdyn_indtype": "Avoid",
+    "msdyn_inddescription": "Preferences to Avoid Event & Night items in store recommendations.",
+    "msdyn_indcategories": "Event & Night",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_001_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "849ffce9-0e32-4fce-b9fe-f3489403c4c0",
+    "msdyn_indname": "Avoid Kids Items",
+    "msdyn_indtype": "Avoid",
+    "msdyn_inddescription": "Preferences to Avoid Kids items in store recommendations.",
+    "msdyn_indcategories": "Kids",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_001_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "f6d2c83e-9b36-4cf5-8f4b-53a21d396507",
+    "msdyn_indname": "Avoid Technical Outerwear Items",
+    "msdyn_indtype": "Avoid",
+    "msdyn_inddescription": "Preferences to Avoid Technical Outerwear items in store recommendations.",
+    "msdyn_indcategories": "Technical Outerwear",
+    "msdyn_indisactive": "FALSE",
+    "msdyn_inddeactivationreason": "Supplier Issues",
+    "msdyn_indstoreid": "StoreId_002_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "2310e104-ab5d-4cf1-8409-87f2f3dc4894",
+    "msdyn_indname": "Recommend Classic Coats Items",
+    "msdyn_indtype": "Recommend",
+    "msdyn_inddescription": "Preferences to Recommend Classic Coats items in store recommendations.",
+    "msdyn_indcategories": "Classic Coats",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_002_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "ee61ff51-1b97-4d78-864c-32965c97f940",
+    "msdyn_indname": "Recommend Knitwear Items",
+    "msdyn_indtype": "Recommend",
+    "msdyn_inddescription": "Preferences to Recommend Knitwear items in store recommendations.",
+    "msdyn_indcategories": "Knitwear",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_002_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "77aa2016-293a-4a0e-9700-643e047f2c3d",
+    "msdyn_indname": "Promote Shirts & Tops Items",
+    "msdyn_indtype": "Promote",
+    "msdyn_inddescription": "Preferences to Promote Shirts & Tops items in store recommendations.",
+    "msdyn_indcategories": "Shirts & Tops",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_002_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "33d9d457-225b-4af2-999e-8780d7089014",
+    "msdyn_indname": "Include Tailored Bottoms Items",
+    "msdyn_indtype": "Include",
+    "msdyn_inddescription": "Preferences to Include Tailored Bottoms items in store recommendations.",
+    "msdyn_indcategories": "Tailored Bottoms",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_002_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "539a2d68-f105-4ba8-8fe8-993dc45bbed4",
+    "msdyn_indname": "Exclude Dresses & Skirts Items",
+    "msdyn_indtype": "Exclude",
+    "msdyn_inddescription": "Preferences to Exclude Dresses & Skirts items in store recommendations.",
+    "msdyn_indcategories": "Dresses & Skirts",
+    "msdyn_indisactive": "FALSE",
+    "msdyn_inddeactivationreason": "Discontinued",
+    "msdyn_indstoreid": "StoreId_002_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "338b291b-505a-4637-a833-70683c225a44",
+    "msdyn_indname": "Recommend Tailoring & Blazers Items",
+    "msdyn_indtype": "Recommend",
+    "msdyn_inddescription": "Preferences to Recommend Tailoring & Blazers items in store recommendations.",
+    "msdyn_indcategories": "Tailoring & Blazers",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_002_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "442d543f-a539-46b1-b352-d69dac9c832b",
+    "msdyn_indname": "Include Footwear Items",
+    "msdyn_indtype": "Include",
+    "msdyn_inddescription": "Preferences to Include Footwear items in store recommendations.",
+    "msdyn_indcategories": "Footwear",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_002_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "b09d39de-dd4a-4f7d-b64f-046750ee5ed3",
+    "msdyn_indname": "Avoid Cold‑Weather Accessories Items",
+    "msdyn_indtype": "Avoid",
+    "msdyn_inddescription": "Preferences to Avoid Cold‑Weather Accessories items in store recommendations.",
+    "msdyn_indcategories": "Cold‑Weather Accessories",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_002_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "7462a340-6d9c-48f7-ac96-f675f5be7b44",
+    "msdyn_indname": "Promote Layering Essentials Items",
+    "msdyn_indtype": "Promote",
+    "msdyn_inddescription": "Preferences to Promote Layering Essentials items in store recommendations.",
+    "msdyn_indcategories": "Layering Essentials",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_002_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "5382182c-5fb4-4e8e-a753-29b785f791e3",
+    "msdyn_indname": "Include Rainwear & Windproof Items",
+    "msdyn_indtype": "Include",
+    "msdyn_inddescription": "Preferences to Include Rainwear & Windproof items in store recommendations.",
+    "msdyn_indcategories": "Rainwear & Windproof",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_002_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "19e4af92-b87b-4b0e-89aa-fdee72e5db70",
+    "msdyn_indname": "Avoid Commuter Accessories Items",
+    "msdyn_indtype": "Avoid",
+    "msdyn_inddescription": "Preferences to Avoid Commuter Accessories items in store recommendations.",
+    "msdyn_indcategories": "Commuter Accessories",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_002_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "efdaa6ea-d124-4944-9738-0f168a99d2f0",
+    "msdyn_indname": "Avoid Men's Apparel Items",
+    "msdyn_indtype": "Avoid",
+    "msdyn_inddescription": "Preferences to Avoid Men's Apparel items in store recommendations.",
+    "msdyn_indcategories": "Men's Apparel",
+    "msdyn_indisactive": "FALSE",
+    "msdyn_inddeactivationreason": "Quality Concerns",
+    "msdyn_indstoreid": "StoreId_003_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "b2117615-d826-4bc7-a7ae-8751023777e1",
+    "msdyn_indname": "Recommend Women's Apparel Items",
+    "msdyn_indtype": "Recommend",
+    "msdyn_inddescription": "Preferences to Recommend Women's Apparel items in store recommendations.",
+    "msdyn_indcategories": "Women's Apparel",
+    "msdyn_indisactive": "FALSE",
+    "msdyn_inddeactivationreason": "Discontinued",
+    "msdyn_indstoreid": "StoreId_003_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "1592ee9a-fcc1-480d-81f4-d644e841d99d",
+    "msdyn_indname": "Recommend Kids' Apparel Items",
+    "msdyn_indtype": "Recommend",
+    "msdyn_inddescription": "Preferences to Recommend Kids' Apparel items in store recommendations.",
+    "msdyn_indcategories": "Kids' Apparel",
+    "msdyn_indisactive": "FALSE",
+    "msdyn_inddeactivationreason": "Out of Stock",
+    "msdyn_indstoreid": "StoreId_003_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "aade4917-e7bc-406c-ab7f-5c3cbb321303",
+    "msdyn_indname": "Avoid Footwear Items",
+    "msdyn_indtype": "Avoid",
+    "msdyn_inddescription": "Preferences to Avoid Footwear items in store recommendations.",
+    "msdyn_indcategories": "Footwear",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_003_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "33957413-f1e7-4b32-b054-8c40f1e7a42a",
+    "msdyn_indname": "Recommend Accessories Items",
+    "msdyn_indtype": "Recommend",
+    "msdyn_inddescription": "Preferences to Recommend Accessories items in store recommendations.",
+    "msdyn_indcategories": "Accessories",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_003_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "a3224135-e1d0-480d-b670-9a72f9417762",
+    "msdyn_indname": "Recommend Team & Game Day Items",
+    "msdyn_indtype": "Recommend",
+    "msdyn_inddescription": "Preferences to Recommend Team & Game Day items in store recommendations.",
+    "msdyn_indcategories": "Team & Game Day",
+    "msdyn_indisactive": "FALSE",
+    "msdyn_inddeactivationreason": "Seasonal Unavailability",
+    "msdyn_indstoreid": "StoreId_003_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "efb2b58f-e2c4-453f-8bb7-a851dcb246cf",
+    "msdyn_indname": "Recommend Outdoor & Active Items",
+    "msdyn_indtype": "Recommend",
+    "msdyn_inddescription": "Preferences to Recommend Outdoor & Active items in store recommendations.",
+    "msdyn_indcategories": "Outdoor & Active",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_003_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "98148dad-f402-47cd-adc2-4caa19d21ecd",
+    "msdyn_indname": "Avoid Workwear & Uniforms Items",
+    "msdyn_indtype": "Avoid",
+    "msdyn_inddescription": "Preferences to Avoid Workwear & Uniforms items in store recommendations.",
+    "msdyn_indcategories": "Workwear & Uniforms",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_003_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "0c1e24d3-6dcb-4b0f-8970-2cd8d24aa5e4",
+    "msdyn_indname": "Avoid Swim & Resort Items",
+    "msdyn_indtype": "Avoid",
+    "msdyn_inddescription": "Preferences to Avoid Swim & Resort items in store recommendations.",
+    "msdyn_indcategories": "Swim & Resort",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_003_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "2d86c95d-c3a4-4c11-991e-ce72f9464375",
+    "msdyn_indname": "Include Beauty & Grooming Items",
+    "msdyn_indtype": "Include",
+    "msdyn_inddescription": "Preferences to Include Beauty & Grooming items in store recommendations.",
+    "msdyn_indcategories": "Beauty & Grooming",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_003_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "5ee59091-03b6-4135-aec9-1f68b4960d6e",
+    "msdyn_indname": "Exclude Maternity & Special Sizes Items",
+    "msdyn_indtype": "Exclude",
+    "msdyn_inddescription": "Preferences to Exclude Maternity & Special Sizes items in store recommendations.",
+    "msdyn_indcategories": "Maternity & Special Sizes",
+    "msdyn_indisactive": "FALSE",
+    "msdyn_inddeactivationreason": "Out of Stock",
+    "msdyn_indstoreid": "StoreId_003_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "0f1a6dab-78b4-493f-a159-4dc661fb189c",
+    "msdyn_indname": "Avoid Home & Lifestyle Items",
+    "msdyn_indtype": "Avoid",
+    "msdyn_inddescription": "Preferences to Avoid Home & Lifestyle items in store recommendations.",
+    "msdyn_indcategories": "Home & Lifestyle",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_003_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "f365c4d7-5162-4782-a809-5f41a10037d9",
+    "msdyn_indname": "Avoid Men's Performance Tops Items",
+    "msdyn_indtype": "Avoid",
+    "msdyn_inddescription": "Preferences to Avoid Men's Performance Tops items in store recommendations.",
+    "msdyn_indcategories": "Men's Performance Tops",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_004_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "4ba1f7cd-ee95-41c2-92cf-f74c46cbebf7",
+    "msdyn_indname": "Recommend Men's Performance Bottoms Items",
+    "msdyn_indtype": "Recommend",
+    "msdyn_inddescription": "Preferences to Recommend Men's Performance Bottoms items in store recommendations.",
+    "msdyn_indcategories": "Men's Performance Bottoms",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_004_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "85b5ef84-4275-4cf2-be84-1a8672f9b193",
+    "msdyn_indname": "Highlight Women's Performance Tops Items",
+    "msdyn_indtype": "Highlight",
+    "msdyn_inddescription": "Preferences to Highlight Women's Performance Tops items in store recommendations.",
+    "msdyn_indcategories": "Women's Performance Tops",
+    "msdyn_indisactive": "FALSE",
+    "msdyn_inddeactivationreason": "Supplier Issues",
+    "msdyn_indstoreid": "StoreId_004_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "63fab089-4bfc-4388-b280-9802a101431c",
+    "msdyn_indname": "Include Women's Performance Bottoms Items",
+    "msdyn_indtype": "Include",
+    "msdyn_inddescription": "Preferences to Include Women's Performance Bottoms items in store recommendations.",
+    "msdyn_indcategories": "Women's Performance Bottoms",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_004_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "8578ff15-5b2e-4b9e-94a5-7b0cb0373d16",
+    "msdyn_indname": "Exclude Unisex Trail Layers Items",
+    "msdyn_indtype": "Exclude",
+    "msdyn_inddescription": "Preferences to Exclude Unisex Trail Layers items in store recommendations.",
+    "msdyn_indcategories": "Unisex Trail Layers",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_004_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "9d99120d-4a75-4f0c-8668-31d4033459e2",
+    "msdyn_indname": "Avoid Footwear Items",
+    "msdyn_indtype": "Avoid",
+    "msdyn_inddescription": "Preferences to Avoid Footwear items in store recommendations.",
+    "msdyn_indcategories": "Footwear",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_004_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "62789faa-b30a-4e5f-b740-f7cfd3acfc95",
+    "msdyn_indname": "Promote Sun Protection Gear Items",
+    "msdyn_indtype": "Promote",
+    "msdyn_inddescription": "Preferences to Promote Sun Protection Gear items in store recommendations.",
+    "msdyn_indcategories": "Sun Protection Gear",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_004_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "970fa60d-d717-4b69-8607-7734a8ac624a",
+    "msdyn_indname": "Include Hydration & Cooling Items",
+    "msdyn_indtype": "Include",
+    "msdyn_inddescription": "Preferences to Include Hydration & Cooling items in store recommendations.",
+    "msdyn_indcategories": "Hydration & Cooling",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_004_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "2df5d6c9-df1c-41b2-826f-1f864e5d33a6",
+    "msdyn_indname": "Recommend Commute Essentials Items",
+    "msdyn_indtype": "Recommend",
+    "msdyn_inddescription": "Preferences to Recommend Commute Essentials items in store recommendations.",
+    "msdyn_indcategories": "Commute Essentials",
+    "msdyn_indisactive": "FALSE",
+    "msdyn_inddeactivationreason": "Supplier Issues",
+    "msdyn_indstoreid": "StoreId_004_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "203dacab-8942-445a-af1f-ab7af064e0df",
+    "msdyn_indname": "Highlight Gym Essentials Items",
+    "msdyn_indtype": "Highlight",
+    "msdyn_inddescription": "Preferences to Highlight Gym Essentials items in store recommendations.",
+    "msdyn_indcategories": "Gym Essentials",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_004_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "33f11a1e-44d1-4727-9dbe-b682fa9eb1a5",
+    "msdyn_indname": "Recommend Hiking Essentials Items",
+    "msdyn_indtype": "Recommend",
+    "msdyn_inddescription": "Preferences to Recommend Hiking Essentials items in store recommendations.",
+    "msdyn_indcategories": "Hiking Essentials",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_004_demo"
+  },
+  {
+    "msdyn_indpreferenceid": "3fecd576-7802-4f6d-b463-61207c86a237",
+    "msdyn_indname": "Highlight Weekend Casual Items",
+    "msdyn_indtype": "Highlight",
+    "msdyn_inddescription": "Preferences to Highlight Weekend Casual items in store recommendations.",
+    "msdyn_indcategories": "Weekend Casual",
+    "msdyn_indisactive": "TRUE",
+    "msdyn_inddeactivationreason": "",
+    "msdyn_indstoreid": "StoreId_004_demo"
+  }
+]
