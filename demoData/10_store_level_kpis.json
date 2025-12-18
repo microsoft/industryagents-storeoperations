@@ -192,288 +192,288 @@
     "msdyn_indkpidate": "2024-12-02"
   },
   {
-    "msdyn_indstoreidentifier": "Store2_demo",
-    "msdyn_indname": "Store2_demo Sales 2025-12-01_demo",
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indname": "Store0_demo Sales 2025-12-01_demo",
     "msdyn_indkpiname": "Sales",
     "msdyn_indkpidescription": "Total sales in USD",
     "msdyn_indkpivalue": 19572.13,
     "msdyn_indkpidate": "2025-12-01"
   },
   {
-    "msdyn_indstoreidentifier": "Store2_demo",
-    "msdyn_indname": "Store2_demo Sales 2025-12-02_demo",
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indname": "Store0_demo Sales 2025-12-02_demo",
     "msdyn_indkpiname": "Sales",
     "msdyn_indkpidescription": "Total sales in USD",
     "msdyn_indkpivalue": 13365.95,
     "msdyn_indkpidate": "2025-12-02"
   },
   {
-    "msdyn_indstoreidentifier": "Store2_demo",
-    "msdyn_indname": "Store2_demo Sales 2024-12-01_demo",
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indname": "Store0_demo Sales 2024-12-01_demo",
     "msdyn_indkpiname": "Sales",
     "msdyn_indkpidescription": "Total sales in USD",
     "msdyn_indkpivalue": 10927.46,
     "msdyn_indkpidate": "2024-12-01"
   },
   {
-    "msdyn_indstoreidentifier": "Store2_demo",
-    "msdyn_indname": "Store2_demo Sales 2024-12-02_demo",
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indname": "Store0_demo Sales 2024-12-02_demo",
     "msdyn_indkpiname": "Sales",
     "msdyn_indkpidescription": "Total sales in USD",
     "msdyn_indkpivalue": 10967.16,
     "msdyn_indkpidate": "2024-12-02"
   },
   {
-    "msdyn_indstoreidentifier": "Store2_demo",
-    "msdyn_indname": "Store2_demo AOV 2025-12-01_demo",
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indname": "Store0_demo AOV 2025-12-01_demo",
     "msdyn_indkpiname": "AOV",
     "msdyn_indkpidescription": "Average Order Value",
     "msdyn_indkpivalue": 172.55,
     "msdyn_indkpidate": "2025-12-01"
   },
   {
-    "msdyn_indstoreidentifier": "Store2_demo",
-    "msdyn_indname": "Store2_demo AOV 2025-12-02_demo",
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indname": "Store0_demo AOV 2025-12-02_demo",
     "msdyn_indkpiname": "AOV",
     "msdyn_indkpidescription": "Average Order Value",
     "msdyn_indkpivalue": 128.67,
     "msdyn_indkpidate": "2025-12-02"
   },
   {
-    "msdyn_indstoreidentifier": "Store2_demo",
-    "msdyn_indname": "Store2_demo AOV 2024-12-01_demo",
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indname": "Store0_demo AOV 2024-12-01_demo",
     "msdyn_indkpiname": "AOV",
     "msdyn_indkpidescription": "Average Order Value",
     "msdyn_indkpivalue": 165.28,
     "msdyn_indkpidate": "2024-12-01"
   },
   {
-    "msdyn_indstoreidentifier": "Store2_demo",
-    "msdyn_indname": "Store2_demo AOV 2024-12-02_demo",
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indname": "Store0_demo AOV 2024-12-02_demo",
     "msdyn_indkpiname": "AOV",
     "msdyn_indkpidescription": "Average Order Value",
     "msdyn_indkpivalue": 151.35,
     "msdyn_indkpidate": "2024-12-02"
   },
   {
-    "msdyn_indstoreidentifier": "Store2_demo",
-    "msdyn_indname": "Store2_demo GM 2025-12-01_demo",
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indname": "Store0_demo GM 2025-12-01_demo",
     "msdyn_indkpiname": "GM",
     "msdyn_indkpidescription": "Gross Margin",
     "msdyn_indkpivalue": 10.72,
     "msdyn_indkpidate": "2025-12-01"
   },
   {
-    "msdyn_indstoreidentifier": "Store2_demo",
-    "msdyn_indname": "Store2_demo GM 2025-12-02_demo",
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indname": "Store0_demo GM 2025-12-02_demo",
     "msdyn_indkpiname": "GM",
     "msdyn_indkpidescription": "Gross Margin",
     "msdyn_indkpivalue": 19.46,
     "msdyn_indkpidate": "2025-12-02"
   },
   {
-    "msdyn_indstoreidentifier": "Store2_demo",
-    "msdyn_indname": "Store2_demo GM 2024-12-01_demo",
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indname": "Store0_demo GM 2024-12-01_demo",
     "msdyn_indkpiname": "GM",
     "msdyn_indkpidescription": "Gross Margin",
     "msdyn_indkpivalue": 7.57,
     "msdyn_indkpidate": "2024-12-01"
   },
   {
-    "msdyn_indstoreidentifier": "Store2_demo",
-    "msdyn_indname": "Store2_demo GM 2024-12-02_demo",
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indname": "Store0_demo GM 2024-12-02_demo",
     "msdyn_indkpiname": "GM",
     "msdyn_indkpidescription": "Gross Margin",
     "msdyn_indkpivalue": 11.04,
     "msdyn_indkpidate": "2024-12-02"
   },
   {
-    "msdyn_indstoreidentifier": "Store3_demo",
-    "msdyn_indname": "Store3_demo Sales 2025-12-01_demo",
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indname": "Store1_demo Sales 2025-12-01_demo",
     "msdyn_indkpiname": "Sales",
     "msdyn_indkpidescription": "Total sales in USD",
     "msdyn_indkpivalue": 18294.05,
     "msdyn_indkpidate": "2025-12-01"
   },
   {
-    "msdyn_indstoreidentifier": "Store3_demo",
-    "msdyn_indname": "Store3_demo Sales 2025-12-02_demo",
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indname": "Store1_demo Sales 2025-12-02_demo",
     "msdyn_indkpiname": "Sales",
     "msdyn_indkpidescription": "Total sales in USD",
     "msdyn_indkpivalue": 16185.2,
     "msdyn_indkpidate": "2025-12-02"
   },
   {
-    "msdyn_indstoreidentifier": "Store3_demo",
-    "msdyn_indname": "Store3_demo Sales 2024-12-01_demo",
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indname": "Store1_demo Sales 2024-12-01_demo",
     "msdyn_indkpiname": "Sales",
     "msdyn_indkpidescription": "Total sales in USD",
     "msdyn_indkpivalue": 18617.07,
     "msdyn_indkpidate": "2024-12-01"
   },
   {
-    "msdyn_indstoreidentifier": "Store3_demo",
-    "msdyn_indname": "Store3_demo Sales 2024-12-02_demo",
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indname": "Store1_demo Sales 2024-12-02_demo",
     "msdyn_indkpiname": "Sales",
     "msdyn_indkpidescription": "Total sales in USD",
     "msdyn_indkpivalue": 15773.52,
     "msdyn_indkpidate": "2024-12-02"
   },
   {
-    "msdyn_indstoreidentifier": "Store3_demo",
-    "msdyn_indname": "Store3_demo AOV 2025-12-01_demo",
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indname": "Store1_demo AOV 2025-12-01_demo",
     "msdyn_indkpiname": "AOV",
     "msdyn_indkpidescription": "Average Order Value",
     "msdyn_indkpivalue": 146.82,
     "msdyn_indkpidate": "2025-12-01"
   },
   {
-    "msdyn_indstoreidentifier": "Store3_demo",
-    "msdyn_indname": "Store3_demo AOV 2025-12-02_demo",
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indname": "Store1_demo AOV 2025-12-02_demo",
     "msdyn_indkpiname": "AOV",
     "msdyn_indkpidescription": "Average Order Value",
     "msdyn_indkpivalue": 28.25,
     "msdyn_indkpidate": "2025-12-02"
   },
   {
-    "msdyn_indstoreidentifier": "Store3_demo",
-    "msdyn_indname": "Store3_demo AOV 2024-12-01_demo",
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indname": "Store1_demo AOV 2024-12-01_demo",
     "msdyn_indkpiname": "AOV",
     "msdyn_indkpidescription": "Average Order Value",
     "msdyn_indkpivalue": 61.02,
     "msdyn_indkpidate": "2024-12-01"
   },
   {
-    "msdyn_indstoreidentifier": "Store3_demo",
-    "msdyn_indname": "Store3_demo AOV 2024-12-02_demo",
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indname": "Store1_demo AOV 2024-12-02_demo",
     "msdyn_indkpiname": "AOV",
     "msdyn_indkpidescription": "Average Order Value",
     "msdyn_indkpivalue": 72.09,
     "msdyn_indkpidate": "2024-12-02"
   },
   {
-    "msdyn_indstoreidentifier": "Store3_demo",
-    "msdyn_indname": "Store3_demo GM 2025-12-01_demo",
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indname": "Store1_demo GM 2025-12-01_demo",
     "msdyn_indkpiname": "GM",
     "msdyn_indkpidescription": "Gross Margin",
     "msdyn_indkpivalue": 1.6,
     "msdyn_indkpidate": "2025-12-01"
   },
   {
-    "msdyn_indstoreidentifier": "Store3_demo",
-    "msdyn_indname": "Store3_demo GM 2025-12-02_demo",
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indname": "Store1_demo GM 2025-12-02_demo",
     "msdyn_indkpiname": "GM",
     "msdyn_indkpidescription": "Gross Margin",
     "msdyn_indkpivalue": 4.66,
     "msdyn_indkpidate": "2025-12-02"
   },
   {
-    "msdyn_indstoreidentifier": "Store3_demo",
-    "msdyn_indname": "Store3_demo GM 2024-12-01_demo",
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indname": "Store1_demo GM 2024-12-01_demo",
     "msdyn_indkpiname": "GM",
     "msdyn_indkpidescription": "Gross Margin",
     "msdyn_indkpivalue": 2.02,
     "msdyn_indkpidate": "2024-12-01"
   },
   {
-    "msdyn_indstoreidentifier": "Store3_demo",
-    "msdyn_indname": "Store3_demo GM 2024-12-02_demo",
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indname": "Store1_demo GM 2024-12-02_demo",
     "msdyn_indkpiname": "GM",
     "msdyn_indkpidescription": "Gross Margin",
     "msdyn_indkpivalue": 5.56,
     "msdyn_indkpidate": "2024-12-02"
   },
   {
-    "msdyn_indstoreidentifier": "Store4_demo",
-    "msdyn_indname": "Store4_demo Sales 2025-12-01_demo",
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indname": "Store1_demo Sales 2025-12-01_demo",
     "msdyn_indkpiname": "Sales",
     "msdyn_indkpidescription": "Total sales in USD",
     "msdyn_indkpivalue": 16356.84,
     "msdyn_indkpidate": "2025-12-01"
   },
   {
-    "msdyn_indstoreidentifier": "Store4_demo",
-    "msdyn_indname": "Store4_demo Sales 2025-12-02_demo",
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indname": "Store1_demo Sales 2025-12-02_demo",
     "msdyn_indkpiname": "Sales",
     "msdyn_indkpidescription": "Total sales in USD",
     "msdyn_indkpivalue": 13648.32,
     "msdyn_indkpidate": "2025-12-02"
   },
   {
-    "msdyn_indstoreidentifier": "Store4_demo",
-    "msdyn_indname": "Store4_demo Sales 2024-12-01_demo",
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indname": "Store1_demo Sales 2024-12-01_demo",
     "msdyn_indkpiname": "Sales",
     "msdyn_indkpidescription": "Total sales in USD",
     "msdyn_indkpivalue": 13701.81,
     "msdyn_indkpidate": "2024-12-01"
   },
   {
-    "msdyn_indstoreidentifier": "Store4_demo",
-    "msdyn_indname": "Store4_demo Sales 2024-12-02_demo",
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indname": "Store1_demo Sales 2024-12-02_demo",
     "msdyn_indkpiname": "Sales",
     "msdyn_indkpidescription": "Total sales in USD",
     "msdyn_indkpivalue": 12095.07,
     "msdyn_indkpidate": "2024-12-02"
   },
   {
-    "msdyn_indstoreidentifier": "Store4_demo",
-    "msdyn_indname": "Store4_demo AOV 2025-12-01_demo",
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indname": "Store1_demo AOV 2025-12-01_demo",
     "msdyn_indkpiname": "AOV",
     "msdyn_indkpidescription": "Average Order Value",
     "msdyn_indkpivalue": 68.06,
     "msdyn_indkpidate": "2025-12-01"
   },
   {
-    "msdyn_indstoreidentifier": "Store4_demo",
-    "msdyn_indname": "Store4_demo AOV 2025-12-02_demo",
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indname": "Store1_demo AOV 2025-12-02_demo",
     "msdyn_indkpiname": "AOV",
     "msdyn_indkpidescription": "Average Order Value",
     "msdyn_indkpivalue": 188.6,
     "msdyn_indkpidate": "2025-12-02"
   },
   {
-    "msdyn_indstoreidentifier": "Store4_demo",
-    "msdyn_indname": "Store4_demo AOV 2024-12-01_demo",
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indname": "Store1_demo AOV 2024-12-01_demo",
     "msdyn_indkpiname": "AOV",
     "msdyn_indkpidescription": "Average Order Value",
     "msdyn_indkpivalue": 136.65,
     "msdyn_indkpidate": "2024-12-01"
   },
   {
-    "msdyn_indstoreidentifier": "Store4_demo",
-    "msdyn_indname": "Store4_demo AOV 2024-12-02_demo",
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indname": "Store1_demo AOV 2024-12-02_demo",
     "msdyn_indkpiname": "AOV",
     "msdyn_indkpidescription": "Average Order Value",
     "msdyn_indkpivalue": 129.64,
     "msdyn_indkpidate": "2024-12-02"
   },
   {
-    "msdyn_indstoreidentifier": "Store4_demo",
-    "msdyn_indname": "Store4_demo GM 2025-12-01_demo",
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indname": "Store1_demo GM 2025-12-01_demo",
     "msdyn_indkpiname": "GM",
     "msdyn_indkpidescription": "Gross Margin",
     "msdyn_indkpivalue": 3.42,
     "msdyn_indkpidate": "2025-12-01"
   },
   {
-    "msdyn_indstoreidentifier": "Store4_demo",
-    "msdyn_indname": "Store4_demo GM 2025-12-02_demo",
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indname": "Store1_demo GM 2025-12-02_demo",
     "msdyn_indkpiname": "GM",
     "msdyn_indkpidescription": "Gross Margin",
     "msdyn_indkpivalue": 14.58,
     "msdyn_indkpidate": "2025-12-02"
   },
   {
-    "msdyn_indstoreidentifier": "Store4_demo",
-    "msdyn_indname": "Store4_demo GM 2024-12-01_demo",
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indname": "Store1_demo GM 2024-12-01_demo",
     "msdyn_indkpiname": "GM",
     "msdyn_indkpidescription": "Gross Margin",
     "msdyn_indkpivalue": 3.27,
     "msdyn_indkpidate": "2024-12-01"
   },
   {
-    "msdyn_indstoreidentifier": "Store4_demo",
-    "msdyn_indname": "Store4_demo GM 2024-12-02_demo",
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indname": "Store1_demo GM 2024-12-02_demo",
     "msdyn_indkpiname": "GM",
     "msdyn_indkpidescription": "Gross Margin",
     "msdyn_indkpivalue": 7.59,
