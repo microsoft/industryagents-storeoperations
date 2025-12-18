@@ -1,30 +1,30 @@
-﻿[
+[
   {
-    "msdyn_indstoreidentifier": "StoreId_000_demo",
-    "msdyn_indname": "Bellows College Fashion - New York",
-    "msdyn_inddescription": "Bellows College Fashion, nestled in the heart of New York, NY, is a premium destination for sophisticated, trend-forward apparel and accessories. Specializing in timeless collegiate-inspired designs with a modern twist, the store caters to discerning customers seeking elegance, quality, and originality. With curated collections, personalized styling services, and exclusive pieces, Bellows College Fashion delivers a distinguished shopping experience for fashion enthusiasts who value craftsmanship and individuality.",
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indname": "Contoso - New York - New York",
+    "msdyn_inddescription": "Premium fashion retail store located in the heart of New York, NY. Offering a wide range of contemporary clothing, accessories, and lifestyle products for men, women, and children. Known for excellent customer service and the latest fashion trends.",
+    "msdyn_indstoreopeningtime": "09:00",
+    "msdyn_indstoreclosingtime": "21:00",
     "msdyn_indlatitude": 40.7128,
     "msdyn_indlongitude": -74.006,
-    "msdyn_indlocation": "635 Main Street, New York, NY 26024, USA",
+    "msdyn_indlocation": "754 Main Street, New York, NY 24592, USA",
     "msdyn_indlocaltimezone": "America/New_York",
-    "msdyn_indcountrycode": "US",
-    "msdyn_indstoreopeningtime": "09:00",
-    "msdyn_indstoreclosingtime": "21:00",
     "msdyn_indsizetype": "Small",
-    "msdyn_indregion": "Northeast"
+    "msdyn_indregion": "Northeast",
+    "msdyn_indcountrycode": "US"
   },
   {
-    "msdyn_indstoreidentifier": "StoreId_001_demo",
-    "msdyn_indname": "Fourth Coffee Style - Los Angeles",
-    "msdyn_inddescription": "Nestled in the heart of Los Angeles, Fourth Coffee Style is a premium fashion boutique that blends timeless elegance with modern trends. Catering to style-savvy professionals and fashion enthusiasts, the store specializes in curated collections of high-quality apparel, accessories, and footwear. Known for its personalized styling services and exclusive designer collaborations, Fourth Coffee Style offers an elevated shopping experience that celebrates individuality and sophistication.",
-    "msdyn_indlatitude": 34.0522,
-    "msdyn_indlongitude": -118.2437,
-    "msdyn_indlocation": "753 Main Street, Los Angeles, CA 46478, USA",
-    "msdyn_indlocaltimezone": "America/Los_Angeles",
-    "msdyn_indcountrycode": "US",
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indname": "Fabrikam - Los Angeles - Los Angeles",
+    "msdyn_inddescription": "Premium fashion retail store located in the heart of Los Angeles, CA. Offering a wide range of contemporary clothing, accessories, and lifestyle products for men, women, and children. Known for excellent customer service and the latest fashion trends.",
     "msdyn_indstoreopeningtime": "09:00",
     "msdyn_indstoreclosingtime": "21:00",
+    "msdyn_indlatitude": 34.0522,
+    "msdyn_indlongitude": -118.2437,
+    "msdyn_indlocation": "859 Main Street, Los Angeles, CA 46048, USA",
+    "msdyn_indlocaltimezone": "America/Los_Angeles",
     "msdyn_indsizetype": "Large",
-    "msdyn_indregion": "West"
+    "msdyn_indregion": "West",
+    "msdyn_indcountrycode": "US"
   }
 ]
