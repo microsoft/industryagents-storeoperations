@@ -3,120 +3,140 @@
         "msdyn_indworkerid": "WorkerId_0001_demo",
         "msdyn_indname": "Adrian King",
         "msdyn_indtitle": "Store Manager",
-        "msdyn_indemail": "adrian.king@bellowscollegefashion.com"
+        "msdyn_indemail": "adrian.king@bellowscollegefashion.com",
+        "msdyn_indentraid": "fd2075bc-3108-47b4-9c86-0d6716bf11e3"
     },
     {
         "msdyn_indworkerid": "WorkerId_0002_demo",
         "msdyn_indname": "Morgan Ellis",
         "msdyn_indtitle": "Store Manager",
-        "msdyn_indemail": "morgan.ellis@fourthcoffeestyle.com"
+        "msdyn_indemail": "morgan.ellis@fourthcoffeestyle.com",
+        "msdyn_indentraid": "bfed77a0-6daa-4a85-a610-d45ac167d5e6"
     },
     {
         "msdyn_indworkerid": "WorkerId_0003_demo",
         "msdyn_indname": "Aaliyah Brooks",
         "msdyn_indtitle": "Assistant Manager",
-        "msdyn_indemail": "aaliyah.brooks@bellowscollegefashion.com"
+        "msdyn_indemail": "aaliyah.brooks@bellowscollegefashion.com",
+        "msdyn_indentraid": "233368c3-33ca-4a5b-8d89-b009520f277f"
     },
     {
         "msdyn_indworkerid": "WorkerId_0004_demo",
         "msdyn_indname": "Amara White",
         "msdyn_indtitle": "Assistant Manager",
-        "msdyn_indemail": "amara.white@fourthcoffeestyle.com"
+        "msdyn_indemail": "amara.white@fourthcoffeestyle.com",
+        "msdyn_indentraid": "b0c539d6-afbc-48ab-8eb1-a702d305570a"
     },
     {
         "msdyn_indworkerid": "WorkerId_0005_demo",
         "msdyn_indname": "Violet Martinez",
         "msdyn_indtitle": "Cashier",
-        "msdyn_indemail": "violet.martinez@bellowscollegefashion.com"
+        "msdyn_indemail": "violet.martinez@bellowscollegefashion.com",
+        "msdyn_indentraid": "dafeb8e2-4cfb-4070-9c97-b1a74102ca38"
     },
     {
         "msdyn_indworkerid": "WorkerId_0006_demo",
         "msdyn_indname": "Jayden Phillips",
         "msdyn_indtitle": "Cashier",
-        "msdyn_indemail": "jayden.phillips@fourthcoffeestyle.com"
+        "msdyn_indemail": "jayden.phillips@fourthcoffeestyle.com",
+        "msdyn_indentraid": "d8234ea0-4a62-4e5c-b895-9cb4d1cc9352"
     },
     {
         "msdyn_indworkerid": "WorkerId_0007_demo",
         "msdyn_indname": "Marcus Patel",
         "msdyn_indtitle": "Cashier",
-        "msdyn_indemail": "marcus.patel@bellowscollegefashion.com"
+        "msdyn_indemail": "marcus.patel@bellowscollegefashion.com",
+        "msdyn_indentraid": "e7dcc029-1c6d-4b85-a498-d7b90b76025a"
     },
     {
         "msdyn_indworkerid": "WorkerId_0008_demo",
         "msdyn_indname": "Kai Carter",
         "msdyn_indtitle": "Cashier",
-        "msdyn_indemail": "kai.carter@fourthcoffeestyle.com"
+        "msdyn_indemail": "kai.carter@fourthcoffeestyle.com",
+        "msdyn_indentraid": "58b75f38-3d95-4cb0-ae5e-20c389b4ee15"
     },
     {
         "msdyn_indworkerid": "WorkerId_0009_demo",
         "msdyn_indname": "Henry Ross",
         "msdyn_indtitle": "Customer Service Rep",
-        "msdyn_indemail": "henry.ross@bellowscollegefashion.com"
+        "msdyn_indemail": "henry.ross@bellowscollegefashion.com",
+        "msdyn_indentraid": "d77cc603-78d4-40b3-9e9f-3d74abccbdfb"
     },
     {
         "msdyn_indworkerid": "WorkerId_0010_demo",
         "msdyn_indname": "Kiana Anderson",
         "msdyn_indtitle": "Customer Service Rep",
-        "msdyn_indemail": "kiana.anderson@fourthcoffeestyle.com"
+        "msdyn_indemail": "kiana.anderson@fourthcoffeestyle.com",
+        "msdyn_indentraid": "cfa11997-be78-4ef6-95fd-ec6f8767c81e"
     },
     {
         "msdyn_indworkerid": "WorkerId_0011_demo",
         "msdyn_indname": "Renata Hall",
         "msdyn_indtitle": "Customer Service Rep",
-        "msdyn_indemail": "renata.hall@bellowscollegefashion.com"
+        "msdyn_indemail": "renata.hall@bellowscollegefashion.com",
+        "msdyn_indentraid": "551a260d-329f-4c5b-946a-7ef0d87bb133"
     },
     {
         "msdyn_indworkerid": "WorkerId_0012_demo",
         "msdyn_indname": "Hannah Jarvis",
         "msdyn_indtitle": "Customer Service Rep",
-        "msdyn_indemail": "hannah.jarvis@fourthcoffeestyle.com"
+        "msdyn_indemail": "hannah.jarvis@fourthcoffeestyle.com",
+        "msdyn_indentraid": "a2952edd-a9d1-450e-a3d2-47fcfc2e7fdb"
     },
     {
         "msdyn_indworkerid": "WorkerId_0013_demo",
         "msdyn_indname": "Serena Davis",
         "msdyn_indtitle": "Sales Associate",
-        "msdyn_indemail": "serena.davis@bellowscollegefashion.com"
+        "msdyn_indemail": "serena.davis@bellowscollegefashion.com",
+        "msdyn_indentraid": "9c54bb72-22b7-4d93-b42d-cd7964165861"
     },
     {
         "msdyn_indworkerid": "WorkerId_0014_demo",
         "msdyn_indname": "Benjamin Stuart",
         "msdyn_indtitle": "Sales Associate",
-        "msdyn_indemail": "benjamin.stuart@fourthcoffeestyle.com"
+        "msdyn_indemail": "benjamin.stuart@fourthcoffeestyle.com",
+        "msdyn_indentraid": "66b2066b-9a2f-4c6c-b69a-246092194487"
     },
     {
         "msdyn_indworkerid": "WorkerId_0015_demo",
         "msdyn_indname": "Juan Morgan",
         "msdyn_indtitle": "Sales Associate",
-        "msdyn_indemail": "juan.morgan@bellowscollegefashion.com"
+        "msdyn_indemail": "juan.morgan@bellowscollegefashion.com",
+        "msdyn_indentraid": "b6fbf136-63f5-4677-bf84-9ab800dc5c47"
     },
     {
         "msdyn_indworkerid": "WorkerId_0016_demo",
         "msdyn_indname": "Mateo Gomez",
         "msdyn_indtitle": "Sales Associate",
-        "msdyn_indemail": "mateo.gomez@fourthcoffeestyle.com"
+        "msdyn_indemail": "mateo.gomez@fourthcoffeestyle.com",
+        "msdyn_indentraid": "12a875cb-210e-46ea-b06e-8f7e9702a2db"
     },
     {
         "msdyn_indworkerid": "WorkerId_0017_demo",
         "msdyn_indname": "Casey Jensen",
         "msdyn_indtitle": "Sales Associate",
-        "msdyn_indemail": "casey.jensen@bellowscollegefashion.com"
+        "msdyn_indemail": "casey.jensen@bellowscollegefashion.com",
+        "msdyn_indentraid": "92345297-75b4-460d-9bd7-15b03909437e"
     },
     {
         "msdyn_indworkerid": "WorkerId_0018_demo",
         "msdyn_indname": "Gabriel Diaz",
         "msdyn_indtitle": "Sales Associate",
-        "msdyn_indemail": "gabriel.diaz@fourthcoffeestyle.com"
+        "msdyn_indemail": "gabriel.diaz@fourthcoffeestyle.com",
+        "msdyn_indentraid": "a359fc3b-9497-4e59-b914-bf52d6d30a6a"
     },
     {
         "msdyn_indworkerid": "WorkerId_0019_demo",
         "msdyn_indname": "Michael Peltier",
         "msdyn_indtitle": "Sales Associate",
-        "msdyn_indemail": "michael.peltier@bellowscollegefashion.com"
+        "msdyn_indemail": "michael.peltier@bellowscollegefashion.com",
+        "msdyn_indentraid": "8ca2c707-165d-4ff4-a041-92758a02cf82"
     },
     {
         "msdyn_indworkerid": "WorkerId_0020_demo",
         "msdyn_indname": "Elijah Thompson",
         "msdyn_indtitle": "Sales Associate",
-        "msdyn_indemail": "elijah.thompson@fourthcoffeestyle.com"
+        "msdyn_indemail": "elijah.thompson@fourthcoffeestyle.com",
+        "msdyn_indentraid": "5c006dbd-6af0-46cb-baff-0d93686d18af"
     }
 ]
