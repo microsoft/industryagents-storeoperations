@@ -1,7 +1,7 @@
 [
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indname": "Contoso - New York - New York",
+    "msdyn_indname": "Contoso - New York",
     "msdyn_inddescription": "Premium fashion retail store located in the heart of New York, NY. Offering a wide range of contemporary clothing, accessories, and lifestyle products for men, women, and children. Known for excellent customer service and the latest fashion trends.",
     "msdyn_indstoreopeningtime": "09:00",
     "msdyn_indstoreclosingtime": "21:00",
@@ -15,7 +15,7 @@
   },
   {
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indname": "Fabrikam - Los Angeles - Los Angeles",
+    "msdyn_indname": "Fabrikam - Los Angeles",
     "msdyn_inddescription": "Premium fashion retail store located in the heart of Los Angeles, CA. Offering a wide range of contemporary clothing, accessories, and lifestyle products for men, women, and children. Known for excellent customer service and the latest fashion trends.",
     "msdyn_indstoreopeningtime": "09:00",
     "msdyn_indstoreclosingtime": "21:00",
