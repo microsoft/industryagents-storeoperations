@@ -1,482 +1,3362 @@
 [
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indname": "Store0_demo Sales 2025-12-01_demo",
     "msdyn_indkpiname": "Sales",
     "msdyn_indkpidescription": "Total sales in USD",
     "msdyn_indkpivalue": 16394.27,
-    "msdyn_indkpidate": "2025-12-01"
+    "msdyn_indkpidate": "2025-12-22"
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indname": "Store0_demo Sales 2025-12-02_demo",
     "msdyn_indkpiname": "Sales",
     "msdyn_indkpidescription": "Total sales in USD",
     "msdyn_indkpivalue": 10250.11,
-    "msdyn_indkpidate": "2025-12-02"
+    "msdyn_indkpidate": "2025-12-23"
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indname": "Store0_demo Sales 2024-12-01_demo",
     "msdyn_indkpiname": "Sales",
     "msdyn_indkpidescription": "Total sales in USD",
     "msdyn_indkpivalue": 12750.29,
-    "msdyn_indkpidate": "2024-12-01"
+    "msdyn_indkpidate": "2025-12-24"
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indname": "Store0_demo Sales 2024-12-02_demo",
     "msdyn_indkpiname": "Sales",
     "msdyn_indkpidescription": "Total sales in USD",
     "msdyn_indkpivalue": 12232.11,
-    "msdyn_indkpidate": "2024-12-02"
+    "msdyn_indkpidate": "2025-12-25"
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indname": "Store0_demo AOV 2025-12-01_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 152.56,
-    "msdyn_indkpidate": "2025-12-01"
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 17364.71,
+    "msdyn_indkpidate": "2025-12-26"
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indname": "Store0_demo AOV 2025-12-02_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 141.81,
-    "msdyn_indkpidate": "2025-12-02"
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 16766.99,
+    "msdyn_indkpidate": "2025-12-27"
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indname": "Store0_demo AOV 2024-12-01_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 180.59,
-    "msdyn_indkpidate": "2024-12-01"
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 18921.8,
+    "msdyn_indkpidate": "2025-12-28"
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indname": "Store0_demo AOV 2024-12-02_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 35.65,
-    "msdyn_indkpidate": "2024-12-02"
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 10869.39,
+    "msdyn_indkpidate": "2025-12-29"
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indname": "Store0_demo GM 2025-12-01_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin",
-    "msdyn_indkpivalue": 8.44,
-    "msdyn_indkpidate": "2025-12-01"
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 14219.22,
+    "msdyn_indkpidate": "2025-12-30"
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indname": "Store0_demo GM 2025-12-02_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin",
-    "msdyn_indkpivalue": 0.6,
-    "msdyn_indkpidate": "2025-12-02"
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 10297.97,
+    "msdyn_indkpidate": "2025-12-31"
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indname": "Store0_demo GM 2024-12-01_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin",
-    "msdyn_indkpivalue": 4.37,
-    "msdyn_indkpidate": "2024-12-01"
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12186.38,
+    "msdyn_indkpidate": "2026-01-01"
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indname": "Store0_demo GM 2024-12-02_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin",
-    "msdyn_indkpivalue": 10.11,
-    "msdyn_indkpidate": "2024-12-02"
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 15053.55,
+    "msdyn_indkpidate": "2026-01-02"
   },
   {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indname": "Store1_demo Sales 2025-12-01_demo",
+    "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_indkpiname": "Sales",
     "msdyn_indkpidescription": "Total sales in USD",
     "msdyn_indkpivalue": 10265.36,
-    "msdyn_indkpidate": "2025-12-01"
+    "msdyn_indkpidate": "2026-01-03"
   },
   {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indname": "Store1_demo Sales 2025-12-02_demo",
+    "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_indkpiname": "Sales",
     "msdyn_indkpidescription": "Total sales in USD",
     "msdyn_indkpivalue": 11988.38,
-    "msdyn_indkpidate": "2025-12-02"
+    "msdyn_indkpidate": "2026-01-04"
   },
   {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indname": "Store1_demo Sales 2024-12-01_demo",
+    "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_indkpiname": "Sales",
     "msdyn_indkpidescription": "Total sales in USD",
     "msdyn_indkpivalue": 16498.84,
-    "msdyn_indkpidate": "2024-12-01"
+    "msdyn_indkpidate": "2026-01-05"
   },
   {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indname": "Store1_demo Sales 2024-12-02_demo",
+    "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_indkpiname": "Sales",
     "msdyn_indkpidescription": "Total sales in USD",
     "msdyn_indkpivalue": 15449.41,
-    "msdyn_indkpidate": "2024-12-02"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indname": "Store1_demo AOV 2025-12-01_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 59.68,
-    "msdyn_indkpidate": "2025-12-01"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indname": "Store1_demo AOV 2025-12-02_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 126.07,
-    "msdyn_indkpidate": "2025-12-02"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indname": "Store1_demo AOV 2024-12-01_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 165.7,
-    "msdyn_indkpidate": "2024-12-01"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indname": "Store1_demo AOV 2024-12-02_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 21.17,
-    "msdyn_indkpidate": "2024-12-02"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indname": "Store1_demo GM 2025-12-01_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin",
-    "msdyn_indkpivalue": 16.12,
-    "msdyn_indkpidate": "2025-12-01"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indname": "Store1_demo GM 2025-12-02_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin",
-    "msdyn_indkpivalue": 13.96,
-    "msdyn_indkpidate": "2025-12-02"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indname": "Store1_demo GM 2024-12-01_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin",
-    "msdyn_indkpivalue": 6.81,
-    "msdyn_indkpidate": "2024-12-01"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indname": "Store1_demo GM 2024-12-02_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin",
-    "msdyn_indkpivalue": 3.11,
-    "msdyn_indkpidate": "2024-12-02"
+    "msdyn_indkpidate": "2026-01-06"
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indname": "Store0_demo Sales 2025-12-01_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12204.41,
+    "msdyn_indkpidate": "2026-01-07"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 15892.66,
+    "msdyn_indkpidate": "2026-01-08"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 18094.3,
+    "msdyn_indkpidate": "2026-01-09"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 10064.99,
+    "msdyn_indkpidate": "2026-01-10"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 18058.19,
+    "msdyn_indkpidate": "2026-01-11"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 16981.39,
+    "msdyn_indkpidate": "2026-01-12"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 13402.51,
+    "msdyn_indkpidate": "2026-01-13"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 11554.79,
+    "msdyn_indkpidate": "2026-01-14"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_indkpiname": "Sales",
     "msdyn_indkpidescription": "Total sales in USD",
     "msdyn_indkpivalue": 19572.13,
-    "msdyn_indkpidate": "2025-12-01"
+    "msdyn_indkpidate": "2026-01-15"
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indname": "Store0_demo Sales 2025-12-02_demo",
     "msdyn_indkpiname": "Sales",
     "msdyn_indkpidescription": "Total sales in USD",
     "msdyn_indkpivalue": 13365.95,
-    "msdyn_indkpidate": "2025-12-02"
+    "msdyn_indkpidate": "2026-01-16"
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indname": "Store0_demo Sales 2024-12-01_demo",
     "msdyn_indkpiname": "Sales",
     "msdyn_indkpidescription": "Total sales in USD",
     "msdyn_indkpivalue": 10927.46,
-    "msdyn_indkpidate": "2024-12-01"
+    "msdyn_indkpidate": "2026-01-17"
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indname": "Store0_demo Sales 2024-12-02_demo",
     "msdyn_indkpiname": "Sales",
     "msdyn_indkpidescription": "Total sales in USD",
     "msdyn_indkpivalue": 10967.16,
-    "msdyn_indkpidate": "2024-12-02"
+    "msdyn_indkpidate": "2026-01-18"
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indname": "Store0_demo AOV 2025-12-01_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 172.55,
-    "msdyn_indkpidate": "2025-12-01"
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 18474.94,
+    "msdyn_indkpidate": "2026-01-19"
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indname": "Store0_demo AOV 2025-12-02_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 128.67,
-    "msdyn_indkpidate": "2025-12-02"
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 16037.26,
+    "msdyn_indkpidate": "2026-01-20"
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indname": "Store0_demo AOV 2024-12-01_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 165.28,
-    "msdyn_indkpidate": "2024-12-01"
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 18071.28,
+    "msdyn_indkpidate": "2026-01-21"
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indname": "Store0_demo AOV 2024-12-02_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 151.35,
-    "msdyn_indkpidate": "2024-12-02"
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 17297.32,
+    "msdyn_indkpidate": "2026-01-22"
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indname": "Store0_demo GM 2025-12-01_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin",
-    "msdyn_indkpivalue": 10.72,
-    "msdyn_indkpidate": "2025-12-01"
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 15362.28,
+    "msdyn_indkpidate": "2026-01-23"
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indname": "Store0_demo GM 2025-12-02_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin",
-    "msdyn_indkpivalue": 19.46,
-    "msdyn_indkpidate": "2025-12-02"
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 19731.16,
+    "msdyn_indkpidate": "2026-01-24"
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indname": "Store0_demo GM 2024-12-01_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin",
-    "msdyn_indkpivalue": 7.57,
-    "msdyn_indkpidate": "2024-12-01"
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 13785.34,
+    "msdyn_indkpidate": "2026-01-25"
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indname": "Store0_demo GM 2024-12-02_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin",
-    "msdyn_indkpivalue": 11.04,
-    "msdyn_indkpidate": "2024-12-02"
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 15520.41,
+    "msdyn_indkpidate": "2026-01-26"
   },
   {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indname": "Store1_demo Sales 2025-12-01_demo",
+    "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_indkpiname": "Sales",
     "msdyn_indkpidescription": "Total sales in USD",
     "msdyn_indkpivalue": 18294.05,
-    "msdyn_indkpidate": "2025-12-01"
+    "msdyn_indkpidate": "2026-01-27"
   },
   {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indname": "Store1_demo Sales 2025-12-02_demo",
+    "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_indkpiname": "Sales",
     "msdyn_indkpidescription": "Total sales in USD",
     "msdyn_indkpivalue": 16185.2,
-    "msdyn_indkpidate": "2025-12-02"
+    "msdyn_indkpidate": "2026-01-28"
   },
   {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indname": "Store1_demo Sales 2024-12-01_demo",
+    "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_indkpiname": "Sales",
     "msdyn_indkpidescription": "Total sales in USD",
     "msdyn_indkpivalue": 18617.07,
-    "msdyn_indkpidate": "2024-12-01"
+    "msdyn_indkpidate": "2026-01-29"
   },
   {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indname": "Store1_demo Sales 2024-12-02_demo",
+    "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_indkpiname": "Sales",
     "msdyn_indkpidescription": "Total sales in USD",
     "msdyn_indkpivalue": 15773.52,
-    "msdyn_indkpidate": "2024-12-02"
+    "msdyn_indkpidate": "2026-01-30"
   },
   {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indname": "Store1_demo AOV 2025-12-01_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 146.82,
-    "msdyn_indkpidate": "2025-12-01"
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 17045.72,
+    "msdyn_indkpidate": "2024-12-22"
   },
   {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indname": "Store1_demo AOV 2025-12-02_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 28.25,
-    "msdyn_indkpidate": "2025-12-02"
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 10458.24,
+    "msdyn_indkpidate": "2024-12-23"
   },
   {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indname": "Store1_demo AOV 2024-12-01_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 61.02,
-    "msdyn_indkpidate": "2024-12-01"
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12278.98,
+    "msdyn_indkpidate": "2024-12-24"
   },
   {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indname": "Store1_demo AOV 2024-12-02_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 72.09,
-    "msdyn_indkpidate": "2024-12-02"
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12893.88,
+    "msdyn_indkpidate": "2024-12-25"
   },
   {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indname": "Store1_demo GM 2025-12-01_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin",
-    "msdyn_indkpivalue": 1.6,
-    "msdyn_indkpidate": "2025-12-01"
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 10797.92,
+    "msdyn_indkpidate": "2024-12-26"
   },
   {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indname": "Store1_demo GM 2025-12-02_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin",
-    "msdyn_indkpivalue": 4.66,
-    "msdyn_indkpidate": "2025-12-02"
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12327.91,
+    "msdyn_indkpidate": "2024-12-27"
   },
   {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indname": "Store1_demo GM 2024-12-01_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin",
-    "msdyn_indkpivalue": 2.02,
-    "msdyn_indkpidate": "2024-12-01"
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 11010.01,
+    "msdyn_indkpidate": "2024-12-28"
   },
   {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indname": "Store1_demo GM 2024-12-02_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin",
-    "msdyn_indkpivalue": 5.56,
-    "msdyn_indkpidate": "2024-12-02"
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12779.74,
+    "msdyn_indkpidate": "2024-12-29"
   },
   {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indname": "Store1_demo Sales 2025-12-01_demo",
+    "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_indkpiname": "Sales",
     "msdyn_indkpidescription": "Total sales in USD",
     "msdyn_indkpivalue": 16356.84,
-    "msdyn_indkpidate": "2025-12-01"
+    "msdyn_indkpidate": "2024-12-30"
   },
   {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indname": "Store1_demo Sales 2025-12-02_demo",
+    "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_indkpiname": "Sales",
     "msdyn_indkpidescription": "Total sales in USD",
     "msdyn_indkpivalue": 13648.32,
-    "msdyn_indkpidate": "2025-12-02"
+    "msdyn_indkpidate": "2024-12-31"
   },
   {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indname": "Store1_demo Sales 2024-12-01_demo",
+    "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_indkpiname": "Sales",
     "msdyn_indkpidescription": "Total sales in USD",
     "msdyn_indkpivalue": 13701.81,
-    "msdyn_indkpidate": "2024-12-01"
+    "msdyn_indkpidate": "2025-01-01"
   },
   {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indname": "Store1_demo Sales 2024-12-02_demo",
+    "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_indkpiname": "Sales",
     "msdyn_indkpidescription": "Total sales in USD",
     "msdyn_indkpivalue": 12095.07,
-    "msdyn_indkpidate": "2024-12-02"
+    "msdyn_indkpidate": "2025-01-02"
   },
   {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indname": "Store1_demo AOV 2025-12-01_demo",
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12669.78,
+    "msdyn_indkpidate": "2025-01-03"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 19366.55,
+    "msdyn_indkpidate": "2025-01-04"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 16480.35,
+    "msdyn_indkpidate": "2025-01-05"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 16091.31,
+    "msdyn_indkpidate": "2025-01-06"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 11711.39,
+    "msdyn_indkpidate": "2025-01-07"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 17291.27,
+    "msdyn_indkpidate": "2025-01-08"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 11634.02,
+    "msdyn_indkpidate": "2025-01-09"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 13794.55,
+    "msdyn_indkpidate": "2025-01-10"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 19895.23,
+    "msdyn_indkpidate": "2025-01-11"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 16400.0,
+    "msdyn_indkpidate": "2025-01-12"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 15569.5,
+    "msdyn_indkpidate": "2025-01-13"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 16846.14,
+    "msdyn_indkpidate": "2025-01-14"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 18428.52,
+    "msdyn_indkpidate": "2025-01-15"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 17760.0,
+    "msdyn_indkpidate": "2025-01-16"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12290.48,
+    "msdyn_indkpidate": "2025-01-17"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 10321.0,
+    "msdyn_indkpidate": "2025-01-18"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 13154.53,
+    "msdyn_indkpidate": "2025-01-19"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12677.41,
+    "msdyn_indkpidate": "2025-01-20"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12109.83,
+    "msdyn_indkpidate": "2025-01-21"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 19429.1,
+    "msdyn_indkpidate": "2025-01-22"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 18763.68,
+    "msdyn_indkpidate": "2025-01-23"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 13146.78,
+    "msdyn_indkpidate": "2025-01-24"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 16554.39,
+    "msdyn_indkpidate": "2025-01-25"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 13956.32,
+    "msdyn_indkpidate": "2025-01-26"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 19145.48,
+    "msdyn_indkpidate": "2025-01-27"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 14588.52,
+    "msdyn_indkpidate": "2025-01-28"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12648.8,
+    "msdyn_indkpidate": "2025-01-29"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12466.28,
+    "msdyn_indkpidate": "2025-01-30"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_indkpiname": "AOV",
     "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 68.06,
-    "msdyn_indkpidate": "2025-12-01"
+    "msdyn_indkpivalue": 121.05,
+    "msdyn_indkpidate": "2025-12-22"
   },
   {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indname": "Store1_demo AOV 2025-12-02_demo",
+    "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_indkpiname": "AOV",
     "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 188.6,
-    "msdyn_indkpidate": "2025-12-02"
+    "msdyn_indkpivalue": 67.29,
+    "msdyn_indkpidate": "2025-12-23"
   },
   {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indname": "Store1_demo AOV 2024-12-01_demo",
+    "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_indkpiname": "AOV",
     "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 136.65,
-    "msdyn_indkpidate": "2024-12-01"
+    "msdyn_indkpivalue": 125.23,
+    "msdyn_indkpidate": "2025-12-24"
   },
   {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indname": "Store1_demo AOV 2024-12-02_demo",
+    "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_indkpiname": "AOV",
     "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 129.64,
-    "msdyn_indkpidate": "2024-12-02"
+    "msdyn_indkpivalue": 181.61,
+    "msdyn_indkpidate": "2025-12-25"
   },
   {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indname": "Store1_demo GM 2025-12-01_demo",
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 91.89,
+    "msdyn_indkpidate": "2025-12-26"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 59.48,
+    "msdyn_indkpidate": "2025-12-27"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 199.56,
+    "msdyn_indkpidate": "2025-12-28"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 111.71,
+    "msdyn_indkpidate": "2025-12-29"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 36.36,
+    "msdyn_indkpidate": "2025-12-30"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 28.48,
+    "msdyn_indkpidate": "2025-12-31"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 39.74,
+    "msdyn_indkpidate": "2026-01-01"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 132.94,
+    "msdyn_indkpidate": "2026-01-02"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 162.57,
+    "msdyn_indkpidate": "2026-01-03"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 95.99,
+    "msdyn_indkpidate": "2026-01-04"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 31.43,
+    "msdyn_indkpidate": "2026-01-05"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 88.69,
+    "msdyn_indkpidate": "2026-01-06"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 199.3,
+    "msdyn_indkpidate": "2026-01-07"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 115.24,
+    "msdyn_indkpidate": "2026-01-08"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 194.79,
+    "msdyn_indkpidate": "2026-01-09"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 174.94,
+    "msdyn_indkpidate": "2026-01-10"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 22.07,
+    "msdyn_indkpidate": "2026-01-11"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 149.73,
+    "msdyn_indkpidate": "2026-01-12"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 142.71,
+    "msdyn_indkpidate": "2026-01-13"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 116.65,
+    "msdyn_indkpidate": "2026-01-14"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 68.03,
+    "msdyn_indkpidate": "2026-01-15"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 135.37,
+    "msdyn_indkpidate": "2026-01-16"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 40.08,
+    "msdyn_indkpidate": "2026-01-17"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 98.26,
+    "msdyn_indkpidate": "2026-01-18"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 101.67,
+    "msdyn_indkpidate": "2026-01-19"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 191.69,
+    "msdyn_indkpidate": "2026-01-20"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 177.65,
+    "msdyn_indkpidate": "2026-01-21"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 67.41,
+    "msdyn_indkpidate": "2026-01-22"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 110.11,
+    "msdyn_indkpidate": "2026-01-23"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 52.16,
+    "msdyn_indkpidate": "2026-01-24"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 184.27,
+    "msdyn_indkpidate": "2026-01-25"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 176.69,
+    "msdyn_indkpidate": "2026-01-26"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 73.72,
+    "msdyn_indkpidate": "2026-01-27"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 135.01,
+    "msdyn_indkpidate": "2026-01-28"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 129.61,
+    "msdyn_indkpidate": "2026-01-29"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 47.51,
+    "msdyn_indkpidate": "2026-01-30"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 157.25,
+    "msdyn_indkpidate": "2024-12-22"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 117.09,
+    "msdyn_indkpidate": "2024-12-23"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 160.15,
+    "msdyn_indkpidate": "2024-12-24"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 115.46,
+    "msdyn_indkpidate": "2024-12-25"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 20.1,
+    "msdyn_indkpidate": "2024-12-26"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 78.35,
+    "msdyn_indkpidate": "2024-12-27"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 23.51,
+    "msdyn_indkpidate": "2024-12-28"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 187.24,
+    "msdyn_indkpidate": "2024-12-29"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 178.17,
+    "msdyn_indkpidate": "2024-12-30"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 169.7,
+    "msdyn_indkpidate": "2024-12-31"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 75.35,
+    "msdyn_indkpidate": "2025-01-01"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 30.43,
+    "msdyn_indkpidate": "2025-01-02"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 178.04,
+    "msdyn_indkpidate": "2025-01-03"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 190.45,
+    "msdyn_indkpidate": "2025-01-04"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 35.42,
+    "msdyn_indkpidate": "2025-01-05"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 107.48,
+    "msdyn_indkpidate": "2025-01-06"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 32.46,
+    "msdyn_indkpidate": "2025-01-07"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 156.91,
+    "msdyn_indkpidate": "2025-01-08"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 157.85,
+    "msdyn_indkpidate": "2025-01-09"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 43.11,
+    "msdyn_indkpidate": "2025-01-10"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 105.55,
+    "msdyn_indkpidate": "2025-01-11"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 118.96,
+    "msdyn_indkpidate": "2025-01-12"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 67.71,
+    "msdyn_indkpidate": "2025-01-13"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 177.04,
+    "msdyn_indkpidate": "2025-01-14"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 96.16,
+    "msdyn_indkpidate": "2025-01-15"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 58.12,
+    "msdyn_indkpidate": "2025-01-16"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 117.07,
+    "msdyn_indkpidate": "2025-01-17"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 151.39,
+    "msdyn_indkpidate": "2025-01-18"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 56.21,
+    "msdyn_indkpidate": "2025-01-19"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 76.11,
+    "msdyn_indkpidate": "2025-01-20"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 199.13,
+    "msdyn_indkpidate": "2025-01-21"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 136.98,
+    "msdyn_indkpidate": "2025-01-22"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 98.86,
+    "msdyn_indkpidate": "2025-01-23"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 113.16,
+    "msdyn_indkpidate": "2025-01-24"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 41.78,
+    "msdyn_indkpidate": "2025-01-25"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 60.45,
+    "msdyn_indkpidate": "2025-01-26"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 80.86,
+    "msdyn_indkpidate": "2025-01-27"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 125.9,
+    "msdyn_indkpidate": "2025-01-28"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 61.42,
+    "msdyn_indkpidate": "2025-01-29"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 59.64,
+    "msdyn_indkpidate": "2025-01-30"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_indkpiname": "GM",
     "msdyn_indkpidescription": "Gross Margin",
-    "msdyn_indkpivalue": 3.42,
-    "msdyn_indkpidate": "2025-12-01"
+    "msdyn_indkpivalue": 1.42,
+    "msdyn_indkpidate": "2025-12-22"
   },
   {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indname": "Store1_demo GM 2025-12-02_demo",
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 12.62,
+    "msdyn_indkpidate": "2025-12-23"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 4.58,
+    "msdyn_indkpidate": "2025-12-24"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 18.11,
+    "msdyn_indkpidate": "2025-12-25"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 17.19,
+    "msdyn_indkpidate": "2025-12-26"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 1.42,
+    "msdyn_indkpidate": "2025-12-27"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 4.76,
+    "msdyn_indkpidate": "2025-12-28"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 13.38,
+    "msdyn_indkpidate": "2025-12-29"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 4.28,
+    "msdyn_indkpidate": "2025-12-30"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 2.65,
+    "msdyn_indkpidate": "2025-12-31"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 18.71,
+    "msdyn_indkpidate": "2026-01-01"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 11.42,
+    "msdyn_indkpidate": "2026-01-02"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 9.45,
+    "msdyn_indkpidate": "2026-01-03"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 15.69,
+    "msdyn_indkpidate": "2026-01-04"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 16.15,
+    "msdyn_indkpidate": "2026-01-05"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 3.81,
+    "msdyn_indkpidate": "2026-01-06"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 1.94,
+    "msdyn_indkpidate": "2026-01-07"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 8.62,
+    "msdyn_indkpidate": "2026-01-08"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 8.47,
+    "msdyn_indkpidate": "2026-01-09"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 9.34,
+    "msdyn_indkpidate": "2026-01-10"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_indkpiname": "GM",
     "msdyn_indkpidescription": "Gross Margin",
     "msdyn_indkpivalue": 14.58,
-    "msdyn_indkpidate": "2025-12-02"
+    "msdyn_indkpidate": "2026-01-11"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 13.47,
+    "msdyn_indkpidate": "2026-01-12"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 19.68,
+    "msdyn_indkpidate": "2026-01-13"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 1.97,
+    "msdyn_indkpidate": "2026-01-14"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 8.05,
+    "msdyn_indkpidate": "2026-01-15"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 6.79,
+    "msdyn_indkpidate": "2026-01-16"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 17.23,
+    "msdyn_indkpidate": "2026-01-17"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 4.97,
+    "msdyn_indkpidate": "2026-01-18"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 3.8,
+    "msdyn_indkpidate": "2026-01-19"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 8.97,
+    "msdyn_indkpidate": "2026-01-20"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 8.44,
+    "msdyn_indkpidate": "2026-01-21"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 5.57,
+    "msdyn_indkpidate": "2026-01-22"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 5.0,
+    "msdyn_indkpidate": "2026-01-23"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 18.47,
+    "msdyn_indkpidate": "2026-01-24"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 8.86,
+    "msdyn_indkpidate": "2026-01-25"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 17.23,
+    "msdyn_indkpidate": "2026-01-26"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 11.01,
+    "msdyn_indkpidate": "2026-01-27"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 1.01,
+    "msdyn_indkpidate": "2026-01-28"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 19.99,
+    "msdyn_indkpidate": "2026-01-29"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 16.72,
+    "msdyn_indkpidate": "2026-01-30"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 19.38,
+    "msdyn_indkpidate": "2024-12-22"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 18.53,
+    "msdyn_indkpidate": "2024-12-23"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 16.97,
+    "msdyn_indkpidate": "2024-12-24"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 3.33,
+    "msdyn_indkpidate": "2024-12-25"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 9.71,
+    "msdyn_indkpidate": "2024-12-26"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 4.27,
+    "msdyn_indkpidate": "2024-12-27"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 8.02,
+    "msdyn_indkpidate": "2024-12-28"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 1.17,
+    "msdyn_indkpidate": "2024-12-29"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 7.58,
+    "msdyn_indkpidate": "2024-12-30"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 19.71,
+    "msdyn_indkpidate": "2024-12-31"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 5.3,
+    "msdyn_indkpidate": "2025-01-01"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 15.68,
+    "msdyn_indkpidate": "2025-01-02"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 9.1,
+    "msdyn_indkpidate": "2025-01-03"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 8.46,
+    "msdyn_indkpidate": "2025-01-04"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 19.15,
+    "msdyn_indkpidate": "2025-01-05"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 19.91,
+    "msdyn_indkpidate": "2025-01-06"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 11.12,
+    "msdyn_indkpidate": "2025-01-07"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 14.37,
+    "msdyn_indkpidate": "2025-01-08"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 3.1,
+    "msdyn_indkpidate": "2025-01-09"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 5.93,
+    "msdyn_indkpidate": "2025-01-10"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 19.37,
+    "msdyn_indkpidate": "2025-01-11"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 11.58,
+    "msdyn_indkpidate": "2025-01-12"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 10.84,
+    "msdyn_indkpidate": "2025-01-13"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 14.96,
+    "msdyn_indkpidate": "2025-01-14"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 1.14,
+    "msdyn_indkpidate": "2025-01-15"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 11.68,
+    "msdyn_indkpidate": "2025-01-16"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 10.06,
+    "msdyn_indkpidate": "2025-01-17"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 17.05,
+    "msdyn_indkpidate": "2025-01-18"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 3.15,
+    "msdyn_indkpidate": "2025-01-19"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 19.22,
+    "msdyn_indkpidate": "2025-01-20"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 1.6,
+    "msdyn_indkpidate": "2025-01-21"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 3.72,
+    "msdyn_indkpidate": "2025-01-22"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 11.9,
+    "msdyn_indkpidate": "2025-01-23"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 13.5,
+    "msdyn_indkpidate": "2025-01-24"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 4.7,
+    "msdyn_indkpidate": "2025-01-25"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 2.4,
+    "msdyn_indkpidate": "2025-01-26"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 17.81,
+    "msdyn_indkpidate": "2025-01-27"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 4.92,
+    "msdyn_indkpidate": "2025-01-28"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 11.89,
+    "msdyn_indkpidate": "2025-01-29"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 12.39,
+    "msdyn_indkpidate": "2025-01-30"
   },
   {
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indname": "Store1_demo GM 2024-12-01_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin",
-    "msdyn_indkpivalue": 3.27,
-    "msdyn_indkpidate": "2024-12-01"
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 14192.25,
+    "msdyn_indkpidate": "2025-12-22"
   },
   {
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indname": "Store1_demo GM 2024-12-02_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 15836.72,
+    "msdyn_indkpidate": "2025-12-23"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 15227.83,
+    "msdyn_indkpidate": "2025-12-24"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 19347.06,
+    "msdyn_indkpidate": "2025-12-25"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12042.59,
+    "msdyn_indkpidate": "2025-12-26"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 17161.92,
+    "msdyn_indkpidate": "2025-12-27"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12386.86,
+    "msdyn_indkpidate": "2025-12-28"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 13957.86,
+    "msdyn_indkpidate": "2025-12-29"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 16716.9,
+    "msdyn_indkpidate": "2025-12-30"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12999.97,
+    "msdyn_indkpidate": "2025-12-31"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 13161.77,
+    "msdyn_indkpidate": "2026-01-01"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 17518.64,
+    "msdyn_indkpidate": "2026-01-02"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 10725.43,
+    "msdyn_indkpidate": "2026-01-03"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 14582.86,
+    "msdyn_indkpidate": "2026-01-04"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 19984.54,
+    "msdyn_indkpidate": "2026-01-05"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 19960.96,
+    "msdyn_indkpidate": "2026-01-06"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 10732.61,
+    "msdyn_indkpidate": "2026-01-07"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12131.54,
+    "msdyn_indkpidate": "2026-01-08"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12652.0,
+    "msdyn_indkpidate": "2026-01-09"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 19332.59,
+    "msdyn_indkpidate": "2026-01-10"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 18808.64,
+    "msdyn_indkpidate": "2026-01-11"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 18792.7,
+    "msdyn_indkpidate": "2026-01-12"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 13695.27,
+    "msdyn_indkpidate": "2026-01-13"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 11577.47,
+    "msdyn_indkpidate": "2026-01-14"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 18337.45,
+    "msdyn_indkpidate": "2026-01-15"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 17035.4,
+    "msdyn_indkpidate": "2026-01-16"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 16116.78,
+    "msdyn_indkpidate": "2026-01-17"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 19872.33,
+    "msdyn_indkpidate": "2026-01-18"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 16539.76,
+    "msdyn_indkpidate": "2026-01-19"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 10078.23,
+    "msdyn_indkpidate": "2026-01-20"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 18171.04,
+    "msdyn_indkpidate": "2026-01-21"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12993.79,
+    "msdyn_indkpidate": "2026-01-22"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 16633.89,
+    "msdyn_indkpidate": "2026-01-23"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 19389.3,
+    "msdyn_indkpidate": "2026-01-24"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 11342.91,
+    "msdyn_indkpidate": "2026-01-25"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 11154.29,
+    "msdyn_indkpidate": "2026-01-26"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 11070.36,
+    "msdyn_indkpidate": "2026-01-27"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 15532.24,
+    "msdyn_indkpidate": "2026-01-28"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12723.48,
+    "msdyn_indkpidate": "2026-01-29"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 16048.3,
+    "msdyn_indkpidate": "2026-01-30"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 17176.12,
+    "msdyn_indkpidate": "2024-12-22"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12035.97,
+    "msdyn_indkpidate": "2024-12-23"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 16342.38,
+    "msdyn_indkpidate": "2024-12-24"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12639.84,
+    "msdyn_indkpidate": "2024-12-25"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 14885.32,
+    "msdyn_indkpidate": "2024-12-26"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 19053.36,
+    "msdyn_indkpidate": "2024-12-27"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 18461.04,
+    "msdyn_indkpidate": "2024-12-28"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 10922.98,
+    "msdyn_indkpidate": "2024-12-29"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 14235.76,
+    "msdyn_indkpidate": "2024-12-30"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12766.8,
+    "msdyn_indkpidate": "2024-12-31"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 10035.46,
+    "msdyn_indkpidate": "2025-01-01"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 17711.19,
+    "msdyn_indkpidate": "2025-01-02"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 16371.13,
+    "msdyn_indkpidate": "2025-01-03"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12619.55,
+    "msdyn_indkpidate": "2025-01-04"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 17412.31,
+    "msdyn_indkpidate": "2025-01-05"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 15516.8,
+    "msdyn_indkpidate": "2025-01-06"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 14276.87,
+    "msdyn_indkpidate": "2025-01-07"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 10096.7,
+    "msdyn_indkpidate": "2025-01-08"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 10752.44,
+    "msdyn_indkpidate": "2025-01-09"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 18831.06,
+    "msdyn_indkpidate": "2025-01-10"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 19039.29,
+    "msdyn_indkpidate": "2025-01-11"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 15455.9,
+    "msdyn_indkpidate": "2025-01-12"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 18345.95,
+    "msdyn_indkpidate": "2025-01-13"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 15825.1,
+    "msdyn_indkpidate": "2025-01-14"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 11480.94,
+    "msdyn_indkpidate": "2025-01-15"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 11274.46,
+    "msdyn_indkpidate": "2025-01-16"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 13082.58,
+    "msdyn_indkpidate": "2025-01-17"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 18989.81,
+    "msdyn_indkpidate": "2025-01-18"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 17961.22,
+    "msdyn_indkpidate": "2025-01-19"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 18607.03,
+    "msdyn_indkpidate": "2025-01-20"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 18989.25,
+    "msdyn_indkpidate": "2025-01-21"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12100.77,
+    "msdyn_indkpidate": "2025-01-22"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 12495.3,
+    "msdyn_indkpidate": "2025-01-23"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 11027.94,
+    "msdyn_indkpidate": "2025-01-24"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 17801.16,
+    "msdyn_indkpidate": "2025-01-25"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 18841.35,
+    "msdyn_indkpidate": "2025-01-26"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 14063.77,
+    "msdyn_indkpidate": "2025-01-27"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 16206.62,
+    "msdyn_indkpidate": "2025-01-28"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 11545.53,
+    "msdyn_indkpidate": "2025-01-29"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "Sales",
+    "msdyn_indkpidescription": "Total sales in USD",
+    "msdyn_indkpivalue": 19298.81,
+    "msdyn_indkpidate": "2025-01-30"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 175.63,
+    "msdyn_indkpidate": "2025-12-22"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 195.72,
+    "msdyn_indkpidate": "2025-12-23"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 165.94,
+    "msdyn_indkpidate": "2025-12-24"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 178.65,
+    "msdyn_indkpidate": "2025-12-25"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 24.46,
+    "msdyn_indkpidate": "2025-12-26"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 152.58,
+    "msdyn_indkpidate": "2025-12-27"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 79.79,
+    "msdyn_indkpidate": "2025-12-28"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 187.55,
+    "msdyn_indkpidate": "2025-12-29"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 164.4,
+    "msdyn_indkpidate": "2025-12-30"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 175.53,
+    "msdyn_indkpidate": "2025-12-31"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 165.93,
+    "msdyn_indkpidate": "2026-01-01"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 68.03,
+    "msdyn_indkpidate": "2026-01-02"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 161.73,
+    "msdyn_indkpidate": "2026-01-03"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 39.46,
+    "msdyn_indkpidate": "2026-01-04"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 176.99,
+    "msdyn_indkpidate": "2026-01-05"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 174.55,
+    "msdyn_indkpidate": "2026-01-06"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 60.04,
+    "msdyn_indkpidate": "2026-01-07"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 166.99,
+    "msdyn_indkpidate": "2026-01-08"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 102.85,
+    "msdyn_indkpidate": "2026-01-09"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 74.93,
+    "msdyn_indkpidate": "2026-01-10"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 163.16,
+    "msdyn_indkpidate": "2026-01-11"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 60.97,
+    "msdyn_indkpidate": "2026-01-12"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 24.26,
+    "msdyn_indkpidate": "2026-01-13"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 54.76,
+    "msdyn_indkpidate": "2026-01-14"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 79.09,
+    "msdyn_indkpidate": "2026-01-15"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 175.58,
+    "msdyn_indkpidate": "2026-01-16"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 194.04,
+    "msdyn_indkpidate": "2026-01-17"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 70.24,
+    "msdyn_indkpidate": "2026-01-18"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 135.47,
+    "msdyn_indkpidate": "2026-01-19"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 91.94,
+    "msdyn_indkpidate": "2026-01-20"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 196.61,
+    "msdyn_indkpidate": "2026-01-21"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 116.52,
+    "msdyn_indkpidate": "2026-01-22"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 189.06,
+    "msdyn_indkpidate": "2026-01-23"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 40.76,
+    "msdyn_indkpidate": "2026-01-24"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 194.67,
+    "msdyn_indkpidate": "2026-01-25"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 52.14,
+    "msdyn_indkpidate": "2026-01-26"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 193.26,
+    "msdyn_indkpidate": "2026-01-27"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 67.78,
+    "msdyn_indkpidate": "2026-01-28"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 39.51,
+    "msdyn_indkpidate": "2026-01-29"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 98.22,
+    "msdyn_indkpidate": "2026-01-30"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 151.14,
+    "msdyn_indkpidate": "2024-12-22"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 76.46,
+    "msdyn_indkpidate": "2024-12-23"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 129.12,
+    "msdyn_indkpidate": "2024-12-24"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 112.06,
+    "msdyn_indkpidate": "2024-12-25"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 89.34,
+    "msdyn_indkpidate": "2024-12-26"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 123.79,
+    "msdyn_indkpidate": "2024-12-27"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 65.85,
+    "msdyn_indkpidate": "2024-12-28"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 147.58,
+    "msdyn_indkpidate": "2024-12-29"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 20.3,
+    "msdyn_indkpidate": "2024-12-30"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 186.6,
+    "msdyn_indkpidate": "2024-12-31"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 116.92,
+    "msdyn_indkpidate": "2025-01-01"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 149.5,
+    "msdyn_indkpidate": "2025-01-02"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 153.55,
+    "msdyn_indkpidate": "2025-01-03"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 140.71,
+    "msdyn_indkpidate": "2025-01-04"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 85.56,
+    "msdyn_indkpidate": "2025-01-05"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 32.6,
+    "msdyn_indkpidate": "2025-01-06"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 139.56,
+    "msdyn_indkpidate": "2025-01-07"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 79.44,
+    "msdyn_indkpidate": "2025-01-08"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 76.5,
+    "msdyn_indkpidate": "2025-01-09"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 172.64,
+    "msdyn_indkpidate": "2025-01-10"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 149.56,
+    "msdyn_indkpidate": "2025-01-11"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 74.06,
+    "msdyn_indkpidate": "2025-01-12"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 75.67,
+    "msdyn_indkpidate": "2025-01-13"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 93.51,
+    "msdyn_indkpidate": "2025-01-14"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 92.43,
+    "msdyn_indkpidate": "2025-01-15"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 73.22,
+    "msdyn_indkpidate": "2025-01-16"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 42.91,
+    "msdyn_indkpidate": "2025-01-17"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 95.68,
+    "msdyn_indkpidate": "2025-01-18"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 189.27,
+    "msdyn_indkpidate": "2025-01-19"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 141.92,
+    "msdyn_indkpidate": "2025-01-20"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 182.5,
+    "msdyn_indkpidate": "2025-01-21"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 130.79,
+    "msdyn_indkpidate": "2025-01-22"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 74.17,
+    "msdyn_indkpidate": "2025-01-23"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 118.63,
+    "msdyn_indkpidate": "2025-01-24"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 20.07,
+    "msdyn_indkpidate": "2025-01-25"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 71.64,
+    "msdyn_indkpidate": "2025-01-26"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 97.38,
+    "msdyn_indkpidate": "2025-01-27"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 124.4,
+    "msdyn_indkpidate": "2025-01-28"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 137.85,
+    "msdyn_indkpidate": "2025-01-29"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "AOV",
+    "msdyn_indkpidescription": "Average Order Value",
+    "msdyn_indkpivalue": 103.7,
+    "msdyn_indkpidate": "2025-01-30"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
     "msdyn_indkpiname": "GM",
     "msdyn_indkpidescription": "Gross Margin",
-    "msdyn_indkpivalue": 7.59,
-    "msdyn_indkpidate": "2024-12-02"
+    "msdyn_indkpivalue": 8.84,
+    "msdyn_indkpidate": "2025-12-22"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 4.27,
+    "msdyn_indkpidate": "2025-12-23"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 9.46,
+    "msdyn_indkpidate": "2025-12-24"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 18.02,
+    "msdyn_indkpidate": "2025-12-25"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 15.92,
+    "msdyn_indkpidate": "2025-12-26"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 3.39,
+    "msdyn_indkpidate": "2025-12-27"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 1.7,
+    "msdyn_indkpidate": "2025-12-28"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 10.31,
+    "msdyn_indkpidate": "2025-12-29"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 12.66,
+    "msdyn_indkpidate": "2025-12-30"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 6.7,
+    "msdyn_indkpidate": "2025-12-31"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 16.37,
+    "msdyn_indkpidate": "2026-01-01"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 15.02,
+    "msdyn_indkpidate": "2026-01-02"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 13.46,
+    "msdyn_indkpidate": "2026-01-03"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 4.49,
+    "msdyn_indkpidate": "2026-01-04"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 3.98,
+    "msdyn_indkpidate": "2026-01-05"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 0.49,
+    "msdyn_indkpidate": "2026-01-06"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 4.9,
+    "msdyn_indkpidate": "2026-01-07"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 9.5,
+    "msdyn_indkpidate": "2026-01-08"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 16.99,
+    "msdyn_indkpidate": "2026-01-09"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 1.46,
+    "msdyn_indkpidate": "2026-01-10"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 8.29,
+    "msdyn_indkpidate": "2026-01-11"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 12.6,
+    "msdyn_indkpidate": "2026-01-12"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 3.89,
+    "msdyn_indkpidate": "2026-01-13"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 13.93,
+    "msdyn_indkpidate": "2026-01-14"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 9.89,
+    "msdyn_indkpidate": "2026-01-15"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 4.88,
+    "msdyn_indkpidate": "2026-01-16"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 13.12,
+    "msdyn_indkpidate": "2026-01-17"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 0.11,
+    "msdyn_indkpidate": "2026-01-18"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 15.02,
+    "msdyn_indkpidate": "2026-01-19"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 15.4,
+    "msdyn_indkpidate": "2026-01-20"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 2.13,
+    "msdyn_indkpidate": "2026-01-21"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 8.5,
+    "msdyn_indkpidate": "2026-01-22"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 3.52,
+    "msdyn_indkpidate": "2026-01-23"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 19.16,
+    "msdyn_indkpidate": "2026-01-24"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 10.36,
+    "msdyn_indkpidate": "2026-01-25"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 1.0,
+    "msdyn_indkpidate": "2026-01-26"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 4.98,
+    "msdyn_indkpidate": "2026-01-27"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 16.97,
+    "msdyn_indkpidate": "2026-01-28"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 9.13,
+    "msdyn_indkpidate": "2026-01-29"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 16.03,
+    "msdyn_indkpidate": "2026-01-30"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 13.35,
+    "msdyn_indkpidate": "2024-12-22"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 19.76,
+    "msdyn_indkpidate": "2024-12-23"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 11.91,
+    "msdyn_indkpidate": "2024-12-24"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 19.0,
+    "msdyn_indkpidate": "2024-12-25"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 17.83,
+    "msdyn_indkpidate": "2024-12-26"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 12.25,
+    "msdyn_indkpidate": "2024-12-27"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 14.39,
+    "msdyn_indkpidate": "2024-12-28"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 10.1,
+    "msdyn_indkpidate": "2024-12-29"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 16.61,
+    "msdyn_indkpidate": "2024-12-30"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 10.96,
+    "msdyn_indkpidate": "2024-12-31"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 17.94,
+    "msdyn_indkpidate": "2025-01-01"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 14.87,
+    "msdyn_indkpidate": "2025-01-02"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 9.49,
+    "msdyn_indkpidate": "2025-01-03"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 5.18,
+    "msdyn_indkpidate": "2025-01-04"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 4.94,
+    "msdyn_indkpidate": "2025-01-05"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 12.75,
+    "msdyn_indkpidate": "2025-01-06"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 15.32,
+    "msdyn_indkpidate": "2025-01-07"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 10.43,
+    "msdyn_indkpidate": "2025-01-08"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 12.53,
+    "msdyn_indkpidate": "2025-01-09"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 5.49,
+    "msdyn_indkpidate": "2025-01-10"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 1.55,
+    "msdyn_indkpidate": "2025-01-11"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 5.71,
+    "msdyn_indkpidate": "2025-01-12"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 5.43,
+    "msdyn_indkpidate": "2025-01-13"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 6.39,
+    "msdyn_indkpidate": "2025-01-14"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 10.8,
+    "msdyn_indkpidate": "2025-01-15"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 2.77,
+    "msdyn_indkpidate": "2025-01-16"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 4.63,
+    "msdyn_indkpidate": "2025-01-17"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 13.88,
+    "msdyn_indkpidate": "2025-01-18"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 14.13,
+    "msdyn_indkpidate": "2025-01-19"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 1.28,
+    "msdyn_indkpidate": "2025-01-20"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 8.15,
+    "msdyn_indkpidate": "2025-01-21"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 10.85,
+    "msdyn_indkpidate": "2025-01-22"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 8.32,
+    "msdyn_indkpidate": "2025-01-23"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 4.14,
+    "msdyn_indkpidate": "2025-01-24"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 8.4,
+    "msdyn_indkpidate": "2025-01-25"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 18.1,
+    "msdyn_indkpidate": "2025-01-26"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 11.68,
+    "msdyn_indkpidate": "2025-01-27"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 13.91,
+    "msdyn_indkpidate": "2025-01-28"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 17.13,
+    "msdyn_indkpidate": "2025-01-29"
+  },
+  {
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indkpiname": "GM",
+    "msdyn_indkpidescription": "Gross Margin",
+    "msdyn_indkpivalue": 15.31,
+    "msdyn_indkpidate": "2025-01-30"
   }
 ]
