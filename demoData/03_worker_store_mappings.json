@@ -1,352 +1,172 @@
 [
   {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0001_demo",
+    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_001_demo",
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0001_demo"
+    "msdyn_indworkeridentifier": "WorkerId_001_demo"
   },
   {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0002_demo",
+    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_002_demo",
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0002_demo"
+    "msdyn_indworkeridentifier": "WorkerId_002_demo"
   },
   {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0003_demo",
+    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_003_demo",
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0003_demo"
+    "msdyn_indworkeridentifier": "WorkerId_003_demo"
   },
   {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0004_demo",
+    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_004_demo",
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0004_demo"
+    "msdyn_indworkeridentifier": "WorkerId_004_demo"
   },
   {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0005_demo",
+    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_005_demo",
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0005_demo"
+    "msdyn_indworkeridentifier": "WorkerId_005_demo"
   },
   {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0006_demo",
+    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_006_demo",
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0006_demo"
+    "msdyn_indworkeridentifier": "WorkerId_006_demo"
   },
   {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0007_demo",
+    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_007_demo",
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0007_demo"
+    "msdyn_indworkeridentifier": "WorkerId_007_demo"
   },
   {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0008_demo",
+    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_008_demo",
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0008_demo"
+    "msdyn_indworkeridentifier": "WorkerId_008_demo"
   },
   {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0009_demo",
+    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_009_demo",
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0009_demo"
+    "msdyn_indworkeridentifier": "WorkerId_009_demo"
   },
   {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0010_demo",
+    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_010_demo",
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0010_demo"
+    "msdyn_indworkeridentifier": "WorkerId_010_demo"
   },
   {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0011_demo",
+    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_011_demo",
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0011_demo"
+    "msdyn_indworkeridentifier": "WorkerId_011_demo"
   },
   {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0012_demo",
+    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_012_demo",
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0012_demo"
+    "msdyn_indworkeridentifier": "WorkerId_012_demo"
   },
   {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0013_demo",
+    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_013_demo",
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0013_demo"
+    "msdyn_indworkeridentifier": "WorkerId_013_demo"
   },
   {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0014_demo",
+    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_014_demo",
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0014_demo"
+    "msdyn_indworkeridentifier": "WorkerId_014_demo"
   },
   {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0015_demo",
+    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_015_demo",
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0015_demo"
+    "msdyn_indworkeridentifier": "WorkerId_015_demo"
   },
   {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0016_demo",
+    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_016_demo",
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0016_demo"
+    "msdyn_indworkeridentifier": "WorkerId_016_demo"
   },
   {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0017_demo",
+    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_017_demo",
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0017_demo"
+    "msdyn_indworkeridentifier": "WorkerId_017_demo"
   },
   {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0018_demo",
+    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_018_demo",
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0018_demo"
+    "msdyn_indworkeridentifier": "WorkerId_018_demo"
   },
   {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0019_demo",
+    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_019_demo",
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0019_demo"
+    "msdyn_indworkeridentifier": "WorkerId_019_demo"
   },
   {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0020_demo",
+    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_020_demo",
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0020_demo"
+    "msdyn_indworkeridentifier": "WorkerId_020_demo"
   },
   {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0021_demo",
+    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_021_demo",
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0021_demo"
+    "msdyn_indworkeridentifier": "WorkerId_021_demo"
   },
   {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0022_demo",
+    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_022_demo",
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0022_demo"
+    "msdyn_indworkeridentifier": "WorkerId_022_demo"
   },
   {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0023_demo",
+    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_023_demo",
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0023_demo"
+    "msdyn_indworkeridentifier": "WorkerId_023_demo"
   },
   {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0024_demo",
+    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_024_demo",
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0024_demo"
+    "msdyn_indworkeridentifier": "WorkerId_024_demo"
   },
   {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0025_demo",
+    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_025_demo",
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0025_demo"
+    "msdyn_indworkeridentifier": "WorkerId_025_demo"
   },
   {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0026_demo",
+    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_026_demo",
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0026_demo"
+    "msdyn_indworkeridentifier": "WorkerId_026_demo"
   },
   {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0027_demo",
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0027_demo"
-  },
-  {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0028_demo",
+    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_027_demo",
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0028_demo"
+    "msdyn_indworkeridentifier": "WorkerId_027_demo"
   },
   {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0029_demo",
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0029_demo"
-  },
-  {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0030_demo",
+    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_028_demo",
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0030_demo"
+    "msdyn_indworkeridentifier": "WorkerId_028_demo"
   },
   {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0031_demo",
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0031_demo"
-  },
-  {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0032_demo",
+    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_029_demo",
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0032_demo"
+    "msdyn_indworkeridentifier": "WorkerId_029_demo"
   },
   {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0033_demo",
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0033_demo"
-  },
-  {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0034_demo",
+    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_030_demo",
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0034_demo"
+    "msdyn_indworkeridentifier": "WorkerId_030_demo"
   },
   {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0035_demo",
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0035_demo"
-  },
-  {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0036_demo",
+    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_031_demo",
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0036_demo"
+    "msdyn_indworkeridentifier": "WorkerId_031_demo"
   },
   {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0037_demo",
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0037_demo"
-  },
-  {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0038_demo",
+    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_032_demo",
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0038_demo"
+    "msdyn_indworkeridentifier": "WorkerId_032_demo"
   },
   {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0039_demo",
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0039_demo"
-  },
-  {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0040_demo",
+    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_033_demo",
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0040_demo"
+    "msdyn_indworkeridentifier": "WorkerId_033_demo"
   },
   {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0041_demo",
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0041_demo"
-  },
-  {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0042_demo",
+    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_034_demo",
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0042_demo"
-  },
-  {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0043_demo",
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0043_demo"
-  },
-  {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0044_demo",
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0044_demo"
-  },
-  {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0045_demo",
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0045_demo"
-  },
-  {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0046_demo",
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0046_demo"
-  },
-  {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0047_demo",
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0047_demo"
-  },
-  {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0048_demo",
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0048_demo"
-  },
-  {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0049_demo",
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0049_demo"
-  },
-  {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0050_demo",
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0050_demo"
-  },
-  {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0051_demo",
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0051_demo"
-  },
-  {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0052_demo",
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0052_demo"
-  },
-  {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0053_demo",
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0053_demo"
-  },
-  {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0054_demo",
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0054_demo"
-  },
-  {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0055_demo",
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0055_demo"
-  },
-  {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0056_demo",
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0056_demo"
-  },
-  {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0057_demo",
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0057_demo"
-  },
-  {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0058_demo",
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0058_demo"
-  },
-  {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0059_demo",
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0059_demo"
-  },
-  {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0060_demo",
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0060_demo"
-  },
-  {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0061_demo",
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0061_demo"
-  },
-  {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0062_demo",
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0062_demo"
-  },
-  {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0063_demo",
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0063_demo"
-  },
-  {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0064_demo",
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0064_demo"
-  },
-  {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0065_demo",
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0065_demo"
-  },
-  {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0066_demo",
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0066_demo"
-  },
-  {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0067_demo",
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0067_demo"
-  },
-  {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0068_demo",
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0068_demo"
-  },
-  {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0069_demo",
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0069_demo"
-  },
-  {
-    "msdyn_indworkerstoremappingidentifier": "WorkerStoreMappingId_0070_demo",
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indworkeridentifier": "WorkerId_0070_demo"
+    "msdyn_indworkeridentifier": "WorkerId_034_demo"
   }
 ]
