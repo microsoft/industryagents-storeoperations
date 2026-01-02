@@ -2,12 +2,12 @@
   {
     "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_indname": "Contoso - New York",
-    "msdyn_inddescription": "Premium fashion retail store located in the heart of New York, NY. Offering a wide range of contemporary clothing, accessories, and lifestyle products for men, women, and children. Known for excellent customer service and the latest fashion trends.",
+    "msdyn_inddescription": "Located in the heart of New York City, Contoso is a flagship destination for modern urban professionals seeking refined, go‑anywhere style. The store curates tailored essentials, elevated streetwear, and statement outerwear designed for fast‑paced days that move from subway commutes to client meetings to evenings out. Personal styling and quick tailoring services help customers walk out fully dressed for whatever the city brings.",
     "msdyn_indstoreopeningtime": "09:00",
     "msdyn_indstoreclosingtime": "21:00",
     "msdyn_indlatitude": 40.7128,
     "msdyn_indlongitude": -74.006,
-    "msdyn_indlocation": "754 Main Street, New York, NY 24592, USA",
+    "msdyn_indlocation": "754 Main Street, New York, NY, US",
     "msdyn_indlocaltimezone": "America/New_York",
     "msdyn_indsizetype": "Small",
     "msdyn_indregion": "Northeast",
@@ -16,14 +16,14 @@
   {
     "msdyn_indstoreidentifier": "Store1_demo",
     "msdyn_indname": "Fabrikam - Los Angeles",
-    "msdyn_inddescription": "Premium fashion retail store located in the heart of Los Angeles, CA. Offering a wide range of contemporary clothing, accessories, and lifestyle products for men, women, and children. Known for excellent customer service and the latest fashion trends.",
+    "msdyn_inddescription": "Set along one of Los Angeles’ iconic shopping corridors, Fabrikam blends laid‑back West Coast ease with red‑carpet polish. Here, shoppers find lightweight layers, premium denim, and trend‑driven looks inspired by studio life, beach culture, and nighttime events. Spacious fitting suites, curbside pickup, and bookable styling sessions cater to creators, stylists, and on‑the‑move Angelenos.",
     "msdyn_indstoreopeningtime": "09:00",
     "msdyn_indstoreclosingtime": "21:00",
     "msdyn_indlatitude": 34.0522,
     "msdyn_indlongitude": -118.2437,
-    "msdyn_indlocation": "859 Main Street, Los Angeles, CA 46048, USA",
+    "msdyn_indlocation": "214 Main Street, Los Angeles, CA, US",
     "msdyn_indlocaltimezone": "America/Los_Angeles",
-    "msdyn_indsizetype": "Large",
+    "msdyn_indsizetype": "Medium",
     "msdyn_indregion": "West",
     "msdyn_indcountrycode": "US"
   }
