@@ -1,30 +1,30 @@
 [
   {
-    "msdyn_indsummary": "Shipment Delivery - 1200 units arriving on 13th Jan 2026",
+    "msdyn_indsummary": "Shipment Delivery - 1300 units arriving on 13th Jan 2026",
     "msdyn_indtype": "Shipment",
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indvalue": "{\"OriginalValue\":{\"EstimatedDelivery\":\"2026-01-13\",\"unit\":\"1200\"},\"VectorSearchQuery\":\"1200 units to be delivered to store on 13th January 2026\",\"DayofTheWeek\":\"Tuesday\"}",
+    "msdyn_indvalue": "{\"OriginalValue\":{\"EstimatedDelivery\":\"2026-01-13\",\"unit\":\"1300\"},\"VectorSearchQuery\":\"1300 units to be delivered to store on 13th January 2026\",\"DayofTheWeek\":\"Tuesday\"}",
     "msdyn_indsource": "Manifest"
   },
   {
-    "msdyn_indsummary": "Shipment Delivery - 1200 units arriving on 13th Jan 2026",
+    "msdyn_indsummary": "Shipment Delivery - 1500 units arriving on 13th Jan 2026",
     "msdyn_indtype": "Shipment",
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indvalue": "{\"OriginalValue\":{\"EstimatedDelivery\":\"2026-01-13\",\"unit\":\"1200\"},\"VectorSearchQuery\":\"1200 units to be delivered to store on 13th January 2026\",\"DayofTheWeek\":\"Tuesday\"}",
+    "msdyn_indvalue": "{\"OriginalValue\":{\"EstimatedDelivery\":\"2026-01-13\",\"unit\":\"1500\"},\"VectorSearchQuery\":\"1500 units to be delivered to store on 13th January 2026\",\"DayofTheWeek\":\"Tuesday\"}",
     "msdyn_indsource": "Manifest"
   },
   {
-    "msdyn_indsummary": "Shipment Delivery - 1200 units arriving on 20th Jan 2026",
+    "msdyn_indsummary": "Shipment Delivery - 1800 units arriving on 20th Jan 2026",
     "msdyn_indtype": "Shipment",
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indvalue": "{\"OriginalValue\":{\"EstimatedDelivery\":\"2026-01-20\",\"unit\":\"1200\"},\"VectorSearchQuery\":\"1200 units to be delivered to store on 20th January 2026\",\"DayofTheWeek\":\"Tuesday\"}",
+    "msdyn_indvalue": "{\"OriginalValue\":{\"EstimatedDelivery\":\"2026-01-20\",\"unit\":\"1800\"},\"VectorSearchQuery\":\"1800 units to be delivered to store on 20th January 2026\",\"DayofTheWeek\":\"Tuesday\"}",
     "msdyn_indsource": "Manifest"
   },
   {
-    "msdyn_indsummary": "Shipment Delivery - 1200 units arriving on 20th Jan 2026",
+    "msdyn_indsummary": "Shipment Delivery - 2000 units arriving on 20th Jan 2026",
     "msdyn_indtype": "Shipment",
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indvalue": "{\"OriginalValue\":{\"EstimatedDelivery\":\"2026-01-20\",\"unit\":\"1200\"},\"VectorSearchQuery\":\"1200 units to be delivered to store on 20th January 2026\",\"DayofTheWeek\":\"Tuesday\"}",
+    "msdyn_indvalue": "{\"OriginalValue\":{\"EstimatedDelivery\":\"2026-01-20\",\"unit\":\"2000\"},\"VectorSearchQuery\":\"2000 units to be delivered to store on 20th January 2026\",\"DayofTheWeek\":\"Tuesday\"}",
     "msdyn_indsource": "Manifest"
   },
   {
