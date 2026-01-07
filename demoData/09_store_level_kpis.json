@@ -1,1442 +1,2786 @@
 [
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 16948,
-    "msdyn_indkpidate": "2025-01-05",
-    "msdyn_indname": "store_level_kpi_24_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 269,
-    "msdyn_indkpidate": "2025-01-05",
-    "msdyn_indname": "store_level_kpi_25_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 20.55,
-    "msdyn_indkpidate": "2025-01-05",
-    "msdyn_indname": "store_level_kpi_26_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 9771,
-    "msdyn_indkpidate": "2025-01-06",
-    "msdyn_indname": "store_level_kpi_27_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 271,
-    "msdyn_indkpidate": "2025-01-06",
-    "msdyn_indname": "store_level_kpi_28_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 10.74,
-    "msdyn_indkpidate": "2025-01-06",
-    "msdyn_indname": "store_level_kpi_29_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 10298,
-    "msdyn_indkpidate": "2025-01-07",
-    "msdyn_indname": "store_level_kpi_30_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 264,
-    "msdyn_indkpidate": "2025-01-07",
-    "msdyn_indname": "store_level_kpi_31_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 15.47,
-    "msdyn_indkpidate": "2025-01-07",
-    "msdyn_indname": "store_level_kpi_32_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 11243,
-    "msdyn_indkpidate": "2025-01-08",
-    "msdyn_indname": "store_level_kpi_33_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 268,
-    "msdyn_indkpidate": "2025-01-08",
-    "msdyn_indname": "store_level_kpi_34_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 22.63,
-    "msdyn_indkpidate": "2025-01-08",
-    "msdyn_indname": "store_level_kpi_35_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 11742,
-    "msdyn_indkpidate": "2025-01-09",
-    "msdyn_indname": "store_level_kpi_36_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 261,
-    "msdyn_indkpidate": "2025-01-09",
-    "msdyn_indname": "store_level_kpi_37_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 10.66,
-    "msdyn_indkpidate": "2025-01-09",
-    "msdyn_indname": "store_level_kpi_38_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 15104,
-    "msdyn_indkpidate": "2025-01-10",
-    "msdyn_indname": "store_level_kpi_39_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 280,
-    "msdyn_indkpidate": "2025-01-10",
-    "msdyn_indname": "store_level_kpi_40_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 14.97,
-    "msdyn_indkpidate": "2025-01-10",
-    "msdyn_indname": "store_level_kpi_41_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 19365,
-    "msdyn_indkpidate": "2025-01-11",
-    "msdyn_indname": "store_level_kpi_42_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 269,
-    "msdyn_indkpidate": "2025-01-11",
-    "msdyn_indname": "store_level_kpi_43_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 26.25,
-    "msdyn_indkpidate": "2025-01-11",
-    "msdyn_indname": "store_level_kpi_44_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 15756,
-    "msdyn_indkpidate": "2025-01-12",
-    "msdyn_indname": "store_level_kpi_45_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 250,
-    "msdyn_indkpidate": "2025-01-12",
-    "msdyn_indname": "store_level_kpi_46_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 23.62,
-    "msdyn_indkpidate": "2025-01-12",
-    "msdyn_indname": "store_level_kpi_47_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 9653,
-    "msdyn_indkpidate": "2025-01-13",
-    "msdyn_indname": "store_level_kpi_48_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 268,
-    "msdyn_indkpidate": "2025-01-13",
-    "msdyn_indname": "store_level_kpi_49_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 15.51,
-    "msdyn_indkpidate": "2025-01-13",
-    "msdyn_indname": "store_level_kpi_50_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 9967,
-    "msdyn_indkpidate": "2025-01-14",
-    "msdyn_indname": "store_level_kpi_51_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 256,
-    "msdyn_indkpidate": "2025-01-14",
-    "msdyn_indname": "store_level_kpi_52_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 24.73,
-    "msdyn_indkpidate": "2025-01-14",
-    "msdyn_indname": "store_level_kpi_53_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 11097,
-    "msdyn_indkpidate": "2025-01-15",
-    "msdyn_indname": "store_level_kpi_54_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 264,
-    "msdyn_indkpidate": "2025-01-15",
-    "msdyn_indname": "store_level_kpi_55_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 30.24,
-    "msdyn_indkpidate": "2025-01-15",
-    "msdyn_indname": "store_level_kpi_56_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 11894,
-    "msdyn_indkpidate": "2025-01-16",
-    "msdyn_indname": "store_level_kpi_57_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 264,
-    "msdyn_indkpidate": "2025-01-16",
-    "msdyn_indname": "store_level_kpi_58_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 10.16,
-    "msdyn_indkpidate": "2025-01-16",
-    "msdyn_indname": "store_level_kpi_59_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 15355,
-    "msdyn_indkpidate": "2025-01-17",
-    "msdyn_indname": "store_level_kpi_60_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 284,
-    "msdyn_indkpidate": "2025-01-17",
-    "msdyn_indname": "store_level_kpi_61_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 30.15,
-    "msdyn_indkpidate": "2025-01-17",
-    "msdyn_indname": "store_level_kpi_62_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 18942,
-    "msdyn_indkpidate": "2025-01-18",
-    "msdyn_indname": "store_level_kpi_63_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 263,
-    "msdyn_indkpidate": "2025-01-18",
-    "msdyn_indname": "store_level_kpi_64_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 27.45,
-    "msdyn_indkpidate": "2025-01-18",
-    "msdyn_indname": "store_level_kpi_65_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 16680,
-    "msdyn_indkpidate": "2025-01-19",
-    "msdyn_indname": "store_level_kpi_66_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 265,
-    "msdyn_indkpidate": "2025-01-19",
-    "msdyn_indname": "store_level_kpi_67_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 18.51,
-    "msdyn_indkpidate": "2025-01-19",
-    "msdyn_indname": "store_level_kpi_68_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 10883,
-    "msdyn_indkpidate": "2026-01-05",
-    "msdyn_indname": "store_level_kpi_267_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 259,
-    "msdyn_indkpidate": "2026-01-05",
-    "msdyn_indname": "store_level_kpi_268_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 11.18,
-    "msdyn_indkpidate": "2026-01-05",
-    "msdyn_indname": "store_level_kpi_269_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 11750,
-    "msdyn_indkpidate": "2026-01-06",
-    "msdyn_indname": "store_level_kpi_270_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 261,
-    "msdyn_indkpidate": "2026-01-06",
-    "msdyn_indname": "store_level_kpi_271_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 12.74,
-    "msdyn_indkpidate": "2026-01-06",
-    "msdyn_indname": "store_level_kpi_272_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 12597,
-    "msdyn_indkpidate": "2026-01-07",
-    "msdyn_indname": "store_level_kpi_273_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 247,
-    "msdyn_indkpidate": "2026-01-07",
-    "msdyn_indname": "store_level_kpi_274_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 25.69,
-    "msdyn_indkpidate": "2026-01-07",
-    "msdyn_indname": "store_level_kpi_275_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 13991,
-    "msdyn_indkpidate": "2026-01-08",
-    "msdyn_indname": "store_level_kpi_276_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 274,
-    "msdyn_indkpidate": "2026-01-08",
-    "msdyn_indname": "store_level_kpi_277_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 29.8,
-    "msdyn_indkpidate": "2026-01-08",
-    "msdyn_indname": "store_level_kpi_278_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 17189,
-    "msdyn_indkpidate": "2026-01-09",
-    "msdyn_indname": "store_level_kpi_279_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 273,
-    "msdyn_indkpidate": "2026-01-09",
-    "msdyn_indname": "store_level_kpi_280_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 20.55,
-    "msdyn_indkpidate": "2026-01-09",
-    "msdyn_indname": "store_level_kpi_281_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 22543,
-    "msdyn_indkpidate": "2026-01-10",
-    "msdyn_indname": "store_level_kpi_282_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 268,
-    "msdyn_indkpidate": "2026-01-10",
-    "msdyn_indname": "store_level_kpi_283_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 11.59,
-    "msdyn_indkpidate": "2026-01-10",
-    "msdyn_indname": "store_level_kpi_284_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 19115,
-    "msdyn_indkpidate": "2026-01-11",
-    "msdyn_indname": "store_level_kpi_285_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 255,
-    "msdyn_indkpidate": "2026-01-11",
-    "msdyn_indname": "store_level_kpi_286_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 19.54,
-    "msdyn_indkpidate": "2026-01-11",
-    "msdyn_indname": "store_level_kpi_287_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 11037,
-    "msdyn_indkpidate": "2026-01-12",
-    "msdyn_indname": "store_level_kpi_288_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 263,
-    "msdyn_indkpidate": "2026-01-12",
-    "msdyn_indname": "store_level_kpi_289_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 34.9,
-    "msdyn_indkpidate": "2026-01-12",
-    "msdyn_indname": "store_level_kpi_290_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 11871,
-    "msdyn_indkpidate": "2026-01-13",
-    "msdyn_indname": "store_level_kpi_291_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 264,
-    "msdyn_indkpidate": "2026-01-13",
-    "msdyn_indname": "store_level_kpi_292_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 23.23,
-    "msdyn_indkpidate": "2026-01-13",
-    "msdyn_indname": "store_level_kpi_293_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 13117,
-    "msdyn_indkpidate": "2026-01-14",
-    "msdyn_indname": "store_level_kpi_294_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 257,
-    "msdyn_indkpidate": "2026-01-14",
-    "msdyn_indname": "store_level_kpi_295_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 34.28,
-    "msdyn_indkpidate": "2026-01-14",
-    "msdyn_indname": "store_level_kpi_296_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 14956,
-    "msdyn_indkpidate": "2026-01-15",
-    "msdyn_indname": "store_level_kpi_297_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 293,
-    "msdyn_indkpidate": "2026-01-15",
-    "msdyn_indname": "store_level_kpi_298_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 31.52,
-    "msdyn_indkpidate": "2026-01-15",
-    "msdyn_indname": "store_level_kpi_299_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 17259,
-    "msdyn_indkpidate": "2026-01-16",
-    "msdyn_indname": "store_level_kpi_300_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 274,
-    "msdyn_indkpidate": "2026-01-16",
-    "msdyn_indname": "store_level_kpi_301_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 10.29,
-    "msdyn_indkpidate": "2026-01-16",
-    "msdyn_indname": "store_level_kpi_302_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 23055,
-    "msdyn_indkpidate": "2026-01-17",
-    "msdyn_indname": "store_level_kpi_303_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 274,
-    "msdyn_indkpidate": "2026-01-17",
-    "msdyn_indname": "store_level_kpi_304_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 28.02,
-    "msdyn_indkpidate": "2026-01-17",
-    "msdyn_indname": "store_level_kpi_305_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 18682,
-    "msdyn_indkpidate": "2026-01-18",
-    "msdyn_indname": "store_level_kpi_306_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 249,
-    "msdyn_indkpidate": "2026-01-18",
-    "msdyn_indname": "store_level_kpi_307_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 27.04,
-    "msdyn_indkpidate": "2026-01-18",
-    "msdyn_indname": "store_level_kpi_308_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 15228,
-    "msdyn_indkpidate": "2026-01-19",
-    "msdyn_indname": "store_level_kpi_309_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 299,
-    "msdyn_indkpidate": "2026-01-19",
-    "msdyn_indname": "store_level_kpi_310_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 23.42,
-    "msdyn_indkpidate": "2026-01-19",
-    "msdyn_indname": "store_level_kpi_311_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 18721,
-    "msdyn_indkpidate": "2025-01-05",
-    "msdyn_indname": "store_level_kpi_501_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 195,
-    "msdyn_indkpidate": "2025-01-05",
-    "msdyn_indname": "store_level_kpi_502_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 26.72,
-    "msdyn_indkpidate": "2025-01-05",
-    "msdyn_indname": "store_level_kpi_503_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 10444,
-    "msdyn_indkpidate": "2025-01-06",
-    "msdyn_indname": "store_level_kpi_504_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 193,
-    "msdyn_indkpidate": "2025-01-06",
-    "msdyn_indname": "store_level_kpi_505_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 15.36,
-    "msdyn_indkpidate": "2025-01-06",
-    "msdyn_indname": "store_level_kpi_506_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 10931,
-    "msdyn_indkpidate": "2025-01-07",
-    "msdyn_indname": "store_level_kpi_507_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 182,
-    "msdyn_indkpidate": "2025-01-07",
-    "msdyn_indname": "store_level_kpi_508_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 13.31,
-    "msdyn_indkpidate": "2025-01-07",
-    "msdyn_indname": "store_level_kpi_509_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 11745,
-    "msdyn_indkpidate": "2025-01-08",
-    "msdyn_indname": "store_level_kpi_510_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 178,
-    "msdyn_indkpidate": "2025-01-08",
-    "msdyn_indname": "store_level_kpi_511_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 33.39,
-    "msdyn_indkpidate": "2025-01-08",
-    "msdyn_indname": "store_level_kpi_512_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 14156,
-    "msdyn_indkpidate": "2025-01-09",
-    "msdyn_indname": "store_level_kpi_513_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 197,
-    "msdyn_indkpidate": "2025-01-09",
-    "msdyn_indname": "store_level_kpi_514_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 24.28,
-    "msdyn_indkpidate": "2025-01-09",
-    "msdyn_indname": "store_level_kpi_515_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 17231,
-    "msdyn_indkpidate": "2025-01-10",
-    "msdyn_indname": "store_level_kpi_516_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 205,
-    "msdyn_indkpidate": "2025-01-10",
-    "msdyn_indname": "store_level_kpi_517_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 21.82,
-    "msdyn_indkpidate": "2025-01-10",
-    "msdyn_indname": "store_level_kpi_518_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 21590,
-    "msdyn_indkpidate": "2025-01-11",
-    "msdyn_indname": "store_level_kpi_519_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 189,
-    "msdyn_indkpidate": "2025-01-11",
-    "msdyn_indname": "store_level_kpi_520_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 29.62,
-    "msdyn_indkpidate": "2025-01-11",
-    "msdyn_indname": "store_level_kpi_521_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 18255,
-    "msdyn_indkpidate": "2025-01-12",
-    "msdyn_indname": "store_level_kpi_522_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 190,
-    "msdyn_indkpidate": "2025-01-12",
-    "msdyn_indname": "store_level_kpi_523_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 30.19,
-    "msdyn_indkpidate": "2025-01-12",
-    "msdyn_indname": "store_level_kpi_524_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 11187,
-    "msdyn_indkpidate": "2025-01-13",
-    "msdyn_indname": "store_level_kpi_525_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 207,
-    "msdyn_indkpidate": "2025-01-13",
-    "msdyn_indname": "store_level_kpi_526_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 14.76,
-    "msdyn_indkpidate": "2025-01-13",
-    "msdyn_indname": "store_level_kpi_527_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 10696,
-    "msdyn_indkpidate": "2025-01-14",
-    "msdyn_indname": "store_level_kpi_528_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 178,
-    "msdyn_indkpidate": "2025-01-14",
-    "msdyn_indname": "store_level_kpi_529_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 12.42,
-    "msdyn_indkpidate": "2025-01-14",
-    "msdyn_indname": "store_level_kpi_530_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 11594,
-    "msdyn_indkpidate": "2025-01-15",
-    "msdyn_indname": "store_level_kpi_531_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 176,
-    "msdyn_indkpidate": "2025-01-15",
-    "msdyn_indname": "store_level_kpi_532_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 20.78,
-    "msdyn_indkpidate": "2025-01-15",
-    "msdyn_indname": "store_level_kpi_533_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 14063,
-    "msdyn_indkpidate": "2025-01-16",
-    "msdyn_indname": "store_level_kpi_534_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 195,
-    "msdyn_indkpidate": "2025-01-16",
-    "msdyn_indname": "store_level_kpi_535_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 20.59,
-    "msdyn_indkpidate": "2025-01-16",
-    "msdyn_indname": "store_level_kpi_536_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 16925,
-    "msdyn_indkpidate": "2025-01-17",
-    "msdyn_indname": "store_level_kpi_537_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 201,
-    "msdyn_indkpidate": "2025-01-17",
-    "msdyn_indname": "store_level_kpi_538_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 21.68,
-    "msdyn_indkpidate": "2025-01-17",
-    "msdyn_indname": "store_level_kpi_539_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 20638,
-    "msdyn_indkpidate": "2025-01-18",
-    "msdyn_indname": "store_level_kpi_540_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 181,
-    "msdyn_indkpidate": "2025-01-18",
-    "msdyn_indname": "store_level_kpi_541_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 28.23,
-    "msdyn_indkpidate": "2025-01-18",
-    "msdyn_indname": "store_level_kpi_542_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 18030,
-    "msdyn_indkpidate": "2025-01-19",
-    "msdyn_indname": "store_level_kpi_543_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 188,
-    "msdyn_indkpidate": "2025-01-19",
-    "msdyn_indname": "store_level_kpi_544_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 26.83,
-    "msdyn_indkpidate": "2025-01-19",
-    "msdyn_indname": "store_level_kpi_545_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 12568,
-    "msdyn_indkpidate": "2026-01-05",
-    "msdyn_indname": "store_level_kpi_744_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 182,
-    "msdyn_indkpidate": "2026-01-05",
-    "msdyn_indname": "store_level_kpi_745_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 26.79,
-    "msdyn_indkpidate": "2026-01-05",
-    "msdyn_indname": "store_level_kpi_746_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 13489,
-    "msdyn_indkpidate": "2026-01-06",
-    "msdyn_indname": "store_level_kpi_747_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 187,
-    "msdyn_indkpidate": "2026-01-06",
-    "msdyn_indname": "store_level_kpi_748_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 17.5,
-    "msdyn_indkpidate": "2026-01-06",
-    "msdyn_indname": "store_level_kpi_749_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 14567,
-    "msdyn_indkpidate": "2026-01-07",
-    "msdyn_indname": "store_level_kpi_750_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 180,
-    "msdyn_indkpidate": "2026-01-07",
-    "msdyn_indname": "store_level_kpi_751_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 17.9,
-    "msdyn_indkpidate": "2026-01-07",
-    "msdyn_indname": "store_level_kpi_752_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 16197,
-    "msdyn_indkpidate": "2026-01-08",
-    "msdyn_indname": "store_level_kpi_753_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 193,
-    "msdyn_indkpidate": "2026-01-08",
-    "msdyn_indname": "store_level_kpi_754_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 28.8,
-    "msdyn_indkpidate": "2026-01-08",
-    "msdyn_indname": "store_level_kpi_755_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 19084,
-    "msdyn_indkpidate": "2026-01-09",
-    "msdyn_indname": "store_level_kpi_756_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 187,
-    "msdyn_indkpidate": "2026-01-09",
-    "msdyn_indname": "store_level_kpi_757_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 11.81,
-    "msdyn_indkpidate": "2026-01-09",
-    "msdyn_indname": "store_level_kpi_758_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 24497,
-    "msdyn_indkpidate": "2026-01-10",
-    "msdyn_indname": "store_level_kpi_759_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 181,
-    "msdyn_indkpidate": "2026-01-10",
-    "msdyn_indname": "store_level_kpi_760_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 21.46,
-    "msdyn_indkpidate": "2026-01-10",
-    "msdyn_indname": "store_level_kpi_761_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 20198,
-    "msdyn_indkpidate": "2026-01-11",
-    "msdyn_indname": "store_level_kpi_762_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 177,
-    "msdyn_indkpidate": "2026-01-11",
-    "msdyn_indname": "store_level_kpi_763_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 34.96,
-    "msdyn_indkpidate": "2026-01-11",
-    "msdyn_indname": "store_level_kpi_764_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 12491,
-    "msdyn_indkpidate": "2026-01-12",
-    "msdyn_indname": "store_level_kpi_765_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 181,
-    "msdyn_indkpidate": "2026-01-12",
-    "msdyn_indname": "store_level_kpi_766_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 34.9,
-    "msdyn_indkpidate": "2026-01-12",
-    "msdyn_indname": "store_level_kpi_767_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 12885,
-    "msdyn_indkpidate": "2026-01-13",
-    "msdyn_indname": "store_level_kpi_768_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 179,
-    "msdyn_indkpidate": "2026-01-13",
-    "msdyn_indname": "store_level_kpi_769_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 11.83,
-    "msdyn_indkpidate": "2026-01-13",
-    "msdyn_indname": "store_level_kpi_770_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 14195,
-    "msdyn_indkpidate": "2026-01-14",
-    "msdyn_indname": "store_level_kpi_771_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 175,
-    "msdyn_indkpidate": "2026-01-14",
-    "msdyn_indname": "store_level_kpi_772_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 15.33,
-    "msdyn_indkpidate": "2026-01-14",
-    "msdyn_indname": "store_level_kpi_773_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 16314,
-    "msdyn_indkpidate": "2026-01-15",
-    "msdyn_indname": "store_level_kpi_774_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 194,
-    "msdyn_indkpidate": "2026-01-15",
-    "msdyn_indname": "store_level_kpi_775_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 16.63,
-    "msdyn_indkpidate": "2026-01-15",
-    "msdyn_indname": "store_level_kpi_776_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 19465,
-    "msdyn_indkpidate": "2026-01-16",
-    "msdyn_indname": "store_level_kpi_777_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 191,
-    "msdyn_indkpidate": "2026-01-16",
-    "msdyn_indname": "store_level_kpi_778_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 33.33,
-    "msdyn_indkpidate": "2026-01-16",
-    "msdyn_indname": "store_level_kpi_779_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 24160,
-    "msdyn_indkpidate": "2026-01-17",
-    "msdyn_indname": "store_level_kpi_780_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 179,
-    "msdyn_indkpidate": "2026-01-17",
-    "msdyn_indname": "store_level_kpi_781_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 32.02,
-    "msdyn_indkpidate": "2026-01-17",
-    "msdyn_indname": "store_level_kpi_782_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 19914,
-    "msdyn_indkpidate": "2026-01-18",
-    "msdyn_indname": "store_level_kpi_783_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 175,
-    "msdyn_indkpidate": "2026-01-18",
-    "msdyn_indname": "store_level_kpi_784_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 31.98,
-    "msdyn_indkpidate": "2026-01-18",
-    "msdyn_indname": "store_level_kpi_785_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "Sales",
-    "msdyn_indkpidescription": "Total Sales Amount",
-    "msdyn_indkpivalue": 15974,
-    "msdyn_indkpidate": "2026-01-19",
-    "msdyn_indname": "store_level_kpi_786_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "AOV",
-    "msdyn_indkpidescription": "Average Order Value",
-    "msdyn_indkpivalue": 177,
-    "msdyn_indkpidate": "2026-01-19",
-    "msdyn_indname": "store_level_kpi_787_demo"
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_indkpiname": "GM",
-    "msdyn_indkpidescription": "Gross Margin Percentage",
-    "msdyn_indkpivalue": 19.24,
-    "msdyn_indkpidate": "2026-01-19",
-    "msdyn_indname": "store_level_kpi_788_demo"
-  }
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 29890,
+        "msdyn_indkpidate": "2024-12-28",
+        "msdyn_indname": "store_level_kpi_0_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 269,
+        "msdyn_indkpidate": "2024-12-28",
+        "msdyn_indname": "store_level_kpi_1_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 25.99,
+        "msdyn_indkpidate": "2024-12-28",
+        "msdyn_indname": "store_level_kpi_2_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 26430,
+        "msdyn_indkpidate": "2024-12-29",
+        "msdyn_indname": "store_level_kpi_3_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 275,
+        "msdyn_indkpidate": "2024-12-29",
+        "msdyn_indname": "store_level_kpi_4_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 10.63,
+        "msdyn_indkpidate": "2024-12-29",
+        "msdyn_indname": "store_level_kpi_5_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 15829,
+        "msdyn_indkpidate": "2024-12-30",
+        "msdyn_indname": "store_level_kpi_6_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 264,
+        "msdyn_indkpidate": "2024-12-30",
+        "msdyn_indname": "store_level_kpi_7_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 16.88,
+        "msdyn_indkpidate": "2024-12-30",
+        "msdyn_indname": "store_level_kpi_8_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 20035,
+        "msdyn_indkpidate": "2024-12-31",
+        "msdyn_indname": "store_level_kpi_9_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 267,
+        "msdyn_indkpidate": "2024-12-31",
+        "msdyn_indname": "store_level_kpi_10_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 15.58,
+        "msdyn_indkpidate": "2024-12-31",
+        "msdyn_indname": "store_level_kpi_11_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 13227,
+        "msdyn_indkpidate": "2025-01-01",
+        "msdyn_indname": "store_level_kpi_12_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 245,
+        "msdyn_indkpidate": "2025-01-01",
+        "msdyn_indname": "store_level_kpi_13_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 28.41,
+        "msdyn_indkpidate": "2025-01-01",
+        "msdyn_indname": "store_level_kpi_14_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 12236,
+        "msdyn_indkpidate": "2025-01-02",
+        "msdyn_indname": "store_level_kpi_15_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 272,
+        "msdyn_indkpidate": "2025-01-02",
+        "msdyn_indname": "store_level_kpi_16_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 26.92,
+        "msdyn_indkpidate": "2025-01-02",
+        "msdyn_indname": "store_level_kpi_17_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 15469,
+        "msdyn_indkpidate": "2025-01-03",
+        "msdyn_indname": "store_level_kpi_18_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 286,
+        "msdyn_indkpidate": "2025-01-03",
+        "msdyn_indname": "store_level_kpi_19_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 32.3,
+        "msdyn_indkpidate": "2025-01-03",
+        "msdyn_indname": "store_level_kpi_20_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 18951,
+        "msdyn_indkpidate": "2025-01-04",
+        "msdyn_indname": "store_level_kpi_21_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 263,
+        "msdyn_indkpidate": "2025-01-04",
+        "msdyn_indname": "store_level_kpi_22_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 12.17,
+        "msdyn_indkpidate": "2025-01-04",
+        "msdyn_indname": "store_level_kpi_23_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 16948,
+        "msdyn_indkpidate": "2025-01-05",
+        "msdyn_indname": "store_level_kpi_24_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 269,
+        "msdyn_indkpidate": "2025-01-05",
+        "msdyn_indname": "store_level_kpi_25_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 20.55,
+        "msdyn_indkpidate": "2025-01-05",
+        "msdyn_indname": "store_level_kpi_26_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 9771,
+        "msdyn_indkpidate": "2025-01-06",
+        "msdyn_indname": "store_level_kpi_27_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 271,
+        "msdyn_indkpidate": "2025-01-06",
+        "msdyn_indname": "store_level_kpi_28_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 10.74,
+        "msdyn_indkpidate": "2025-01-06",
+        "msdyn_indname": "store_level_kpi_29_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 10298,
+        "msdyn_indkpidate": "2025-01-07",
+        "msdyn_indname": "store_level_kpi_30_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 264,
+        "msdyn_indkpidate": "2025-01-07",
+        "msdyn_indname": "store_level_kpi_31_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 15.47,
+        "msdyn_indkpidate": "2025-01-07",
+        "msdyn_indname": "store_level_kpi_32_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 11243,
+        "msdyn_indkpidate": "2025-01-08",
+        "msdyn_indname": "store_level_kpi_33_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 268,
+        "msdyn_indkpidate": "2025-01-08",
+        "msdyn_indname": "store_level_kpi_34_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 22.63,
+        "msdyn_indkpidate": "2025-01-08",
+        "msdyn_indname": "store_level_kpi_35_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 11742,
+        "msdyn_indkpidate": "2025-01-09",
+        "msdyn_indname": "store_level_kpi_36_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 261,
+        "msdyn_indkpidate": "2025-01-09",
+        "msdyn_indname": "store_level_kpi_37_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 10.66,
+        "msdyn_indkpidate": "2025-01-09",
+        "msdyn_indname": "store_level_kpi_38_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 15104,
+        "msdyn_indkpidate": "2025-01-10",
+        "msdyn_indname": "store_level_kpi_39_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 280,
+        "msdyn_indkpidate": "2025-01-10",
+        "msdyn_indname": "store_level_kpi_40_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 14.97,
+        "msdyn_indkpidate": "2025-01-10",
+        "msdyn_indname": "store_level_kpi_41_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 19365,
+        "msdyn_indkpidate": "2025-01-11",
+        "msdyn_indname": "store_level_kpi_42_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 269,
+        "msdyn_indkpidate": "2025-01-11",
+        "msdyn_indname": "store_level_kpi_43_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 26.25,
+        "msdyn_indkpidate": "2025-01-11",
+        "msdyn_indname": "store_level_kpi_44_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 15756,
+        "msdyn_indkpidate": "2025-01-12",
+        "msdyn_indname": "store_level_kpi_45_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 250,
+        "msdyn_indkpidate": "2025-01-12",
+        "msdyn_indname": "store_level_kpi_46_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 23.62,
+        "msdyn_indkpidate": "2025-01-12",
+        "msdyn_indname": "store_level_kpi_47_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 9653,
+        "msdyn_indkpidate": "2025-01-13",
+        "msdyn_indname": "store_level_kpi_48_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 268,
+        "msdyn_indkpidate": "2025-01-13",
+        "msdyn_indname": "store_level_kpi_49_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 15.51,
+        "msdyn_indkpidate": "2025-01-13",
+        "msdyn_indname": "store_level_kpi_50_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 9967,
+        "msdyn_indkpidate": "2025-01-14",
+        "msdyn_indname": "store_level_kpi_51_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 256,
+        "msdyn_indkpidate": "2025-01-14",
+        "msdyn_indname": "store_level_kpi_52_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 24.73,
+        "msdyn_indkpidate": "2025-01-14",
+        "msdyn_indname": "store_level_kpi_53_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 11097,
+        "msdyn_indkpidate": "2025-01-15",
+        "msdyn_indname": "store_level_kpi_54_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 264,
+        "msdyn_indkpidate": "2025-01-15",
+        "msdyn_indname": "store_level_kpi_55_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 30.24,
+        "msdyn_indkpidate": "2025-01-15",
+        "msdyn_indname": "store_level_kpi_56_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 11894,
+        "msdyn_indkpidate": "2025-01-16",
+        "msdyn_indname": "store_level_kpi_57_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 264,
+        "msdyn_indkpidate": "2025-01-16",
+        "msdyn_indname": "store_level_kpi_58_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 10.16,
+        "msdyn_indkpidate": "2025-01-16",
+        "msdyn_indname": "store_level_kpi_59_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 15355,
+        "msdyn_indkpidate": "2025-01-17",
+        "msdyn_indname": "store_level_kpi_60_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 284,
+        "msdyn_indkpidate": "2025-01-17",
+        "msdyn_indname": "store_level_kpi_61_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 30.15,
+        "msdyn_indkpidate": "2025-01-17",
+        "msdyn_indname": "store_level_kpi_62_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 18942,
+        "msdyn_indkpidate": "2025-01-18",
+        "msdyn_indname": "store_level_kpi_63_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 263,
+        "msdyn_indkpidate": "2025-01-18",
+        "msdyn_indname": "store_level_kpi_64_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 27.45,
+        "msdyn_indkpidate": "2025-01-18",
+        "msdyn_indname": "store_level_kpi_65_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 16680,
+        "msdyn_indkpidate": "2025-01-19",
+        "msdyn_indname": "store_level_kpi_66_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 265,
+        "msdyn_indkpidate": "2025-01-19",
+        "msdyn_indname": "store_level_kpi_67_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 18.51,
+        "msdyn_indkpidate": "2025-01-19",
+        "msdyn_indname": "store_level_kpi_68_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 12133,
+        "msdyn_indkpidate": "2025-01-20",
+        "msdyn_indname": "store_level_kpi_69_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 270,
+        "msdyn_indkpidate": "2025-01-20",
+        "msdyn_indname": "store_level_kpi_70_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 13.89,
+        "msdyn_indkpidate": "2025-01-20",
+        "msdyn_indname": "store_level_kpi_71_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 10201,
+        "msdyn_indkpidate": "2025-01-21",
+        "msdyn_indname": "store_level_kpi_72_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 262,
+        "msdyn_indkpidate": "2025-01-21",
+        "msdyn_indname": "store_level_kpi_73_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 33.93,
+        "msdyn_indkpidate": "2025-01-21",
+        "msdyn_indname": "store_level_kpi_74_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 10607,
+        "msdyn_indkpidate": "2025-01-22",
+        "msdyn_indname": "store_level_kpi_75_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 253,
+        "msdyn_indkpidate": "2025-01-22",
+        "msdyn_indname": "store_level_kpi_76_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 18.41,
+        "msdyn_indkpidate": "2025-01-22",
+        "msdyn_indname": "store_level_kpi_77_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 12041,
+        "msdyn_indkpidate": "2025-01-23",
+        "msdyn_indname": "store_level_kpi_78_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 268,
+        "msdyn_indkpidate": "2025-01-23",
+        "msdyn_indname": "store_level_kpi_79_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 12.32,
+        "msdyn_indkpidate": "2025-01-23",
+        "msdyn_indname": "store_level_kpi_80_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 15366,
+        "msdyn_indkpidate": "2025-01-24",
+        "msdyn_indname": "store_level_kpi_81_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 285,
+        "msdyn_indkpidate": "2025-01-24",
+        "msdyn_indname": "store_level_kpi_82_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 12.42,
+        "msdyn_indkpidate": "2025-01-24",
+        "msdyn_indname": "store_level_kpi_83_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 19079,
+        "msdyn_indkpidate": "2025-01-25",
+        "msdyn_indname": "store_level_kpi_84_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 265,
+        "msdyn_indkpidate": "2025-01-25",
+        "msdyn_indname": "store_level_kpi_85_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 31.19,
+        "msdyn_indkpidate": "2025-01-25",
+        "msdyn_indname": "store_level_kpi_86_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 16881,
+        "msdyn_indkpidate": "2025-01-26",
+        "msdyn_indname": "store_level_kpi_87_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 268,
+        "msdyn_indkpidate": "2025-01-26",
+        "msdyn_indname": "store_level_kpi_88_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 25.09,
+        "msdyn_indkpidate": "2025-01-26",
+        "msdyn_indname": "store_level_kpi_89_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 9304,
+        "msdyn_indkpidate": "2025-01-27",
+        "msdyn_indname": "store_level_kpi_90_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 258,
+        "msdyn_indkpidate": "2025-01-27",
+        "msdyn_indname": "store_level_kpi_91_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 30.18,
+        "msdyn_indkpidate": "2025-01-27",
+        "msdyn_indname": "store_level_kpi_92_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 15625,
+        "msdyn_indkpidate": "2025-01-28",
+        "msdyn_indname": "store_level_kpi_93_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 260,
+        "msdyn_indkpidate": "2025-01-28",
+        "msdyn_indname": "store_level_kpi_94_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 28.24,
+        "msdyn_indkpidate": "2025-01-28",
+        "msdyn_indname": "store_level_kpi_95_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 13382,
+        "msdyn_indkpidate": "2025-01-29",
+        "msdyn_indname": "store_level_kpi_96_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 248,
+        "msdyn_indkpidate": "2025-01-29",
+        "msdyn_indname": "store_level_kpi_97_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 23.41,
+        "msdyn_indkpidate": "2025-01-29",
+        "msdyn_indname": "store_level_kpi_98_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 14574,
+        "msdyn_indkpidate": "2025-01-30",
+        "msdyn_indname": "store_level_kpi_99_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 270,
+        "msdyn_indkpidate": "2025-01-30",
+        "msdyn_indname": "store_level_kpi_100_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 34.33,
+        "msdyn_indkpidate": "2025-01-30",
+        "msdyn_indname": "store_level_kpi_101_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 14628,
+        "msdyn_indkpidate": "2025-01-31",
+        "msdyn_indname": "store_level_kpi_102_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 271,
+        "msdyn_indkpidate": "2025-01-31",
+        "msdyn_indname": "store_level_kpi_103_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 19.46,
+        "msdyn_indkpidate": "2025-01-31",
+        "msdyn_indname": "store_level_kpi_104_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 22294,
+        "msdyn_indkpidate": "2025-02-01",
+        "msdyn_indname": "store_level_kpi_105_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 265,
+        "msdyn_indkpidate": "2025-02-01",
+        "msdyn_indname": "store_level_kpi_106_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 23.8,
+        "msdyn_indkpidate": "2025-02-01",
+        "msdyn_indname": "store_level_kpi_107_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 19170,
+        "msdyn_indkpidate": "2025-02-02",
+        "msdyn_indname": "store_level_kpi_108_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 266,
+        "msdyn_indkpidate": "2025-02-02",
+        "msdyn_indname": "store_level_kpi_109_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 30.74,
+        "msdyn_indkpidate": "2025-02-02",
+        "msdyn_indname": "store_level_kpi_110_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 19315,
+        "msdyn_indkpidate": "2025-12-30",
+        "msdyn_indname": "store_level_kpi_249_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 258,
+        "msdyn_indkpidate": "2025-12-30",
+        "msdyn_indname": "store_level_kpi_250_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 32.45,
+        "msdyn_indkpidate": "2025-12-30",
+        "msdyn_indname": "store_level_kpi_251_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 25148,
+        "msdyn_indkpidate": "2025-12-31",
+        "msdyn_indname": "store_level_kpi_252_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 270,
+        "msdyn_indkpidate": "2025-12-31",
+        "msdyn_indname": "store_level_kpi_253_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 19.99,
+        "msdyn_indkpidate": "2025-12-31",
+        "msdyn_indname": "store_level_kpi_254_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 17424,
+        "msdyn_indkpidate": "2026-01-01",
+        "msdyn_indname": "store_level_kpi_255_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 277,
+        "msdyn_indkpidate": "2026-01-01",
+        "msdyn_indname": "store_level_kpi_256_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 15.48,
+        "msdyn_indkpidate": "2026-01-01",
+        "msdyn_indname": "store_level_kpi_257_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 16594,
+        "msdyn_indkpidate": "2026-01-02",
+        "msdyn_indname": "store_level_kpi_258_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 263,
+        "msdyn_indkpidate": "2026-01-02",
+        "msdyn_indname": "store_level_kpi_259_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 34.94,
+        "msdyn_indkpidate": "2026-01-02",
+        "msdyn_indname": "store_level_kpi_260_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 22530,
+        "msdyn_indkpidate": "2026-01-03",
+        "msdyn_indname": "store_level_kpi_261_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 268,
+        "msdyn_indkpidate": "2026-01-03",
+        "msdyn_indname": "store_level_kpi_262_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 22.74,
+        "msdyn_indkpidate": "2026-01-03",
+        "msdyn_indname": "store_level_kpi_263_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 18529,
+        "msdyn_indkpidate": "2026-01-04",
+        "msdyn_indname": "store_level_kpi_264_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 247,
+        "msdyn_indkpidate": "2026-01-04",
+        "msdyn_indname": "store_level_kpi_265_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 12.27,
+        "msdyn_indkpidate": "2026-01-04",
+        "msdyn_indname": "store_level_kpi_266_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 10883,
+        "msdyn_indkpidate": "2026-01-05",
+        "msdyn_indname": "store_level_kpi_267_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 259,
+        "msdyn_indkpidate": "2026-01-05",
+        "msdyn_indname": "store_level_kpi_268_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 11.18,
+        "msdyn_indkpidate": "2026-01-05",
+        "msdyn_indname": "store_level_kpi_269_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 11750,
+        "msdyn_indkpidate": "2026-01-06",
+        "msdyn_indname": "store_level_kpi_270_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 261,
+        "msdyn_indkpidate": "2026-01-06",
+        "msdyn_indname": "store_level_kpi_271_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 12.74,
+        "msdyn_indkpidate": "2026-01-06",
+        "msdyn_indname": "store_level_kpi_272_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 12597,
+        "msdyn_indkpidate": "2026-01-07",
+        "msdyn_indname": "store_level_kpi_273_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 247,
+        "msdyn_indkpidate": "2026-01-07",
+        "msdyn_indname": "store_level_kpi_274_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 25.69,
+        "msdyn_indkpidate": "2026-01-07",
+        "msdyn_indname": "store_level_kpi_275_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 13991,
+        "msdyn_indkpidate": "2026-01-08",
+        "msdyn_indname": "store_level_kpi_276_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 274,
+        "msdyn_indkpidate": "2026-01-08",
+        "msdyn_indname": "store_level_kpi_277_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 29.8,
+        "msdyn_indkpidate": "2026-01-08",
+        "msdyn_indname": "store_level_kpi_278_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 17189,
+        "msdyn_indkpidate": "2026-01-09",
+        "msdyn_indname": "store_level_kpi_279_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 273,
+        "msdyn_indkpidate": "2026-01-09",
+        "msdyn_indname": "store_level_kpi_280_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 20.55,
+        "msdyn_indkpidate": "2026-01-09",
+        "msdyn_indname": "store_level_kpi_281_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 22543,
+        "msdyn_indkpidate": "2026-01-10",
+        "msdyn_indname": "store_level_kpi_282_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 268,
+        "msdyn_indkpidate": "2026-01-10",
+        "msdyn_indname": "store_level_kpi_283_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 11.59,
+        "msdyn_indkpidate": "2026-01-10",
+        "msdyn_indname": "store_level_kpi_284_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 19115,
+        "msdyn_indkpidate": "2026-01-11",
+        "msdyn_indname": "store_level_kpi_285_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 255,
+        "msdyn_indkpidate": "2026-01-11",
+        "msdyn_indname": "store_level_kpi_286_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 19.54,
+        "msdyn_indkpidate": "2026-01-11",
+        "msdyn_indname": "store_level_kpi_287_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 11037,
+        "msdyn_indkpidate": "2026-01-12",
+        "msdyn_indname": "store_level_kpi_288_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 263,
+        "msdyn_indkpidate": "2026-01-12",
+        "msdyn_indname": "store_level_kpi_289_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 34.9,
+        "msdyn_indkpidate": "2026-01-12",
+        "msdyn_indname": "store_level_kpi_290_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 11871,
+        "msdyn_indkpidate": "2026-01-13",
+        "msdyn_indname": "store_level_kpi_291_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 264,
+        "msdyn_indkpidate": "2026-01-13",
+        "msdyn_indname": "store_level_kpi_292_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 23.23,
+        "msdyn_indkpidate": "2026-01-13",
+        "msdyn_indname": "store_level_kpi_293_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 13117,
+        "msdyn_indkpidate": "2026-01-14",
+        "msdyn_indname": "store_level_kpi_294_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 257,
+        "msdyn_indkpidate": "2026-01-14",
+        "msdyn_indname": "store_level_kpi_295_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 34.28,
+        "msdyn_indkpidate": "2026-01-14",
+        "msdyn_indname": "store_level_kpi_296_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 14956,
+        "msdyn_indkpidate": "2026-01-15",
+        "msdyn_indname": "store_level_kpi_297_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 293,
+        "msdyn_indkpidate": "2026-01-15",
+        "msdyn_indname": "store_level_kpi_298_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 31.52,
+        "msdyn_indkpidate": "2026-01-15",
+        "msdyn_indname": "store_level_kpi_299_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 17259,
+        "msdyn_indkpidate": "2026-01-16",
+        "msdyn_indname": "store_level_kpi_300_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 274,
+        "msdyn_indkpidate": "2026-01-16",
+        "msdyn_indname": "store_level_kpi_301_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 10.29,
+        "msdyn_indkpidate": "2026-01-16",
+        "msdyn_indname": "store_level_kpi_302_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 23055,
+        "msdyn_indkpidate": "2026-01-17",
+        "msdyn_indname": "store_level_kpi_303_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 274,
+        "msdyn_indkpidate": "2026-01-17",
+        "msdyn_indname": "store_level_kpi_304_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 28.02,
+        "msdyn_indkpidate": "2026-01-17",
+        "msdyn_indname": "store_level_kpi_305_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 18682,
+        "msdyn_indkpidate": "2026-01-18",
+        "msdyn_indname": "store_level_kpi_306_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 249,
+        "msdyn_indkpidate": "2026-01-18",
+        "msdyn_indname": "store_level_kpi_307_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 27.04,
+        "msdyn_indkpidate": "2026-01-18",
+        "msdyn_indname": "store_level_kpi_308_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 15228,
+        "msdyn_indkpidate": "2026-01-19",
+        "msdyn_indname": "store_level_kpi_309_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 299,
+        "msdyn_indkpidate": "2026-01-19",
+        "msdyn_indname": "store_level_kpi_310_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store0_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 23.42,
+        "msdyn_indkpidate": "2026-01-19",
+        "msdyn_indname": "store_level_kpi_311_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 34244,
+        "msdyn_indkpidate": "2024-12-28",
+        "msdyn_indname": "store_level_kpi_477_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 184,
+        "msdyn_indkpidate": "2024-12-28",
+        "msdyn_indname": "store_level_kpi_478_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 15.51,
+        "msdyn_indkpidate": "2024-12-28",
+        "msdyn_indname": "store_level_kpi_479_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 31603,
+        "msdyn_indkpidate": "2024-12-29",
+        "msdyn_indname": "store_level_kpi_480_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 195,
+        "msdyn_indkpidate": "2024-12-29",
+        "msdyn_indname": "store_level_kpi_481_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 11.77,
+        "msdyn_indkpidate": "2024-12-29",
+        "msdyn_indname": "store_level_kpi_482_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 18940,
+        "msdyn_indkpidate": "2024-12-30",
+        "msdyn_indname": "store_level_kpi_483_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 186,
+        "msdyn_indkpidate": "2024-12-30",
+        "msdyn_indname": "store_level_kpi_484_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 25.78,
+        "msdyn_indkpidate": "2024-12-30",
+        "msdyn_indname": "store_level_kpi_485_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 24554,
+        "msdyn_indkpidate": "2024-12-31",
+        "msdyn_indname": "store_level_kpi_486_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 200,
+        "msdyn_indkpidate": "2024-12-31",
+        "msdyn_indname": "store_level_kpi_487_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 15.72,
+        "msdyn_indkpidate": "2024-12-31",
+        "msdyn_indname": "store_level_kpi_488_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 15103,
+        "msdyn_indkpidate": "2025-01-01",
+        "msdyn_indname": "store_level_kpi_489_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 180,
+        "msdyn_indkpidate": "2025-01-01",
+        "msdyn_indname": "store_level_kpi_490_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 32.64,
+        "msdyn_indkpidate": "2025-01-01",
+        "msdyn_indname": "store_level_kpi_491_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 13708,
+        "msdyn_indkpidate": "2025-01-02",
+        "msdyn_indname": "store_level_kpi_492_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 190,
+        "msdyn_indkpidate": "2025-01-02",
+        "msdyn_indname": "store_level_kpi_493_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 31.49,
+        "msdyn_indkpidate": "2025-01-02",
+        "msdyn_indname": "store_level_kpi_494_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 16458,
+        "msdyn_indkpidate": "2025-01-03",
+        "msdyn_indname": "store_level_kpi_495_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 196,
+        "msdyn_indkpidate": "2025-01-03",
+        "msdyn_indname": "store_level_kpi_496_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 11.77,
+        "msdyn_indkpidate": "2025-01-03",
+        "msdyn_indname": "store_level_kpi_497_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 21560,
+        "msdyn_indkpidate": "2025-01-04",
+        "msdyn_indname": "store_level_kpi_498_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 189,
+        "msdyn_indkpidate": "2025-01-04",
+        "msdyn_indname": "store_level_kpi_499_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 15.95,
+        "msdyn_indkpidate": "2025-01-04",
+        "msdyn_indname": "store_level_kpi_500_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 18721,
+        "msdyn_indkpidate": "2025-01-05",
+        "msdyn_indname": "store_level_kpi_501_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 195,
+        "msdyn_indkpidate": "2025-01-05",
+        "msdyn_indname": "store_level_kpi_502_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 26.72,
+        "msdyn_indkpidate": "2025-01-05",
+        "msdyn_indname": "store_level_kpi_503_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 10444,
+        "msdyn_indkpidate": "2025-01-06",
+        "msdyn_indname": "store_level_kpi_504_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 193,
+        "msdyn_indkpidate": "2025-01-06",
+        "msdyn_indname": "store_level_kpi_505_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 15.36,
+        "msdyn_indkpidate": "2025-01-06",
+        "msdyn_indname": "store_level_kpi_506_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 10931,
+        "msdyn_indkpidate": "2025-01-07",
+        "msdyn_indname": "store_level_kpi_507_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 182,
+        "msdyn_indkpidate": "2025-01-07",
+        "msdyn_indname": "store_level_kpi_508_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 13.31,
+        "msdyn_indkpidate": "2025-01-07",
+        "msdyn_indname": "store_level_kpi_509_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 11745,
+        "msdyn_indkpidate": "2025-01-08",
+        "msdyn_indname": "store_level_kpi_510_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 178,
+        "msdyn_indkpidate": "2025-01-08",
+        "msdyn_indname": "store_level_kpi_511_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 33.39,
+        "msdyn_indkpidate": "2025-01-08",
+        "msdyn_indname": "store_level_kpi_512_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 14156,
+        "msdyn_indkpidate": "2025-01-09",
+        "msdyn_indname": "store_level_kpi_513_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 197,
+        "msdyn_indkpidate": "2025-01-09",
+        "msdyn_indname": "store_level_kpi_514_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 24.28,
+        "msdyn_indkpidate": "2025-01-09",
+        "msdyn_indname": "store_level_kpi_515_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 17231,
+        "msdyn_indkpidate": "2025-01-10",
+        "msdyn_indname": "store_level_kpi_516_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 205,
+        "msdyn_indkpidate": "2025-01-10",
+        "msdyn_indname": "store_level_kpi_517_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 21.82,
+        "msdyn_indkpidate": "2025-01-10",
+        "msdyn_indname": "store_level_kpi_518_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 21590,
+        "msdyn_indkpidate": "2025-01-11",
+        "msdyn_indname": "store_level_kpi_519_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 189,
+        "msdyn_indkpidate": "2025-01-11",
+        "msdyn_indname": "store_level_kpi_520_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 29.62,
+        "msdyn_indkpidate": "2025-01-11",
+        "msdyn_indname": "store_level_kpi_521_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 18255,
+        "msdyn_indkpidate": "2025-01-12",
+        "msdyn_indname": "store_level_kpi_522_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 190,
+        "msdyn_indkpidate": "2025-01-12",
+        "msdyn_indname": "store_level_kpi_523_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 30.19,
+        "msdyn_indkpidate": "2025-01-12",
+        "msdyn_indname": "store_level_kpi_524_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 11187,
+        "msdyn_indkpidate": "2025-01-13",
+        "msdyn_indname": "store_level_kpi_525_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 207,
+        "msdyn_indkpidate": "2025-01-13",
+        "msdyn_indname": "store_level_kpi_526_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 14.76,
+        "msdyn_indkpidate": "2025-01-13",
+        "msdyn_indname": "store_level_kpi_527_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 10696,
+        "msdyn_indkpidate": "2025-01-14",
+        "msdyn_indname": "store_level_kpi_528_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 178,
+        "msdyn_indkpidate": "2025-01-14",
+        "msdyn_indname": "store_level_kpi_529_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 12.42,
+        "msdyn_indkpidate": "2025-01-14",
+        "msdyn_indname": "store_level_kpi_530_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 11594,
+        "msdyn_indkpidate": "2025-01-15",
+        "msdyn_indname": "store_level_kpi_531_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 176,
+        "msdyn_indkpidate": "2025-01-15",
+        "msdyn_indname": "store_level_kpi_532_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 20.78,
+        "msdyn_indkpidate": "2025-01-15",
+        "msdyn_indname": "store_level_kpi_533_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 14063,
+        "msdyn_indkpidate": "2025-01-16",
+        "msdyn_indname": "store_level_kpi_534_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 195,
+        "msdyn_indkpidate": "2025-01-16",
+        "msdyn_indname": "store_level_kpi_535_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 20.59,
+        "msdyn_indkpidate": "2025-01-16",
+        "msdyn_indname": "store_level_kpi_536_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 16925,
+        "msdyn_indkpidate": "2025-01-17",
+        "msdyn_indname": "store_level_kpi_537_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 201,
+        "msdyn_indkpidate": "2025-01-17",
+        "msdyn_indname": "store_level_kpi_538_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 21.68,
+        "msdyn_indkpidate": "2025-01-17",
+        "msdyn_indname": "store_level_kpi_539_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 20638,
+        "msdyn_indkpidate": "2025-01-18",
+        "msdyn_indname": "store_level_kpi_540_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 181,
+        "msdyn_indkpidate": "2025-01-18",
+        "msdyn_indname": "store_level_kpi_541_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 28.23,
+        "msdyn_indkpidate": "2025-01-18",
+        "msdyn_indname": "store_level_kpi_542_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 18030,
+        "msdyn_indkpidate": "2025-01-19",
+        "msdyn_indname": "store_level_kpi_543_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 188,
+        "msdyn_indkpidate": "2025-01-19",
+        "msdyn_indname": "store_level_kpi_544_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 26.83,
+        "msdyn_indkpidate": "2025-01-19",
+        "msdyn_indname": "store_level_kpi_545_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 14089,
+        "msdyn_indkpidate": "2025-01-20",
+        "msdyn_indname": "store_level_kpi_546_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 196,
+        "msdyn_indkpidate": "2025-01-20",
+        "msdyn_indname": "store_level_kpi_547_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 34.6,
+        "msdyn_indkpidate": "2025-01-20",
+        "msdyn_indname": "store_level_kpi_548_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 11547,
+        "msdyn_indkpidate": "2025-01-21",
+        "msdyn_indname": "store_level_kpi_549_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 192,
+        "msdyn_indkpidate": "2025-01-21",
+        "msdyn_indname": "store_level_kpi_550_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 12.46,
+        "msdyn_indkpidate": "2025-01-21",
+        "msdyn_indname": "store_level_kpi_551_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 12065,
+        "msdyn_indkpidate": "2025-01-22",
+        "msdyn_indname": "store_level_kpi_552_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 183,
+        "msdyn_indkpidate": "2025-01-22",
+        "msdyn_indname": "store_level_kpi_553_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 20.07,
+        "msdyn_indkpidate": "2025-01-22",
+        "msdyn_indname": "store_level_kpi_554_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 13452,
+        "msdyn_indkpidate": "2025-01-23",
+        "msdyn_indname": "store_level_kpi_555_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 187,
+        "msdyn_indkpidate": "2025-01-23",
+        "msdyn_indname": "store_level_kpi_556_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 18.48,
+        "msdyn_indkpidate": "2025-01-23",
+        "msdyn_indname": "store_level_kpi_557_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 17248,
+        "msdyn_indkpidate": "2025-01-24",
+        "msdyn_indname": "store_level_kpi_558_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 205,
+        "msdyn_indkpidate": "2025-01-24",
+        "msdyn_indname": "store_level_kpi_559_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 31.54,
+        "msdyn_indkpidate": "2025-01-24",
+        "msdyn_indname": "store_level_kpi_560_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 20673,
+        "msdyn_indkpidate": "2025-01-25",
+        "msdyn_indname": "store_level_kpi_561_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 181,
+        "msdyn_indkpidate": "2025-01-25",
+        "msdyn_indname": "store_level_kpi_562_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 16.22,
+        "msdyn_indkpidate": "2025-01-25",
+        "msdyn_indname": "store_level_kpi_563_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 17426,
+        "msdyn_indkpidate": "2025-01-26",
+        "msdyn_indname": "store_level_kpi_564_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 182,
+        "msdyn_indkpidate": "2025-01-26",
+        "msdyn_indname": "store_level_kpi_565_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 14.76,
+        "msdyn_indkpidate": "2025-01-26",
+        "msdyn_indname": "store_level_kpi_566_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 10124,
+        "msdyn_indkpidate": "2025-01-27",
+        "msdyn_indname": "store_level_kpi_567_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 187,
+        "msdyn_indkpidate": "2025-01-27",
+        "msdyn_indname": "store_level_kpi_568_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 21.22,
+        "msdyn_indkpidate": "2025-01-27",
+        "msdyn_indname": "store_level_kpi_569_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 17860,
+        "msdyn_indkpidate": "2025-01-28",
+        "msdyn_indname": "store_level_kpi_570_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 186,
+        "msdyn_indkpidate": "2025-01-28",
+        "msdyn_indname": "store_level_kpi_571_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 20.55,
+        "msdyn_indkpidate": "2025-01-28",
+        "msdyn_indname": "store_level_kpi_572_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 14848,
+        "msdyn_indkpidate": "2025-01-29",
+        "msdyn_indname": "store_level_kpi_573_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 177,
+        "msdyn_indkpidate": "2025-01-29",
+        "msdyn_indname": "store_level_kpi_574_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 16.96,
+        "msdyn_indkpidate": "2025-01-29",
+        "msdyn_indname": "store_level_kpi_575_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 17033,
+        "msdyn_indkpidate": "2025-01-30",
+        "msdyn_indname": "store_level_kpi_576_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 203,
+        "msdyn_indkpidate": "2025-01-30",
+        "msdyn_indname": "store_level_kpi_577_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 16.25,
+        "msdyn_indkpidate": "2025-01-30",
+        "msdyn_indname": "store_level_kpi_578_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 16312,
+        "msdyn_indkpidate": "2025-01-31",
+        "msdyn_indname": "store_level_kpi_579_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 194,
+        "msdyn_indkpidate": "2025-01-31",
+        "msdyn_indname": "store_level_kpi_580_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 33.08,
+        "msdyn_indkpidate": "2025-01-31",
+        "msdyn_indname": "store_level_kpi_581_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 26682,
+        "msdyn_indkpidate": "2025-02-01",
+        "msdyn_indname": "store_level_kpi_582_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 193,
+        "msdyn_indkpidate": "2025-02-01",
+        "msdyn_indname": "store_level_kpi_583_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 21.08,
+        "msdyn_indkpidate": "2025-02-01",
+        "msdyn_indname": "store_level_kpi_584_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 23557,
+        "msdyn_indkpidate": "2025-02-02",
+        "msdyn_indname": "store_level_kpi_585_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 192,
+        "msdyn_indkpidate": "2025-02-02",
+        "msdyn_indname": "store_level_kpi_586_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 31.53,
+        "msdyn_indkpidate": "2025-02-02",
+        "msdyn_indname": "store_level_kpi_587_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 23961,
+        "msdyn_indkpidate": "2025-12-30",
+        "msdyn_indname": "store_level_kpi_726_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 182,
+        "msdyn_indkpidate": "2025-12-30",
+        "msdyn_indname": "store_level_kpi_727_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 23.07,
+        "msdyn_indkpidate": "2025-12-30",
+        "msdyn_indname": "store_level_kpi_728_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 29850,
+        "msdyn_indkpidate": "2025-12-31",
+        "msdyn_indname": "store_level_kpi_729_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 188,
+        "msdyn_indkpidate": "2025-12-31",
+        "msdyn_indname": "store_level_kpi_730_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 33.37,
+        "msdyn_indkpidate": "2025-12-31",
+        "msdyn_indname": "store_level_kpi_731_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 19660,
+        "msdyn_indkpidate": "2026-01-01",
+        "msdyn_indname": "store_level_kpi_732_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 193,
+        "msdyn_indkpidate": "2026-01-01",
+        "msdyn_indname": "store_level_kpi_733_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 15.11,
+        "msdyn_indkpidate": "2026-01-01",
+        "msdyn_indname": "store_level_kpi_734_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 19640,
+        "msdyn_indkpidate": "2026-01-02",
+        "msdyn_indname": "store_level_kpi_735_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 193,
+        "msdyn_indkpidate": "2026-01-02",
+        "msdyn_indname": "store_level_kpi_736_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 27.9,
+        "msdyn_indkpidate": "2026-01-02",
+        "msdyn_indname": "store_level_kpi_737_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 24903,
+        "msdyn_indkpidate": "2026-01-03",
+        "msdyn_indname": "store_level_kpi_738_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 184,
+        "msdyn_indkpidate": "2026-01-03",
+        "msdyn_indname": "store_level_kpi_739_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 15.97,
+        "msdyn_indkpidate": "2026-01-03",
+        "msdyn_indname": "store_level_kpi_740_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 20266,
+        "msdyn_indkpidate": "2026-01-04",
+        "msdyn_indname": "store_level_kpi_741_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 178,
+        "msdyn_indkpidate": "2026-01-04",
+        "msdyn_indname": "store_level_kpi_742_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 19.89,
+        "msdyn_indkpidate": "2026-01-04",
+        "msdyn_indname": "store_level_kpi_743_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 12568,
+        "msdyn_indkpidate": "2026-01-05",
+        "msdyn_indname": "store_level_kpi_744_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 182,
+        "msdyn_indkpidate": "2026-01-05",
+        "msdyn_indname": "store_level_kpi_745_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 26.79,
+        "msdyn_indkpidate": "2026-01-05",
+        "msdyn_indname": "store_level_kpi_746_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 13489,
+        "msdyn_indkpidate": "2026-01-06",
+        "msdyn_indname": "store_level_kpi_747_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 187,
+        "msdyn_indkpidate": "2026-01-06",
+        "msdyn_indname": "store_level_kpi_748_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 17.5,
+        "msdyn_indkpidate": "2026-01-06",
+        "msdyn_indname": "store_level_kpi_749_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 14567,
+        "msdyn_indkpidate": "2026-01-07",
+        "msdyn_indname": "store_level_kpi_750_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 180,
+        "msdyn_indkpidate": "2026-01-07",
+        "msdyn_indname": "store_level_kpi_751_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 17.9,
+        "msdyn_indkpidate": "2026-01-07",
+        "msdyn_indname": "store_level_kpi_752_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 16197,
+        "msdyn_indkpidate": "2026-01-08",
+        "msdyn_indname": "store_level_kpi_753_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 193,
+        "msdyn_indkpidate": "2026-01-08",
+        "msdyn_indname": "store_level_kpi_754_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 28.8,
+        "msdyn_indkpidate": "2026-01-08",
+        "msdyn_indname": "store_level_kpi_755_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 19084,
+        "msdyn_indkpidate": "2026-01-09",
+        "msdyn_indname": "store_level_kpi_756_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 187,
+        "msdyn_indkpidate": "2026-01-09",
+        "msdyn_indname": "store_level_kpi_757_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 11.81,
+        "msdyn_indkpidate": "2026-01-09",
+        "msdyn_indname": "store_level_kpi_758_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 24497,
+        "msdyn_indkpidate": "2026-01-10",
+        "msdyn_indname": "store_level_kpi_759_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 181,
+        "msdyn_indkpidate": "2026-01-10",
+        "msdyn_indname": "store_level_kpi_760_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 21.46,
+        "msdyn_indkpidate": "2026-01-10",
+        "msdyn_indname": "store_level_kpi_761_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 20198,
+        "msdyn_indkpidate": "2026-01-11",
+        "msdyn_indname": "store_level_kpi_762_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 177,
+        "msdyn_indkpidate": "2026-01-11",
+        "msdyn_indname": "store_level_kpi_763_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 34.96,
+        "msdyn_indkpidate": "2026-01-11",
+        "msdyn_indname": "store_level_kpi_764_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 12491,
+        "msdyn_indkpidate": "2026-01-12",
+        "msdyn_indname": "store_level_kpi_765_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 181,
+        "msdyn_indkpidate": "2026-01-12",
+        "msdyn_indname": "store_level_kpi_766_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 34.9,
+        "msdyn_indkpidate": "2026-01-12",
+        "msdyn_indname": "store_level_kpi_767_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 12885,
+        "msdyn_indkpidate": "2026-01-13",
+        "msdyn_indname": "store_level_kpi_768_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 179,
+        "msdyn_indkpidate": "2026-01-13",
+        "msdyn_indname": "store_level_kpi_769_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 11.83,
+        "msdyn_indkpidate": "2026-01-13",
+        "msdyn_indname": "store_level_kpi_770_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 14195,
+        "msdyn_indkpidate": "2026-01-14",
+        "msdyn_indname": "store_level_kpi_771_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 175,
+        "msdyn_indkpidate": "2026-01-14",
+        "msdyn_indname": "store_level_kpi_772_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 15.33,
+        "msdyn_indkpidate": "2026-01-14",
+        "msdyn_indname": "store_level_kpi_773_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 16314,
+        "msdyn_indkpidate": "2026-01-15",
+        "msdyn_indname": "store_level_kpi_774_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 194,
+        "msdyn_indkpidate": "2026-01-15",
+        "msdyn_indname": "store_level_kpi_775_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 16.63,
+        "msdyn_indkpidate": "2026-01-15",
+        "msdyn_indname": "store_level_kpi_776_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 19465,
+        "msdyn_indkpidate": "2026-01-16",
+        "msdyn_indname": "store_level_kpi_777_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 191,
+        "msdyn_indkpidate": "2026-01-16",
+        "msdyn_indname": "store_level_kpi_778_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 33.33,
+        "msdyn_indkpidate": "2026-01-16",
+        "msdyn_indname": "store_level_kpi_779_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 24160,
+        "msdyn_indkpidate": "2026-01-17",
+        "msdyn_indname": "store_level_kpi_780_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 179,
+        "msdyn_indkpidate": "2026-01-17",
+        "msdyn_indname": "store_level_kpi_781_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 32.02,
+        "msdyn_indkpidate": "2026-01-17",
+        "msdyn_indname": "store_level_kpi_782_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 19914,
+        "msdyn_indkpidate": "2026-01-18",
+        "msdyn_indname": "store_level_kpi_783_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 175,
+        "msdyn_indkpidate": "2026-01-18",
+        "msdyn_indname": "store_level_kpi_784_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 31.98,
+        "msdyn_indkpidate": "2026-01-18",
+        "msdyn_indname": "store_level_kpi_785_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "Sales",
+        "msdyn_indkpidescription": "Total Sales Amount",
+        "msdyn_indkpivalue": 15974,
+        "msdyn_indkpidate": "2026-01-19",
+        "msdyn_indname": "store_level_kpi_786_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "AOV",
+        "msdyn_indkpidescription": "Average Order Value",
+        "msdyn_indkpivalue": 177,
+        "msdyn_indkpidate": "2026-01-19",
+        "msdyn_indname": "store_level_kpi_787_demo"
+    },
+    {
+        "msdyn_indstoreidentifier": "Store1_demo",
+        "msdyn_indkpiname": "GM",
+        "msdyn_indkpidescription": "Gross Margin Percentage",
+        "msdyn_indkpivalue": 19.24,
+        "msdyn_indkpidate": "2026-01-19",
+        "msdyn_indname": "store_level_kpi_788_demo"
+    }
 ]
