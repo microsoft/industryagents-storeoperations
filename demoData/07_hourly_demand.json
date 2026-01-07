@@ -15064,40 +15064,40 @@
     "msdyn_name": "hourly_demand_3882_demo",
     "msdyn_inddate": "2025-01-12",
     "msdyn_indhourstarttime": "15:00:00",
-    "msdyn_indsalesamount": 1621,
-    "msdyn_indtransactioncount": 9,
+    "msdyn_indsalesamount": 2001,
+    "msdyn_indtransactioncount": 13,
     "msdyn_indnumberofpassersby": 400,
-    "msdyn_indnumberofvisitors": 60
+    "msdyn_indnumberofvisitors": 91
   },
   {
     "msdyn_indstoreidentifier": "Store1_demo",
     "msdyn_name": "hourly_demand_3883_demo",
     "msdyn_inddate": "2025-01-12",
     "msdyn_indhourstarttime": "16:00:00",
-    "msdyn_indsalesamount": 1621,
-    "msdyn_indtransactioncount": 9,
-    "msdyn_indnumberofpassersby": 400,
-    "msdyn_indnumberofvisitors": 60
+    "msdyn_indsalesamount": 2010,
+    "msdyn_indtransactioncount": 14,
+    "msdyn_indnumberofpassersby": 410,
+    "msdyn_indnumberofvisitors": 94
   },
   {
     "msdyn_indstoreidentifier": "Store1_demo",
     "msdyn_name": "hourly_demand_3884_demo",
     "msdyn_inddate": "2025-01-12",
     "msdyn_indhourstarttime": "17:00:00",
-    "msdyn_indsalesamount": 1968,
-    "msdyn_indtransactioncount": 9,
-    "msdyn_indnumberofpassersby": 400,
-    "msdyn_indnumberofvisitors": 60
+    "msdyn_indsalesamount": 2060,
+    "msdyn_indtransactioncount":15,
+    "msdyn_indnumberofpassersby": 420,
+    "msdyn_indnumberofvisitors": 97
   },
   {
     "msdyn_indstoreidentifier": "Store1_demo",
     "msdyn_name": "hourly_demand_3885_demo",
     "msdyn_inddate": "2025-01-12",
     "msdyn_indhourstarttime": "18:00:00",
-    "msdyn_indsalesamount": 1882,
-    "msdyn_indtransactioncount": 10,
-    "msdyn_indnumberofpassersby": 247,
-    "msdyn_indnumberofvisitors": 37
+    "msdyn_indsalesamount": 2070,
+    "msdyn_indtransactioncount": 17,
+    "msdyn_indnumberofpassersby": 421,
+    "msdyn_indnumberofvisitors": 91
   },
   {
     "msdyn_indstoreidentifier": "Store1_demo",
@@ -15694,30 +15694,30 @@
     "msdyn_name": "hourly_demand_3945_demo",
     "msdyn_inddate": "2025-01-17",
     "msdyn_indhourstarttime": "18:00:00",
-    "msdyn_indsalesamount": 1724,
-    "msdyn_indtransactioncount": 9,
-    "msdyn_indnumberofpassersby": 207,
-    "msdyn_indnumberofvisitors": 31
+    "msdyn_indsalesamount": 2003,
+    "msdyn_indtransactioncount": 12,
+    "msdyn_indnumberofpassersby": 210,
+    "msdyn_indnumberofvisitors": 61
   },
   {
     "msdyn_indstoreidentifier": "Store1_demo",
     "msdyn_name": "hourly_demand_3946_demo",
     "msdyn_inddate": "2025-01-17",
     "msdyn_indhourstarttime": "19:00:00",
-    "msdyn_indsalesamount": 1953,
-    "msdyn_indtransactioncount": 9,
+    "msdyn_indsalesamount": 2000,
+    "msdyn_indtransactioncount": 11,
     "msdyn_indnumberofpassersby": 207,
-    "msdyn_indnumberofvisitors": 31
+    "msdyn_indnumberofvisitors": 67
   },
   {
     "msdyn_indstoreidentifier": "Store1_demo",
     "msdyn_name": "hourly_demand_3947_demo",
     "msdyn_inddate": "2025-01-17",
     "msdyn_indhourstarttime": "20:00:00",
-    "msdyn_indsalesamount": 1953,
-    "msdyn_indtransactioncount": 9,
+    "msdyn_indsalesamount": 2001,
+    "msdyn_indtransactioncount": 11,
     "msdyn_indnumberofpassersby": 207,
-    "msdyn_indnumberofvisitors": 31
+    "msdyn_indnumberofvisitors": 62
   },
   {
     "msdyn_indstoreidentifier": "Store1_demo",
@@ -17760,3 +17760,4 @@
     "msdyn_indnumberofvisitors": 37
   }
 ]
+
