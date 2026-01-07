@@ -1,660 +1,394 @@
 [
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
-    "msdyn_inddate": "2025-12-24",
-    "msdyn_indsalestarget": 20332.63,
-    "msdyn_indtargetvisitors": 492
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
-    "msdyn_inddate": "2025-12-25",
-    "msdyn_indsalestarget": 18230.41,
-    "msdyn_indtargetvisitors": 461
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
-    "msdyn_inddate": "2025-12-26",
-    "msdyn_indsalestarget": 22515.56,
-    "msdyn_indtargetvisitors": 281
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
-    "msdyn_inddate": "2025-12-27",
-    "msdyn_indsalestarget": 21133.06,
-    "msdyn_indtargetvisitors": 803
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
-    "msdyn_inddate": "2025-12-28",
-    "msdyn_indsalestarget": 29674.01,
-    "msdyn_indtargetvisitors": 616
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
-    "msdyn_inddate": "2025-12-29",
-    "msdyn_indsalestarget": 21238.37,
-    "msdyn_indtargetvisitors": 300
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
-    "msdyn_inddate": "2025-12-30",
-    "msdyn_indsalestarget": 23622.44,
-    "msdyn_indtargetvisitors": 363
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
-    "msdyn_inddate": "2025-12-31",
-    "msdyn_indsalestarget": 19480.93,
-    "msdyn_indtargetvisitors": 635
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
-    "msdyn_inddate": "2026-01-01",
-    "msdyn_indsalestarget": 25202.29,
-    "msdyn_indtargetvisitors": 328
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
-    "msdyn_inddate": "2026-01-02",
-    "msdyn_indsalestarget": 22474.06,
-    "msdyn_indtargetvisitors": 455
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
-    "msdyn_inddate": "2026-01-03",
-    "msdyn_indsalestarget": 19859.67,
-    "msdyn_indtargetvisitors": 426
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
-    "msdyn_inddate": "2026-01-04",
-    "msdyn_indsalestarget": 25033.43,
-    "msdyn_indtargetvisitors": 403
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
-    "msdyn_inddate": "2026-01-05",
-    "msdyn_indsalestarget": 20993.18,
-    "msdyn_indtargetvisitors": 476
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
-    "msdyn_inddate": "2026-01-06",
-    "msdyn_indsalestarget": 12816.66,
-    "msdyn_indtargetvisitors": 411
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_7_demo",
     "msdyn_inddate": "2026-01-07",
-    "msdyn_indsalestarget": 12239.29,
-    "msdyn_indtargetvisitors": 337
+    "msdyn_indsalestarget": 5888,
+    "msdyn_indtargetvisitors": 188
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_8_demo",
     "msdyn_inddate": "2026-01-08",
-    "msdyn_indsalestarget": 17702.82,
-    "msdyn_indtargetvisitors": 361
+    "msdyn_indsalestarget": 6188,
+    "msdyn_indtargetvisitors": 188
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_9_demo",
     "msdyn_inddate": "2026-01-09",
-    "msdyn_indsalestarget": 24773.18,
-    "msdyn_indtargetvisitors": 346
+    "msdyn_indsalestarget": 6488,
+    "msdyn_indtargetvisitors": 188
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_10_demo",
     "msdyn_inddate": "2026-01-10",
-    "msdyn_indsalestarget": 26854.39,
-    "msdyn_indtargetvisitors": 425
+    "msdyn_indsalestarget": 10336,
+    "msdyn_indtargetvisitors": 228
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_11_demo",
     "msdyn_inddate": "2026-01-11",
-    "msdyn_indsalestarget": 29651.08,
-    "msdyn_indtargetvisitors": 472
+    "msdyn_indsalestarget": 8264,
+    "msdyn_indtargetvisitors": 228
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_12_demo",
     "msdyn_inddate": "2026-01-12",
-    "msdyn_indsalestarget": 18082.44,
-    "msdyn_indtargetvisitors": 404
+    "msdyn_indsalestarget": 4460,
+    "msdyn_indtargetvisitors": 188
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_13_demo",
     "msdyn_inddate": "2026-01-13",
-    "msdyn_indsalestarget": 23952.05,
-    "msdyn_indtargetvisitors": 405
+    "msdyn_indsalestarget": 4416,
+    "msdyn_indtargetvisitors": 188
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_14_demo",
     "msdyn_inddate": "2026-01-14",
-    "msdyn_indsalestarget": 26250.32,
-    "msdyn_indtargetvisitors": 338
+    "msdyn_indsalestarget": 5496,
+    "msdyn_indtargetvisitors": 188
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_15_demo",
     "msdyn_inddate": "2026-01-15",
-    "msdyn_indsalestarget": 20174.45,
-    "msdyn_indtargetvisitors": 275
+    "msdyn_indsalestarget": 5744,
+    "msdyn_indtargetvisitors": 188
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_16_demo",
     "msdyn_inddate": "2026-01-16",
-    "msdyn_indsalestarget": 12798.97,
-    "msdyn_indtargetvisitors": 523
+    "msdyn_indsalestarget": 8112,
+    "msdyn_indtargetvisitors": 188
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_17_demo",
     "msdyn_inddate": "2026-01-17",
-    "msdyn_indsalestarget": 32668.26,
-    "msdyn_indtargetvisitors": 733
+    "msdyn_indsalestarget": 10336,
+    "msdyn_indtargetvisitors": 228
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_18_demo",
     "msdyn_inddate": "2026-01-18",
-    "msdyn_indsalestarget": 17716.17,
-    "msdyn_indtargetvisitors": 704
+    "msdyn_indsalestarget": 8852,
+    "msdyn_indtargetvisitors": 228
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_19_demo",
     "msdyn_inddate": "2026-01-19",
-    "msdyn_indsalestarget": 13765.41,
-    "msdyn_indtargetvisitors": 333
+    "msdyn_indsalestarget": 5812,
+    "msdyn_indtargetvisitors": 228
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_20_demo",
     "msdyn_inddate": "2026-01-20",
-    "msdyn_indsalestarget": 26805.16,
-    "msdyn_indtargetvisitors": 443
+    "msdyn_indsalestarget": 4784,
+    "msdyn_indtargetvisitors": 188
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_21_demo",
     "msdyn_inddate": "2026-01-21",
-    "msdyn_indsalestarget": 14447.19,
-    "msdyn_indtargetvisitors": 582
+    "msdyn_indsalestarget": 5888,
+    "msdyn_indtargetvisitors": 188
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_22_demo",
     "msdyn_inddate": "2026-01-22",
-    "msdyn_indsalestarget": 21583.11,
-    "msdyn_indtargetvisitors": 388
+    "msdyn_indsalestarget": 6632,
+    "msdyn_indtargetvisitors": 188
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_23_demo",
     "msdyn_inddate": "2026-01-23",
-    "msdyn_indsalestarget": 21356.54,
-    "msdyn_indtargetvisitors": 386
+    "msdyn_indsalestarget": 7032,
+    "msdyn_indtargetvisitors": 188
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_24_demo",
     "msdyn_inddate": "2026-01-24",
-    "msdyn_indsalestarget": 24834.04,
-    "msdyn_indtargetvisitors": 602
+    "msdyn_indsalestarget": 9644,
+    "msdyn_indtargetvisitors": 228
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_25_demo",
     "msdyn_inddate": "2026-01-25",
-    "msdyn_indsalestarget": 22212.52,
-    "msdyn_indtargetvisitors": 692
+    "msdyn_indsalestarget": 7084,
+    "msdyn_indtargetvisitors": 228
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_26_demo",
     "msdyn_inddate": "2026-01-26",
-    "msdyn_indsalestarget": 14817.89,
-    "msdyn_indtargetvisitors": 447
+    "msdyn_indsalestarget": 5148,
+    "msdyn_indtargetvisitors": 188
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_27_demo",
     "msdyn_inddate": "2026-01-27",
-    "msdyn_indsalestarget": 23722.8,
-    "msdyn_indtargetvisitors": 443
+    "msdyn_indsalestarget": 4784,
+    "msdyn_indtargetvisitors": 188
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_28_demo",
     "msdyn_inddate": "2026-01-28",
-    "msdyn_indsalestarget": 12522.12,
-    "msdyn_indtargetvisitors": 516
+    "msdyn_indsalestarget": 5496,
+    "msdyn_indtargetvisitors": 188
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_29_demo",
     "msdyn_inddate": "2026-01-29",
-    "msdyn_indsalestarget": 10811.05,
-    "msdyn_indtargetvisitors": 276
+    "msdyn_indsalestarget": 6188,
+    "msdyn_indtargetvisitors": 188
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_30_demo",
     "msdyn_inddate": "2026-01-30",
-    "msdyn_indsalestarget": 15587.85,
-    "msdyn_indtargetvisitors": 409
+    "msdyn_indsalestarget": 7572,
+    "msdyn_indtargetvisitors": 188
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_31_demo",
     "msdyn_inddate": "2026-01-31",
-    "msdyn_indsalestarget": 26580.76,
-    "msdyn_indtargetvisitors": 426
+    "msdyn_indsalestarget": 10336,
+    "msdyn_indtargetvisitors": 228
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_32_demo",
     "msdyn_inddate": "2026-02-01",
-    "msdyn_indsalestarget": 22659.13,
-    "msdyn_indtargetvisitors": 600
+    "msdyn_indsalestarget": 9228,
+    "msdyn_indtargetvisitors": 248
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_33_demo",
     "msdyn_inddate": "2026-02-02",
-    "msdyn_indsalestarget": 16613.42,
-    "msdyn_indtargetvisitors": 333
+    "msdyn_indsalestarget": 5240,
+    "msdyn_indtargetvisitors": 208
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_34_demo",
     "msdyn_inddate": "2026-02-03",
-    "msdyn_indsalestarget": 14438.8,
-    "msdyn_indtargetvisitors": 438
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
-    "msdyn_inddate": "2026-02-04",
-    "msdyn_indsalestarget": 29198.57,
-    "msdyn_indtargetvisitors": 512
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
-    "msdyn_inddate": "2026-02-05",
-    "msdyn_indsalestarget": 19387.1,
-    "msdyn_indtargetvisitors": 420
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
-    "msdyn_inddate": "2026-02-06",
-    "msdyn_indsalestarget": 18289.02,
-    "msdyn_indtargetvisitors": 326
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
-    "msdyn_inddate": "2026-02-07",
-    "msdyn_indsalestarget": 13670.59,
-    "msdyn_indtargetvisitors": 554
-  },
-  {
-    "msdyn_indstoreidentifier": "Store0_demo",
-    "msdyn_name": "demand_forecast_demo",
-    "msdyn_inddate": "2026-02-08",
-    "msdyn_indsalestarget": 19745.16,
-    "msdyn_indtargetvisitors": 628
+    "msdyn_indsalestarget": 6032,
+    "msdyn_indtargetvisitors": 208
   },
   {
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
-    "msdyn_inddate": "2025-12-24",
-    "msdyn_indsalestarget": 22600.63,
-    "msdyn_indtargetvisitors": 553
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
-    "msdyn_inddate": "2025-12-25",
-    "msdyn_indsalestarget": 26593.16,
-    "msdyn_indtargetvisitors": 333
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
-    "msdyn_inddate": "2025-12-26",
-    "msdyn_indsalestarget": 22144.84,
-    "msdyn_indtargetvisitors": 515
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
-    "msdyn_inddate": "2025-12-27",
-    "msdyn_indsalestarget": 17766.16,
-    "msdyn_indtargetvisitors": 585
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
-    "msdyn_inddate": "2025-12-28",
-    "msdyn_indsalestarget": 31073.91,
-    "msdyn_indtargetvisitors": 555
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
-    "msdyn_inddate": "2025-12-29",
-    "msdyn_indsalestarget": 23005.58,
-    "msdyn_indtargetvisitors": 656
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
-    "msdyn_inddate": "2025-12-30",
-    "msdyn_indsalestarget": 24713.34,
-    "msdyn_indtargetvisitors": 449
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
-    "msdyn_inddate": "2025-12-31",
-    "msdyn_indsalestarget": 16368.45,
-    "msdyn_indtargetvisitors": 395
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
-    "msdyn_inddate": "2026-01-01",
-    "msdyn_indsalestarget": 19670.27,
-    "msdyn_indtargetvisitors": 429
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
-    "msdyn_inddate": "2026-01-02",
-    "msdyn_indsalestarget": 18202.76,
-    "msdyn_indtargetvisitors": 399
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
-    "msdyn_inddate": "2026-01-03",
-    "msdyn_indsalestarget": 15024.1,
-    "msdyn_indtargetvisitors": 495
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
-    "msdyn_inddate": "2026-01-04",
-    "msdyn_indsalestarget": 30138.95,
-    "msdyn_indtargetvisitors": 499
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
-    "msdyn_inddate": "2026-01-05",
-    "msdyn_indsalestarget": 23390.3,
-    "msdyn_indtargetvisitors": 481
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
-    "msdyn_inddate": "2026-01-06",
-    "msdyn_indsalestarget": 19783.79,
-    "msdyn_indtargetvisitors": 444
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_99_demo",
     "msdyn_inddate": "2026-01-07",
-    "msdyn_indsalestarget": 16192.34,
-    "msdyn_indtargetvisitors": 472
+    "msdyn_indsalestarget": 5104,
+    "msdyn_indtargetvisitors": 232
   },
   {
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_100_demo",
     "msdyn_inddate": "2026-01-08",
-    "msdyn_indsalestarget": 23151.02,
-    "msdyn_indtargetvisitors": 351
+    "msdyn_indsalestarget": 6632,
+    "msdyn_indtargetvisitors": 232
   },
   {
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_101_demo",
     "msdyn_inddate": "2026-01-09",
-    "msdyn_indsalestarget": 23114.28,
-    "msdyn_indtargetvisitors": 558
+    "msdyn_indsalestarget": 8652,
+    "msdyn_indtargetvisitors": 232
   },
   {
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_102_demo",
     "msdyn_inddate": "2026-01-10",
-    "msdyn_indsalestarget": 15810.2,
-    "msdyn_indtargetvisitors": 738
+    "msdyn_indsalestarget": 10336,
+    "msdyn_indtargetvisitors": 284
   },
   {
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_103_demo",
     "msdyn_inddate": "2026-01-11",
-    "msdyn_indsalestarget": 26581.09,
-    "msdyn_indtargetvisitors": 460
+    "msdyn_indsalestarget": 8264,
+    "msdyn_indtargetvisitors": 284
   },
   {
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_104_demo",
     "msdyn_inddate": "2026-01-12",
-    "msdyn_indsalestarget": 14949.43,
-    "msdyn_indtargetvisitors": 447
+    "msdyn_indsalestarget": 5148,
+    "msdyn_indtargetvisitors": 232
   },
   {
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_105_demo",
     "msdyn_inddate": "2026-01-13",
-    "msdyn_indsalestarget": 29235.99,
-    "msdyn_indtargetvisitors": 528
+    "msdyn_indsalestarget": 4784,
+    "msdyn_indtargetvisitors": 232
   },
   {
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_106_demo",
     "msdyn_inddate": "2026-01-14",
-    "msdyn_indsalestarget": 23428.9,
-    "msdyn_indtargetvisitors": 290
+    "msdyn_indsalestarget": 5496,
+    "msdyn_indtargetvisitors": 232
   },
   {
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_107_demo",
     "msdyn_inddate": "2026-01-15",
-    "msdyn_indsalestarget": 23436.34,
-    "msdyn_indtargetvisitors": 464
+    "msdyn_indsalestarget": 5744,
+    "msdyn_indtargetvisitors": 232
   },
   {
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_108_demo",
     "msdyn_inddate": "2026-01-16",
-    "msdyn_indsalestarget": 20809.86,
-    "msdyn_indtargetvisitors": 408
+    "msdyn_indsalestarget": 7572,
+    "msdyn_indtargetvisitors": 232
   },
   {
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_109_demo",
     "msdyn_inddate": "2026-01-17",
-    "msdyn_indsalestarget": 27688.45,
-    "msdyn_indtargetvisitors": 662
+    "msdyn_indsalestarget": 11024,
+    "msdyn_indtargetvisitors": 284
   },
   {
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_110_demo",
     "msdyn_inddate": "2026-01-18",
-    "msdyn_indsalestarget": 15729.32,
-    "msdyn_indtargetvisitors": 558
+    "msdyn_indsalestarget": 8852,
+    "msdyn_indtargetvisitors": 284
   },
   {
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_111_demo",
     "msdyn_inddate": "2026-01-19",
-    "msdyn_indsalestarget": 24769.58,
-    "msdyn_indtargetvisitors": 449
+    "msdyn_indsalestarget": 5812,
+    "msdyn_indtargetvisitors": 284
   },
   {
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_112_demo",
     "msdyn_inddate": "2026-01-20",
-    "msdyn_indsalestarget": 27402.36,
-    "msdyn_indtargetvisitors": 571
+    "msdyn_indsalestarget": 5152,
+    "msdyn_indtargetvisitors": 232
   },
   {
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_113_demo",
     "msdyn_inddate": "2026-01-21",
-    "msdyn_indsalestarget": 28536.6,
-    "msdyn_indtargetvisitors": 443
+    "msdyn_indsalestarget": 5888,
+    "msdyn_indtargetvisitors": 232
   },
   {
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_114_demo",
     "msdyn_inddate": "2026-01-22",
-    "msdyn_indsalestarget": 18953.66,
-    "msdyn_indtargetvisitors": 618
+    "msdyn_indsalestarget": 7512,
+    "msdyn_indtargetvisitors": 232
   },
   {
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_115_demo",
     "msdyn_inddate": "2026-01-23",
-    "msdyn_indsalestarget": 19274.1,
-    "msdyn_indtargetvisitors": 418
+    "msdyn_indsalestarget": 7032,
+    "msdyn_indtargetvisitors": 232
   },
   {
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_116_demo",
     "msdyn_inddate": "2026-01-24",
-    "msdyn_indsalestarget": 35587.34,
-    "msdyn_indtargetvisitors": 659
+    "msdyn_indsalestarget": 11024,
+    "msdyn_indtargetvisitors": 284
   },
   {
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_117_demo",
     "msdyn_inddate": "2026-01-25",
-    "msdyn_indsalestarget": 30578.48,
-    "msdyn_indtargetvisitors": 786
+    "msdyn_indsalestarget": 8264,
+    "msdyn_indtargetvisitors": 284
   },
   {
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_118_demo",
     "msdyn_inddate": "2026-01-26",
-    "msdyn_indsalestarget": 14464.77,
-    "msdyn_indtargetvisitors": 377
+    "msdyn_indsalestarget": 4460,
+    "msdyn_indtargetvisitors": 232
   },
   {
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_119_demo",
     "msdyn_inddate": "2026-01-27",
-    "msdyn_indsalestarget": 18743.87,
-    "msdyn_indtargetvisitors": 454
+    "msdyn_indsalestarget": 4784,
+    "msdyn_indtargetvisitors": 232
   },
   {
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_120_demo",
     "msdyn_inddate": "2026-01-28",
-    "msdyn_indsalestarget": 13936.02,
-    "msdyn_indtargetvisitors": 436
+    "msdyn_indsalestarget": 6676,
+    "msdyn_indtargetvisitors": 232
   },
   {
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_121_demo",
     "msdyn_inddate": "2026-01-29",
-    "msdyn_indsalestarget": 19286.58,
-    "msdyn_indtargetvisitors": 566
+    "msdyn_indsalestarget": 7072,
+    "msdyn_indtargetvisitors": 232
   },
   {
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_122_demo",
     "msdyn_inddate": "2026-01-30",
-    "msdyn_indsalestarget": 24941.8,
-    "msdyn_indtargetvisitors": 536
+    "msdyn_indsalestarget": 9192,
+    "msdyn_indtargetvisitors": 232
   },
   {
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_123_demo",
     "msdyn_inddate": "2026-01-31",
-    "msdyn_indsalestarget": 27305.14,
-    "msdyn_indtargetvisitors": 396
+    "msdyn_indsalestarget": 9644,
+    "msdyn_indtargetvisitors": 284
   },
   {
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_124_demo",
     "msdyn_inddate": "2026-02-01",
-    "msdyn_indsalestarget": 29455.93,
-    "msdyn_indtargetvisitors": 636
+    "msdyn_indsalestarget": 11428,
+    "msdyn_indtargetvisitors": 336
   },
   {
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_125_demo",
     "msdyn_inddate": "2026-02-02",
-    "msdyn_indsalestarget": 23853.42,
-    "msdyn_indtargetvisitors": 367
+    "msdyn_indsalestarget": 6356,
+    "msdyn_indtargetvisitors": 288
   },
   {
     "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
+    "msdyn_name": "demand_forecast_126_demo",
     "msdyn_inddate": "2026-02-03",
-    "msdyn_indsalestarget": 20017.58,
-    "msdyn_indtargetvisitors": 369
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
-    "msdyn_inddate": "2026-02-04",
-    "msdyn_indsalestarget": 13432.74,
-    "msdyn_indtargetvisitors": 400
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
-    "msdyn_inddate": "2026-02-05",
-    "msdyn_indsalestarget": 16276.25,
-    "msdyn_indtargetvisitors": 534
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
-    "msdyn_inddate": "2026-02-06",
-    "msdyn_indsalestarget": 13971.49,
-    "msdyn_indtargetvisitors": 562
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
-    "msdyn_inddate": "2026-02-07",
-    "msdyn_indsalestarget": 33163.56,
-    "msdyn_indtargetvisitors": 497
-  },
-  {
-    "msdyn_indstoreidentifier": "Store1_demo",
-    "msdyn_name": "demand_forecast_demo",
-    "msdyn_inddate": "2026-02-08",
-    "msdyn_indsalestarget": 27210.26,
-    "msdyn_indtargetvisitors": 657
+    "msdyn_indsalestarget": 7224,
+    "msdyn_indtargetvisitors": 288
   }
 ]
