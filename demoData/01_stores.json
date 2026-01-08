@@ -7,23 +7,23 @@
     "msdyn_indstoreclosingtime": "21:00",
     "msdyn_indlatitude": 40.7128,
     "msdyn_indlongitude": -74.006,
-    "msdyn_indlocation": "754 Main Street, New York, NY, US",
+    "msdyn_indlocation": "New York, NY, USA",
     "msdyn_indlocaltimezone": "America/New_York",
-    "msdyn_indsizetype": "Small",
+    "msdyn_indsizetype": "Large",
     "msdyn_indregion": "Northeast",
     "msdyn_indcountrycode": "US"
   },
   {
     "msdyn_indstoreidentifier": "Store1_demo",
     "msdyn_indname": "Fabrikam - Los Angeles",
-    "msdyn_inddescription": "Set along one of Los Angeles’ iconic shopping corridors, Fabrikam blends laid‑back West Coast ease with red‑carpet polish. Here, shoppers find lightweight layers, premium denim, and trend‑driven looks inspired by studio life, beach culture, and nighttime events. Spacious fitting suites, curbside pickup, and bookable styling sessions cater to creators, stylists, and on‑the‑move Angelenos.",
+    "msdyn_inddescription": "Set along one of Los Angeles' iconic shopping corridors, Fabrikam blends laid‑back West Coast ease with red‑carpet polish. Here, shoppers find lightweight layers, premium denim, and trend‑driven looks inspired by studio life, beach culture, and nighttime events. Spacious fitting suites, curbside pickup, and bookable styling sessions cater to creators, stylists, and on‑the‑move Angelenos.",
     "msdyn_indstoreopeningtime": "09:00",
     "msdyn_indstoreclosingtime": "21:00",
     "msdyn_indlatitude": 34.0522,
     "msdyn_indlongitude": -118.2437,
-    "msdyn_indlocation": "214 Main Street, Los Angeles, CA, US",
+    "msdyn_indlocation": "Los Angeles, CA, USA",
     "msdyn_indlocaltimezone": "America/Los_Angeles",
-    "msdyn_indsizetype": "Medium",
+    "msdyn_indsizetype": "Small",
     "msdyn_indregion": "West",
     "msdyn_indcountrycode": "US"
   }
