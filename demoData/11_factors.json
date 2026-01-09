@@ -111,7 +111,6 @@
     "msdyn_indvalue": "{\"OriginalValue\":{\"PromotionalDate\":\"2026-01-15\",\"PromotionName\":\"Buy One Get One (BOGO)\"},\"VectorSearchQuery\":\"Buy One Get One (BOGO) on 15th Jan 2026\",\"DayofTheWeek\":\"Thursday\"}",
     "msdyn_indsource": "Manifest_demo"
   },
-
   {
     "msdyn_indsummary": "Clearance Sale on 10th Jan 2026",
     "msdyn_indtype": "Promotion",
@@ -155,3 +154,4 @@
     "msdyn_indsource": "Manifest_demo"
   }
 ]
+
