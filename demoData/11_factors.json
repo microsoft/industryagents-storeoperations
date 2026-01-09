@@ -68,5 +68,90 @@
     "msdyn_indstoreidentifier": "Store1_demo",
     "msdyn_indvalue": "{\"OriginalValue\":{\"PromotionalDate\":\"2026-01-23\",\"PromotionName\":\"WEEKEND PREVIEW upto 20% OFF on 23rd Jan\"},\"VectorSearchQuery\":\"WEEKEND PREVIEW upto 20% OFF on 23rd Jan\",\"DayofTheWeek\":\"Friday\"}",
     "msdyn_indsource": "Manifest_demo"
+  },
+  {
+    "msdyn_indsummary": "Weekend Sale on 10th Jan 2026",
+    "msdyn_indtype": "Promotion",
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indvalue": "{\"OriginalValue\":{\"PromotionalDate\":\"2026-01-10\",\"PromotionName\":\"Weekend Sale\"},\"VectorSearchQuery\":\"Weekend Sale on 10th Jan 2026\",\"DayofTheWeek\":\"Saturday\"}",
+    "msdyn_indsource": "Manifest_demo"
+  },
+  {
+    "msdyn_indsummary": "Product Launch Event on 11th Jan 2026",
+    "msdyn_indtype": "Promotion",
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indvalue": "{\"OriginalValue\":{\"PromotionalDate\":\"2026-01-11\",\"PromotionName\":\"Product Launch Event\"},\"VectorSearchQuery\":\"Product Launch Event on 11th Jan 2026\",\"DayofTheWeek\":\"Sunday\"}",
+    "msdyn_indsource": "Manifest_demo"
+  },
+  {
+    "msdyn_indsummary": "Anniversary Sale on 12th Jan 2026",
+    "msdyn_indtype": "Promotion",
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indvalue": "{\"OriginalValue\":{\"PromotionalDate\":\"2026-01-12\",\"PromotionName\":\"Anniversary Sale\"},\"VectorSearchQuery\":\"Anniversary Sale on 12th Jan 2026\",\"DayofTheWeek\":\"Monday\"}",
+    "msdyn_indsource": "Manifest_demo"
+  },
+  {
+    "msdyn_indsummary": "Fashion Show on 13th Jan 2026",
+    "msdyn_indtype": "Promotion",
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indvalue": "{\"OriginalValue\":{\"PromotionalDate\":\"2026-01-13\",\"PromotionName\":\"Fashion Show\"},\"VectorSearchQuery\":\"Fashion Show on 13th Jan 2026\",\"DayofTheWeek\":\"Tuesday\"}",
+    "msdyn_indsource": "Manifest_demo"
+  },
+  {
+    "msdyn_indsummary": "Brand Promotion Booth on 14th Jan 2026",
+    "msdyn_indtype": "Promotion",
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indvalue": "{\"OriginalValue\":{\"PromotionalDate\":\"2026-01-14\",\"PromotionName\":\"Brand Promotion Booth\"},\"VectorSearchQuery\":\"Brand Promotion Booth on 14th Jan 2026\",\"DayofTheWeek\":\"Wednesday\"}",
+    "msdyn_indsource": "Manifest_demo"
+  },
+  {
+    "msdyn_indsummary": "Buy One Get One (BOGO) on 15th Jan 2026",
+    "msdyn_indtype": "Promotion",
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indvalue": "{\"OriginalValue\":{\"PromotionalDate\":\"2026-01-15\",\"PromotionName\":\"Buy One Get One (BOGO)\"},\"VectorSearchQuery\":\"Buy One Get One (BOGO) on 15th Jan 2026\",\"DayofTheWeek\":\"Thursday\"}",
+    "msdyn_indsource": "Manifest_demo"
+  },
+
+  {
+    "msdyn_indsummary": "Clearance Sale on 10th Jan 2026",
+    "msdyn_indtype": "Promotion",
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indvalue": "{\"OriginalValue\":{\"PromotionalDate\":\"2026-01-10\",\"PromotionName\":\"Clearance Sale\"},\"VectorSearchQuery\":\"Clearance Sale on 10th Jan 2026\",\"DayofTheWeek\":\"Saturday\"}",
+    "msdyn_indsource": "Manifest_demo"
+  },
+  {
+    "msdyn_indsummary": "Kids Activity Event on 11th Jan 2026",
+    "msdyn_indtype": "Promotion",
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indvalue": "{\"OriginalValue\":{\"PromotionalDate\":\"2026-01-11\",\"PromotionName\":\"Kids Activity Event\"},\"VectorSearchQuery\":\"Kids Activity Event on 11th Jan 2026\",\"DayofTheWeek\":\"Sunday\"}",
+    "msdyn_indsource": "Manifest_demo"
+  },
+  {
+    "msdyn_indsummary": "Workshops (DIY, Styling) on 12th Jan 2026",
+    "msdyn_indtype": "Promotion",
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indvalue": "{\"OriginalValue\":{\"PromotionalDate\":\"2026-01-12\",\"PromotionName\":\"Workshops (DIY, Styling)\"},\"VectorSearchQuery\":\"Workshops (DIY, Styling) on 12th Jan 2026\",\"DayofTheWeek\":\"Monday\"}",
+    "msdyn_indsource": "Manifest_demo"
+  },
+  {
+    "msdyn_indsummary": "Anniversary Sale on 13th Jan 2026",
+    "msdyn_indtype": "Promotion",
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indvalue": "{\"OriginalValue\":{\"PromotionalDate\":\"2026-01-13\",\"PromotionName\":\"Anniversary Sale\"},\"VectorSearchQuery\":\"Anniversary Sale on 13th Jan 2026\",\"DayofTheWeek\":\"Tuesday\"}",
+    "msdyn_indsource": "Manifest_demo"
+  },
+  {
+    "msdyn_indsummary": "Live Demo on 14th Jan 2026",
+    "msdyn_indtype": "Promotion",
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indvalue": "{\"OriginalValue\":{\"PromotionalDate\":\"2026-01-14\",\"PromotionName\":\"Live Demo\"},\"VectorSearchQuery\":\"Live Demo on 14th Jan 2026\",\"DayofTheWeek\":\"Wednesday\"}",
+    "msdyn_indsource": "Manifest_demo"
+  },
+  {
+    "msdyn_indsummary": "Product Launch Event on 15th Jan 2026",
+    "msdyn_indtype": "Promotion",
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indvalue": "{\"OriginalValue\":{\"PromotionalDate\":\"2026-01-15\",\"PromotionName\":\"Product Launch Event\"},\"VectorSearchQuery\":\"Product Launch Event on 15th Jan 2026\",\"DayofTheWeek\":\"Thursday\"}",
+    "msdyn_indsource": "Manifest_demo"
   }
 ]
