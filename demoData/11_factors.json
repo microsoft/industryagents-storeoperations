@@ -1,16 +1,44 @@
 [
   {
-    "msdyn_indsummary": "Shipment Delivery - 1300 units arriving on 13th Jan 2026",
+    "msdyn_indsummary": "Shipment Delivery - 1300 units arriving on 13th Jan 2026 (13-01-2026)",
     "msdyn_indtype": "Shipment",
     "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_indvalue": "{\"OriginalValue\":{\"EstimatedDelivery\":\"2026-01-13\",\"unit\":\"1300\"},\"VectorSearchQuery\":\"1300 units to be delivered to store on 13th January 2026\",\"DayofTheWeek\":\"Tuesday\"}",
     "msdyn_indsource": "Manifest_demo"
   },
   {
-    "msdyn_indsummary": "Shipment Delivery - 1500 units arriving on 13th Jan 2026",
+    "msdyn_indsummary": "Shipment Delivery - 1500 units arriving on 13th January 2026 (13-01-2026)",
     "msdyn_indtype": "Shipment",
     "msdyn_indstoreidentifier": "Store1_demo",
     "msdyn_indvalue": "{\"OriginalValue\":{\"EstimatedDelivery\":\"2026-01-13\",\"unit\":\"1500\"},\"VectorSearchQuery\":\"1500 units to be delivered to store on 13th January 2026\",\"DayofTheWeek\":\"Tuesday\"}",
+    "msdyn_indsource": "Manifest_demo"
+  },
+  {
+    "msdyn_indsummary": "Shipment Delivery - 900 units arriving on 15th January 2026 (15-01-2026)",
+    "msdyn_indtype": "Shipment",
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indvalue": "{\"OriginalValue\":{\"EstimatedDelivery\":\"2026-01-15\",\"unit\":\"900\"},\"VectorSearchQuery\":\"900 units to be delivered to store on 15th January 2026\",\"DayofTheWeek\":\"Thursday\"}",
+    "msdyn_indsource": "Manifest_demo"
+  },
+  {
+    "msdyn_indsummary": "Shipment Delivery - 900 units arriving on 15th January 2026 (15-01-2026)",
+    "msdyn_indtype": "Shipment",
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indvalue": "{\"OriginalValue\":{\"EstimatedDelivery\":\"2026-01-15\",\"unit\":\"900\"},\"VectorSearchQuery\":\"900 units to be delivered to store on 15th January 2026\",\"DayofTheWeek\":\"Thursday\"}",
+    "msdyn_indsource": "Manifest_demo"
+  },
+  {
+    "msdyn_indsummary": "Shipment Delivery - 1100 units arriving on 17th January 2026 (17-01-2026)",
+    "msdyn_indtype": "Shipment",
+    "msdyn_indstoreidentifier": "Store0_demo",
+    "msdyn_indvalue": "{\"OriginalValue\":{\"EstimatedDelivery\":\"2026-01-15\",\"unit\":\"1100\"},\"VectorSearchQuery\":\"1100 units to be delivered to store on 17th January 2026\",\"DayofTheWeek\":\"Saturday\"}",
+    "msdyn_indsource": "Manifest_demo"
+  },
+  {
+    "msdyn_indsummary": "Shipment Delivery - 1100 units arriving on 17th January 2026 (17-01-2026)",
+    "msdyn_indtype": "Shipment",
+    "msdyn_indstoreidentifier": "Store1_demo",
+    "msdyn_indvalue": "{\"OriginalValue\":{\"EstimatedDelivery\":\"2026-01-17\",\"unit\":\"1100\"},\"VectorSearchQuery\":\"1100 units to be delivered to store on 17th January 2026\",\"DayofTheWeek\":\"Thursday\"}",
     "msdyn_indsource": "Manifest_demo"
   },
   {
@@ -28,22 +56,22 @@
     "msdyn_indsource": "Manifest_demo"
   },
   {
-    "msdyn_indsummary": "NEW YEAR FRIDAY 30% OFF on 9th Jan 2026",
-    "msdyn_indtype": "Promotion",
+    "msdyn_indsummary": "Promotion: NEW YEAR FRIDAY 30% OFF on 9th Jan 2026",
+    "msdyn_indtype": "Event",
     "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_indvalue": "{\"OriginalValue\":{\"PromotionalDate\":\"2026-01-09\",\"PromotionName\":\"NEW YEAR FRIDAY upto 30% OFF on 9th Jan\"},\"VectorSearchQuery\":\"NEW YEAR FRIDAY upto 30% OFF on 9th Jan\",\"DayofTheWeek\":\"Friday\"}",
     "msdyn_indsource": "Manifest_demo"
   },
   {
-    "msdyn_indsummary": "NEW YEAR FRIDAY 30% OFF on 9th Jan 2026",
-    "msdyn_indtype": "Promotion",
+    "msdyn_indsummary": "Promotion:NEW YEAR FRIDAY 30% OFF on 9th Jan 2026",
+    "msdyn_indtype": "Event",
     "msdyn_indstoreidentifier": "Store1_demo",
     "msdyn_indvalue": "{\"OriginalValue\":{\"PromotionalDate\":\"2026-01-09\",\"PromotionName\":\"NEW YEAR FRIDAY upto 30% OFF on 9th Jan\"},\"VectorSearchQuery\":\"NEW YEAR FRIDAY upto 30% OFF on 9th Jan\",\"DayofTheWeek\":\"Friday\"}",
     "msdyn_indsource": "Manifest_demo"
   },
   {
-    "msdyn_indsummary": "MID-MONTH FRIDAY 25% OFF on 16th Jan 2026",
-    "msdyn_indtype": "Promotion",
+    "msdyn_indsummary": "Promotion: MID-MONTH FRIDAY 25% OFF on 16th Jan 2026",
+    "msdyn_indtype": "Event",
     "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_indvalue": "{\"OriginalValue\":{\"PromotionalDate\":\"2026-01-16\",\"PromotionName\":\"MID-MONTH FRIDAY upto 25% OFF on 16th Jan\"},\"VectorSearchQuery\":\"MID-MONTH FRIDAY upto 25% OFF on 16th Jan\",\"DayofTheWeek\":\"Friday\"}",
     "msdyn_indsource": "Manifest_demo"
@@ -56,36 +84,36 @@
     "msdyn_indsource": "Manifest_demo"
   },
   {
-    "msdyn_indsummary": "WEEKEND PREVIEW 20% OFF on 23rd Jan 2026",
-    "msdyn_indtype": "Promotion",
+    "msdyn_indsummary": "Promotion: WEEKEND PREVIEW 20% OFF on 23rd Jan 2026",
+    "msdyn_indtype": "Event",
     "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_indvalue": "{\"OriginalValue\":{\"PromotionalDate\":\"2026-01-23\",\"PromotionName\":\"WEEKEND PREVIEW upto 20% OFF on 23rd Jan\"},\"VectorSearchQuery\":\"WEEKEND PREVIEW upto 20% OFF on 23rd Jan\",\"DayofTheWeek\":\"Friday\"}",
     "msdyn_indsource": "Manifest_demo"
   },
   {
-    "msdyn_indsummary": "WEEKEND PREVIEW 20% OFF on 23rd Jan 2026",
-    "msdyn_indtype": "Promotion",
+    "msdyn_indsummary": "Promotion: WEEKEND PREVIEW 20% OFF on 23rd Jan 2026",
+    "msdyn_indtype": "Event",
     "msdyn_indstoreidentifier": "Store1_demo",
     "msdyn_indvalue": "{\"OriginalValue\":{\"PromotionalDate\":\"2026-01-23\",\"PromotionName\":\"WEEKEND PREVIEW upto 20% OFF on 23rd Jan\"},\"VectorSearchQuery\":\"WEEKEND PREVIEW upto 20% OFF on 23rd Jan\",\"DayofTheWeek\":\"Friday\"}",
     "msdyn_indsource": "Manifest_demo"
   },
   {
-    "msdyn_indsummary": "Weekend Sale on 10th Jan 2026",
-    "msdyn_indtype": "Promotion",
+    "msdyn_indsummary": "Promotion: Weekend Sale on 10th Jan 2026",
+    "msdyn_indtype": "Event",
     "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_indvalue": "{\"OriginalValue\":{\"PromotionalDate\":\"2026-01-10\",\"PromotionName\":\"Weekend Sale\"},\"VectorSearchQuery\":\"Weekend Sale on 10th Jan 2026\",\"DayofTheWeek\":\"Saturday\"}",
     "msdyn_indsource": "Manifest_demo"
   },
   {
     "msdyn_indsummary": "Product Launch Event on 11th Jan 2026",
-    "msdyn_indtype": "Promotion",
+    "msdyn_indtype": "Event",
     "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_indvalue": "{\"OriginalValue\":{\"PromotionalDate\":\"2026-01-11\",\"PromotionName\":\"Product Launch Event\"},\"VectorSearchQuery\":\"Product Launch Event on 11th Jan 2026\",\"DayofTheWeek\":\"Sunday\"}",
     "msdyn_indsource": "Manifest_demo"
   },
   {
     "msdyn_indsummary": "Anniversary Sale on 12th Jan 2026",
-    "msdyn_indtype": "Promotion",
+    "msdyn_indtype": "Event",
     "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_indvalue": "{\"OriginalValue\":{\"PromotionalDate\":\"2026-01-12\",\"PromotionName\":\"Anniversary Sale\"},\"VectorSearchQuery\":\"Anniversary Sale on 12th Jan 2026\",\"DayofTheWeek\":\"Monday\"}",
     "msdyn_indsource": "Manifest_demo"
@@ -105,15 +133,15 @@
     "msdyn_indsource": "Manifest_demo"
   },
   {
-    "msdyn_indsummary": "Buy One Get One (BOGO) on 15th Jan 2026",
-    "msdyn_indtype": "Promotion",
+    "msdyn_indsummary": "Promotion: Buy One Get One (BOGO) on 15th Jan 2026",
+    "msdyn_indtype": "Event",
     "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_indvalue": "{\"OriginalValue\":{\"PromotionalDate\":\"2026-01-15\",\"PromotionName\":\"Buy One Get One (BOGO)\"},\"VectorSearchQuery\":\"Buy One Get One (BOGO) on 15th Jan 2026\",\"DayofTheWeek\":\"Thursday\"}",
     "msdyn_indsource": "Manifest_demo"
   },
   {
-    "msdyn_indsummary": "Clearance Sale on 10th Jan 2026",
-    "msdyn_indtype": "Promotion",
+    "msdyn_indsummary": "Promotion :Clearance Sale on 10th Jan 2026",
+    "msdyn_indtype": "Event",
     "msdyn_indstoreidentifier": "Store1_demo",
     "msdyn_indvalue": "{\"OriginalValue\":{\"PromotionalDate\":\"2026-01-10\",\"PromotionName\":\"Clearance Sale\"},\"VectorSearchQuery\":\"Clearance Sale on 10th Jan 2026\",\"DayofTheWeek\":\"Saturday\"}",
     "msdyn_indsource": "Manifest_demo"
@@ -154,4 +182,5 @@
     "msdyn_indsource": "Manifest_demo"
   }
 ]
+
 
