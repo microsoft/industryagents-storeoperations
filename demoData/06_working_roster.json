@@ -7876,7 +7876,7 @@
     "msdyn_name": "working_roster_2580_demo",
     "msdyn_inddate": "2025-01-13",
     "msdyn_indnumberofemployees": 2,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indtotalnumberofemployees": 17,
     "msdyn_indstartofthehour": "09:00:00"
   },
   {
@@ -7884,7 +7884,7 @@
     "msdyn_name": "working_roster_2581_demo",
     "msdyn_inddate": "2025-01-13",
     "msdyn_indnumberofemployees": 2,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indtotalnumberofemployees": 17,
     "msdyn_indstartofthehour": "10:00:00"
   },
   {
@@ -7892,7 +7892,7 @@
     "msdyn_name": "working_roster_2582_demo",
     "msdyn_inddate": "2025-01-13",
     "msdyn_indnumberofemployees": 2,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indtotalnumberofemployees": 17,
     "msdyn_indstartofthehour": "11:00:00"
   },
   {
@@ -7900,7 +7900,7 @@
     "msdyn_name": "working_roster_2583_demo",
     "msdyn_inddate": "2025-01-13",
     "msdyn_indnumberofemployees": 3,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indtotalnumberofemployees": 17,
     "msdyn_indstartofthehour": "12:00:00"
   },
   {
@@ -7908,7 +7908,7 @@
     "msdyn_name": "working_roster_2584_demo",
     "msdyn_inddate": "2025-01-13",
     "msdyn_indnumberofemployees": 3,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indtotalnumberofemployees": 17,
     "msdyn_indstartofthehour": "13:00:00"
   },
   {
@@ -7916,55 +7916,55 @@
     "msdyn_name": "working_roster_2585_demo",
     "msdyn_inddate": "2025-01-13",
     "msdyn_indnumberofemployees": 3,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indtotalnumberofemployees": 17,
     "msdyn_indstartofthehour": "14:00:00"
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_name": "working_roster_2586_demo",
     "msdyn_inddate": "2025-01-13",
-    "msdyn_indnumberofemployees": 3,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indnumberofemployees": 7,
+    "msdyn_indtotalnumberofemployees": 17,
     "msdyn_indstartofthehour": "15:00:00"
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_name": "working_roster_2587_demo",
     "msdyn_inddate": "2025-01-13",
-    "msdyn_indnumberofemployees": 3,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indnumberofemployees": 7,
+    "msdyn_indtotalnumberofemployees": 17,
     "msdyn_indstartofthehour": "16:00:00"
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_name": "working_roster_2588_demo",
     "msdyn_inddate": "2025-01-13",
-    "msdyn_indnumberofemployees": 3,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indnumberofemployees": 7,
+    "msdyn_indtotalnumberofemployees": 17,
     "msdyn_indstartofthehour": "17:00:00"
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_name": "working_roster_2589_demo",
     "msdyn_inddate": "2025-01-13",
-    "msdyn_indnumberofemployees": 3,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indnumberofemployees": 7,
+    "msdyn_indtotalnumberofemployees": 17,
     "msdyn_indstartofthehour": "18:00:00"
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_name": "working_roster_2590_demo",
     "msdyn_inddate": "2025-01-13",
-    "msdyn_indnumberofemployees": 3,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indnumberofemployees": 7,
+    "msdyn_indtotalnumberofemployees": 17,
     "msdyn_indstartofthehour": "19:00:00"
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_name": "working_roster_2591_demo",
     "msdyn_inddate": "2025-01-13",
-    "msdyn_indnumberofemployees": 3,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indnumberofemployees": 7,
+    "msdyn_indtotalnumberofemployees": 17,
     "msdyn_indstartofthehour": "20:00:00"
   },
   {
@@ -8068,7 +8068,7 @@
     "msdyn_name": "working_roster_2604_demo",
     "msdyn_inddate": "2025-01-15",
     "msdyn_indnumberofemployees": 2,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indtotalnumberofemployees": 18,
     "msdyn_indstartofthehour": "09:00:00"
   },
   {
@@ -8076,7 +8076,7 @@
     "msdyn_name": "working_roster_2605_demo",
     "msdyn_inddate": "2025-01-15",
     "msdyn_indnumberofemployees": 2,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indtotalnumberofemployees": 18,
     "msdyn_indstartofthehour": "10:00:00"
   },
   {
@@ -8084,7 +8084,7 @@
     "msdyn_name": "working_roster_2606_demo",
     "msdyn_inddate": "2025-01-15",
     "msdyn_indnumberofemployees": 2,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indtotalnumberofemployees": 18,
     "msdyn_indstartofthehour": "11:00:00"
   },
   {
@@ -8092,7 +8092,7 @@
     "msdyn_name": "working_roster_2607_demo",
     "msdyn_inddate": "2025-01-15",
     "msdyn_indnumberofemployees": 3,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indtotalnumberofemployees": 18,
     "msdyn_indstartofthehour": "12:00:00"
   },
   {
@@ -8100,47 +8100,47 @@
     "msdyn_name": "working_roster_2608_demo",
     "msdyn_inddate": "2025-01-15",
     "msdyn_indnumberofemployees": 3,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indtotalnumberofemployees": 18,
     "msdyn_indstartofthehour": "13:00:00"
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_name": "working_roster_2609_demo",
     "msdyn_inddate": "2025-01-15",
-    "msdyn_indnumberofemployees": 3,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indnumberofemployees": 6,
+    "msdyn_indtotalnumberofemployees": 18,
     "msdyn_indstartofthehour": "14:00:00"
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_name": "working_roster_2610_demo",
     "msdyn_inddate": "2025-01-15",
-    "msdyn_indnumberofemployees": 3,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indnumberofemployees": 6,
+    "msdyn_indtotalnumberofemployees": 18,
     "msdyn_indstartofthehour": "15:00:00"
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_name": "working_roster_2611_demo",
     "msdyn_inddate": "2025-01-15",
-    "msdyn_indnumberofemployees": 3,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indnumberofemployees": 6,
+    "msdyn_indtotalnumberofemployees": 18,
     "msdyn_indstartofthehour": "16:00:00"
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_name": "working_roster_2612_demo",
     "msdyn_inddate": "2025-01-15",
-    "msdyn_indnumberofemployees": 3,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indnumberofemployees": 6,
+    "msdyn_indtotalnumberofemployees": 18,
     "msdyn_indstartofthehour": "17:00:00"
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_name": "working_roster_2613_demo",
     "msdyn_inddate": "2025-01-15",
-    "msdyn_indnumberofemployees": 3,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indnumberofemployees": 6,
+    "msdyn_indtotalnumberofemployees": 18,
     "msdyn_indstartofthehour": "18:00:00"
   },
   {
@@ -8148,7 +8148,7 @@
     "msdyn_name": "working_roster_2614_demo",
     "msdyn_inddate": "2025-01-15",
     "msdyn_indnumberofemployees": 3,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indtotalnumberofemployees": 18,
     "msdyn_indstartofthehour": "19:00:00"
   },
   {
@@ -8156,7 +8156,7 @@
     "msdyn_name": "working_roster_2615_demo",
     "msdyn_inddate": "2025-01-15",
     "msdyn_indnumberofemployees": 3,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indtotalnumberofemployees": 18,
     "msdyn_indstartofthehour": "20:00:00"
   },
   {
@@ -8260,7 +8260,7 @@
     "msdyn_name": "working_roster_2628_demo",
     "msdyn_inddate": "2025-01-17",
     "msdyn_indnumberofemployees": 2,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indtotalnumberofemployees": 20,
     "msdyn_indstartofthehour": "09:00:00"
   },
   {
@@ -8268,7 +8268,7 @@
     "msdyn_name": "working_roster_2629_demo",
     "msdyn_inddate": "2025-01-17",
     "msdyn_indnumberofemployees": 2,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indtotalnumberofemployees": 20,
     "msdyn_indstartofthehour": "10:00:00"
   },
   {
@@ -8276,7 +8276,7 @@
     "msdyn_name": "working_roster_2630_demo",
     "msdyn_inddate": "2025-01-17",
     "msdyn_indnumberofemployees": 2,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indtotalnumberofemployees": 20,
     "msdyn_indstartofthehour": "11:00:00"
   },
   {
@@ -8284,7 +8284,7 @@
     "msdyn_name": "working_roster_2631_demo",
     "msdyn_inddate": "2025-01-17",
     "msdyn_indnumberofemployees": 3,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indtotalnumberofemployees": 20,
     "msdyn_indstartofthehour": "12:00:00"
   },
   {
@@ -8292,7 +8292,7 @@
     "msdyn_name": "working_roster_2632_demo",
     "msdyn_inddate": "2025-01-17",
     "msdyn_indnumberofemployees": 3,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indtotalnumberofemployees": 20,
     "msdyn_indstartofthehour": "13:00:00"
   },
   {
@@ -8300,7 +8300,7 @@
     "msdyn_name": "working_roster_2633_demo",
     "msdyn_inddate": "2025-01-17",
     "msdyn_indnumberofemployees": 3,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indtotalnumberofemployees": 20,
     "msdyn_indstartofthehour": "14:00:00"
   },
   {
@@ -8308,47 +8308,47 @@
     "msdyn_name": "working_roster_2634_demo",
     "msdyn_inddate": "2025-01-17",
     "msdyn_indnumberofemployees": 3,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indtotalnumberofemployees": 20,
     "msdyn_indstartofthehour": "15:00:00"
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_name": "working_roster_2635_demo",
     "msdyn_inddate": "2025-01-17",
-    "msdyn_indnumberofemployees": 3,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indnumberofemployees": 8,
+    "msdyn_indtotalnumberofemployees": 20,
     "msdyn_indstartofthehour": "16:00:00"
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_name": "working_roster_2636_demo",
     "msdyn_inddate": "2025-01-17",
-    "msdyn_indnumberofemployees": 3,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indnumberofemployees": 8,
+    "msdyn_indtotalnumberofemployees": 20,
     "msdyn_indstartofthehour": "17:00:00"
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_name": "working_roster_2637_demo",
     "msdyn_inddate": "2025-01-17",
-    "msdyn_indnumberofemployees": 3,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indnumberofemployees": 8,
+    "msdyn_indtotalnumberofemployees": 20,
     "msdyn_indstartofthehour": "18:00:00"
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_name": "working_roster_2638_demo",
     "msdyn_inddate": "2025-01-17",
-    "msdyn_indnumberofemployees": 3,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indnumberofemployees": 8,
+    "msdyn_indtotalnumberofemployees": 20,
     "msdyn_indstartofthehour": "19:00:00"
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_name": "working_roster_2639_demo",
     "msdyn_inddate": "2025-01-17",
-    "msdyn_indnumberofemployees": 3,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indnumberofemployees": 8,
+    "msdyn_indtotalnumberofemployees": 20,
     "msdyn_indstartofthehour": "20:00:00"
   },
   {
@@ -8356,7 +8356,7 @@
     "msdyn_name": "working_roster_2640_demo",
     "msdyn_inddate": "2025-01-18",
     "msdyn_indnumberofemployees": 2,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indtotalnumberofemployees": 21,
     "msdyn_indstartofthehour": "09:00:00"
   },
   {
@@ -8364,7 +8364,7 @@
     "msdyn_name": "working_roster_2641_demo",
     "msdyn_inddate": "2025-01-18",
     "msdyn_indnumberofemployees": 2,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indtotalnumberofemployees": 21,
     "msdyn_indstartofthehour": "10:00:00"
   },
   {
@@ -8372,7 +8372,7 @@
     "msdyn_name": "working_roster_2642_demo",
     "msdyn_inddate": "2025-01-18",
     "msdyn_indnumberofemployees": 2,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indtotalnumberofemployees": 21,
     "msdyn_indstartofthehour": "11:00:00"
   },
   {
@@ -8380,7 +8380,7 @@
     "msdyn_name": "working_roster_2643_demo",
     "msdyn_inddate": "2025-01-18",
     "msdyn_indnumberofemployees": 4,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indtotalnumberofemployees": 21,
     "msdyn_indstartofthehour": "12:00:00"
   },
   {
@@ -8388,7 +8388,7 @@
     "msdyn_name": "working_roster_2644_demo",
     "msdyn_inddate": "2025-01-18",
     "msdyn_indnumberofemployees": 4,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indtotalnumberofemployees": 21,
     "msdyn_indstartofthehour": "13:00:00"
   },
   {
@@ -8396,47 +8396,47 @@
     "msdyn_name": "working_roster_2645_demo",
     "msdyn_inddate": "2025-01-18",
     "msdyn_indnumberofemployees": 4,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indtotalnumberofemployees": 21,
     "msdyn_indstartofthehour": "14:00:00"
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_name": "working_roster_2646_demo",
     "msdyn_inddate": "2025-01-18",
-    "msdyn_indnumberofemployees": 4,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indnumberofemployees": 9,
+    "msdyn_indtotalnumberofemployees": 21,
     "msdyn_indstartofthehour": "15:00:00"
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_name": "working_roster_2647_demo",
     "msdyn_inddate": "2025-01-18",
-    "msdyn_indnumberofemployees": 4,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indnumberofemployees": 9,
+    "msdyn_indtotalnumberofemployees": 21,
     "msdyn_indstartofthehour": "16:00:00"
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_name": "working_roster_2648_demo",
     "msdyn_inddate": "2025-01-18",
-    "msdyn_indnumberofemployees": 4,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indnumberofemployees": 9,
+    "msdyn_indtotalnumberofemployees": 21,
     "msdyn_indstartofthehour": "17:00:00"
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_name": "working_roster_2649_demo",
     "msdyn_inddate": "2025-01-18",
-    "msdyn_indnumberofemployees": 4,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indnumberofemployees": 9,
+    "msdyn_indtotalnumberofemployees": 21,
     "msdyn_indstartofthehour": "18:00:00"
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_name": "working_roster_2650_demo",
     "msdyn_inddate": "2025-01-18",
-    "msdyn_indnumberofemployees": 4,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indnumberofemployees": 9,
+    "msdyn_indtotalnumberofemployees": 21,
     "msdyn_indstartofthehour": "19:00:00"
   },
   {
@@ -8444,7 +8444,7 @@
     "msdyn_name": "working_roster_2651_demo",
     "msdyn_inddate": "2025-01-18",
     "msdyn_indnumberofemployees": 4,
-    "msdyn_indtotalnumberofemployees": 13,
+    "msdyn_indtotalnumberofemployees": 21,
     "msdyn_indstartofthehour": "20:00:00"
   },
   {
@@ -14208,5 +14208,6 @@
     "msdyn_indstartofthehour": "20:00:00"
   }
 ]
+
 
 
