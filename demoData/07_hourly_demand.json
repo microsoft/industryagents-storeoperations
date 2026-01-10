@@ -10494,40 +10494,40 @@
     "msdyn_name": "hourly_demand_2645_demo",
     "msdyn_inddate": "2025-01-18",
     "msdyn_indhourstarttime": "14:00:00",
-    "msdyn_indsalesamount": 1605,
+    "msdyn_indsalesamount": 3100,
     "msdyn_indtransactioncount": 5,
-    "msdyn_indnumberofpassersby": 410,
-    "msdyn_indnumberofvisitors": 41
+    "msdyn_indnumberofpassersby": 610,
+    "msdyn_indnumberofvisitors": 80
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_name": "hourly_demand_2646_demo",
     "msdyn_inddate": "2025-01-18",
     "msdyn_indhourstarttime": "15:00:00",
-    "msdyn_indsalesamount": 1622,
+    "msdyn_indsalesamount": 3000,
     "msdyn_indtransactioncount": 7,
-    "msdyn_indnumberofpassersby": 480,
-    "msdyn_indnumberofvisitors": 48
+    "msdyn_indnumberofpassersby": 600,
+    "msdyn_indnumberofvisitors": 85
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_name": "hourly_demand_2647_demo",
     "msdyn_inddate": "2025-01-18",
     "msdyn_indhourstarttime": "16:00:00",
-    "msdyn_indsalesamount": 1892,
+    "msdyn_indsalesamount": 3300,
     "msdyn_indtransactioncount": 7,
-    "msdyn_indnumberofpassersby": 480,
-    "msdyn_indnumberofvisitors": 48
+    "msdyn_indnumberofpassersby": 600,
+    "msdyn_indnumberofvisitors": 85
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
     "msdyn_name": "hourly_demand_2648_demo",
     "msdyn_inddate": "2025-01-18",
     "msdyn_indhourstarttime": "17:00:00",
-    "msdyn_indsalesamount": 1622,
+    "msdyn_indsalesamount": 3010,
     "msdyn_indtransactioncount": 7,
-    "msdyn_indnumberofpassersby": 480,
-    "msdyn_indnumberofvisitors": 48
+    "msdyn_indnumberofpassersby": 600,
+    "msdyn_indnumberofvisitors": 86
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
@@ -10536,8 +10536,8 @@
     "msdyn_indhourstarttime": "18:00:00",
     "msdyn_indsalesamount": 2197,
     "msdyn_indtransactioncount": 8,
-    "msdyn_indnumberofpassersby": 300,
-    "msdyn_indnumberofvisitors": 30
+    "msdyn_indnumberofpassersby": 600,
+    "msdyn_indnumberofvisitors": 89
   },
   {
     "msdyn_indstoreidentifier": "Store0_demo",
@@ -17760,4 +17760,5 @@
     "msdyn_indnumberofvisitors": 37
   }
 ]
+
 
